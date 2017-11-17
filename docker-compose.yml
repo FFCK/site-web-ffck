@@ -1,0 +1,150 @@
+version: '3'
+
+networks:
+  front:
+    driver: overlay
+  back:
+    driver: overlay
+
+
+services:
+
+  web:
+    # image: php:7.1.11-apache-jessie
+    image: wordpress:4.8.3-php7.1-apache
+    # image: nanoninja/php-fpm:7.1
+    # entrypoint: php ffck_org/index.php
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 1m
+      restart_policy:
+        condition: none
+        # condition: on-failure
+        window: 2m
+    environment:
+      COMPET_DB_HOST: db
+      COMPET_DB_NAME: ${COMPET_DB_NAME}
+      COMPET_DB_USER: ${COMPET_DB_USER}
+      COMPET_DB_PASSWORD: ${COMPET_DB_PASSWORD}
+      CLUBS_DB_HOST: db
+      CLUBS_DB_NAME: ${CLUBS_DB_NAME}
+      CLUBS_DB_USER: ${CLUBS_DB_USER}
+      CLUBS_DB_PASSWORD: ${CLUBS_DB_PASSWORD}
+      OBS_HOST: ${OBS_HOST}
+      OBS_USER: ${OBS_USER}
+      OBS_PASSWORD: ${OBS_PASSWORD_PREPROD}
+      WP_DB_HOST: db
+      WP_DB_NAME: ${WP_DB_NAME}
+      WP_DB_USER: ${WP_DB_USER}
+      WP_DB_PASSWORD: ${WP_DB_PASSWORD}
+      WP_AUTH_KEY: ${WP_AUTH_KEY}
+      WP_SECURE_AUTH_KEY: ${WP_SECURE_AUTH_KEY}
+      WP_LOGGED_IN_KEY: ${WP_LOGGED_IN_KEY}
+      WP_NONCE_KEY: ${WP_NONCE_KEY}
+      WP_AUTH_SALT: ${WP_AUTH_SALT}
+      WP_SECURE_AUTH_SALT: ${WP_SECURE_AUTH_SALT}
+      WP_LOGGED_IN_SALT: ${WP_LOGGED_IN_SALT}
+      WP_NONCE_SALT: ${WP_NONCE_SALT}
+    ports:
+      # - "8080:9000"
+      - "80:80"
+    volumes:
+      - ${DATA_PATH}/ffck_org:/var/www/html
+      # - ${DATA_PATH}/ffck_org:/var/www/html/ffck_org
+    networks:
+      - front
+      - back
+    depends_on:
+      - db
+
+  db:
+    image: mariadb:10.3.2
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 1m
+      restart_policy:
+        condition: on-failure
+        window: 2m
+    volumes:
+      - ${DATA_PATH}/mysql:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: ${WP_DB_PASSWORD}
+      MYSQL_USER: ${WP_DB_USER}
+      MYSQL_PASSWORD: ${WP_DB_PASSWORD}
+      MYSQL_DATABASE: ${WP_DB_NAME}
+    networks:
+      - back
+
+  admin:
+    image: phpmyadmin/phpmyadmin:4.7.5-1
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 1m
+      restart_policy:
+        condition: on-failure
+        window: 2m
+    environment:
+      PMA_HOST: db
+      PMA_ARBITRARY: "1"
+      PMA_USER: ${WP_DB_USER}
+      PMA_PASSWORD: ${WP_DB_PASSWORD}
+      PMA_PORT: 3306
+    ports:
+      - "8180:80"
+    networks:
+      - front
+      - back
+    depends_on:
+      - db
+
+
+  portainer:
+    image: portainer/portainer:1.15.0
+    command: -H unix:///var/run/docker.sock
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 1m
+      restart_policy:
+        condition: on-failure
+        delay: 1m
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ${DATA_PATH}/portainer:/data
+    ports:
+      - "8280:9000"
+    networks:
+      - front
+
+  cadvisor:
+    image: google/cadvisor:v0.28.0
+    ports:
+      - "8380:8080"
+    deploy:
+      mode: replicated
+      replicas: 1
+      update_config:
+        parallelism: 1
+        delay: 1m
+      restart_policy:
+        condition: on-failure
+        delay: 1m
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:rw
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+      - /dev/disk/:/dev/disk:ro
+    networks:
+      - front

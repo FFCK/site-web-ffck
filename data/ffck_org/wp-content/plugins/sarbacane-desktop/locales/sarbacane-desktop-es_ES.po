@@ -1,0 +1,522 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.8.6\n"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:14
+msgid "Sarbacane Desktop"
+msgstr "Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:14
+msgid "configuration"
+msgstr "Configuración"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:44
+msgid "email"
+msgstr "Email"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:38
+msgid "For more details"
+msgstr "Leer más"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:38
+msgid "https://www.sarbacane.com/ws/soft-redirect.asp?key=9Y4OtEZzaz&com=WordpressInfo"
+msgstr "https://www.sarbacane.com/ws/soft-redirect.asp?key=9Y4OtEZzaz&com=WordpressInfo"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:46
+msgid "For more informations, please take a look to our website"
+msgstr "Para más información, por favor, visita nuestra página web"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:22
+msgid "Generate a key"
+msgstr "Generar una nueva clave"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:35
+msgid "Go in the plugins menu of Sarbacane Desktop and activate wordpress plugin"
+msgstr "Activa la extensión WordPress desde el menú ''Extensiones'' en Sarbacane Desktop e introduce los siguientes datos:"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:33
+msgid "How to set up the module ?"
+msgstr "¿Cómo configurar el módulo?"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:42
+msgid "Need help ?"
+msgstr "¿Necesitas ayuda?"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:9
+msgid "sarbacane_desktop"
+msgstr "sarbacane_desktop"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:46
+msgid "http://sarbacane.com/?utm_source=module-wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress"
+msgstr "http://sarbacane.com/?utm_source=module-wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:46
+msgid "http://www.sarbacane.com"
+msgstr "http://www.sarbacane.com"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:44
+msgid "support_at_sarbacane_dot_com"
+msgstr "support@sarbacane.com"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:45
+msgid "+33(0) 328 328 040"
+msgstr "+33(0) 328 328 040"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:20
+msgid "Synchronization key to enter in Sarbacane Desktop"
+msgstr "Clave a insertar en Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:39
+msgid "Take a look at the help section online"
+msgstr "ayuda en línea"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:45
+msgid "tel"
+msgstr "Tel"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:18
+msgid "URL to paste in Sarbacane Desktop"
+msgstr "URL a indicar en Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:12
+msgid "Use this tool to add a form widget to your website that will allow subscribers to sign up and be automatically added to your email list."
+msgstr "Esta herramienta te permite configurar un widget WordPress a añadir en tu página. Este widget añadirá en tu lista los detalles de cada suscriptor"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:7
+msgid "Sarbacane Desktop widget setup"
+msgstr "Configuración del widget WordPress"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:6
+msgid "sarbacane"
+msgstr "Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:6
+msgid "Sarbacane Desktop Widget"
+msgstr "Widget Sarbacane Desktop"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "All fields in the widget will be shown in your contact lists with the contact they're associated with."
+msgstr "Los campos configurados en el widget son los que verás en la lista de Sarbacane Desktop"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Sarbacane Desktop Newsletter"
+msgstr "Newsletter Sarbacane Desktop"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Field name"
+msgstr "Nombre del campo"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Default field value"
+msgstr "Valor por defecto del campo"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "The default value will be saved if the user does not provide information"
+msgstr "El valor por defecto será utilizado si el usuario no rellena información"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Widget ID"
+msgstr "Identidad del widget"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Title"
+msgstr "Título"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Description"
+msgstr "Descripción"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Widget fields"
+msgstr "Campos del widget"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Add field"
+msgstr "Añadir un campo"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Required fields"
+msgstr "Campos obligatorios"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Widget preview"
+msgstr "Previsualizar el widget"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Save"
+msgstr "Guardar la configuración"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Setup this widget by clicking the Sarbacane Desktop widget menu"
+msgstr "Configurar este widget a través del menú Widget Sarbacane Desktop"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Have visitors fill out this form and the associated list will be updated accordingly"
+msgstr "Actualiza una lista de contactos en Sarbacane Desktop gracias a este formulario rellenado por tus visitantes"
+
+#. Text in function
+#: class.sarbacanedesktop-widget.php:1
+msgid "Fields marked with * are mandatory"
+msgstr "Los campos con el símbolo * son obligatorios"
+
+msgid "Mandatory"
+msgstr "Obligatorio"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:75
+msgid "Live tech support and a variety of helpful resources: videos, tutorials, manuals, and a blog full of advice..."
+msgstr "Soporte técnico y numerosos recursos para asistirte: vídeos, tutoriales, guías, consejos..."
+
+#. Text in echo
+#: sarbacanedesktop-about.php:74
+msgid "All you need to succeed: design, customize, send, and analyze your campaigns"
+msgstr "Todo lo que necesitas para tener éxito: diseño, personalización, envío y seguimiento de tus campañas"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:73
+msgid "Awarded Best Emailing Solution by Bsoco Awards (an index that compares emailing solutions"
+msgstr "Elegidos como Mejor Solución de Emailing por los Premios Bsoco"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:15
+msgid "Begin the set-up"
+msgstr "Iniciar configuración"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:63 sarbacanedesktop-about.php:71
+msgid "Create your free account and start sending emails"
+msgstr "Creación de cuenta y primeros envíos gratuitos"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:43
+msgid "Detailed statistics"
+msgstr "Estadísticas detalladas"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:47
+msgid "Geolocation, openings, read time, clicks, opt-outs..."
+msgstr "Geolocalización, aperturas, tiempos de lectura, clics, bajas,..."
+
+#. Text in echo
+#: sarbacanedesktop-about.php:7
+msgid "Easily manage your newsletters and email marketing campaigns"
+msgstr "Gestiona tus newsletters y emailing con facilidad"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:37
+msgid "NEW! Create beautiful, mobile-responsive emails with the EmailBuilder"
+msgstr "¡NUEVO! Crea plantillas de newsletter impresionantes con el EmailBuilder"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:64
+msgid "No strings attached"
+msgstr "Oferta sin compromisos"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:53
+msgid "Optimal deliverability"
+msgstr "Entregabilidad óptima"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:57
+msgid "Best in class deliverability thanks for our unrivaled routing platform"
+msgstr "Entregabilidad optimizada gracias a nuestra reconocida plataforma de enrutamiento profesional"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:33
+msgid "Responsive visual editor"
+msgstr "Editor gráfico responsive"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:23
+msgid "Synchronization of your website data"
+msgstr "Datos de la tienda sincronizados"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:27
+msgid "Synchronize and manage all the email lists from your WordPress website"
+msgstr "Sincroniza y gestiona todas tus listas de tu página WordPress"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:14
+msgid "This module lets you synchronize subscribers and accounts from your WordPress site with Sarbacane Desktop to take advantage of all its email marketing features."
+msgstr "Este módulo WordPress permite sincronizar las cuentas y altas en la newsletter de tu tienda online con la aplicación de mailing Sarbacane Desktop, y disfrutar de innumerables características..."
+
+#. Text in echo
+#: sarbacanedesktop-about.php:72
+msgid "Loved by over 25,000 users"
+msgstr "Más de 20.000 usuarios en España y Francia están encantados por Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:92
+msgid "website"
+msgstr "Web"
+
+#. Text in echo
+#: sarbacanedesktop-about.php:69
+msgid "Why choose Sarbacane Desktop ?"
+msgstr "¿Por qué elegir Sarbacane Desktop?"
+
+#. Text in echo
+#: sarbacanedesktop-lists-sync.php:21
+msgid "Automatically synchronize your subscriber list"
+msgstr "Sincronizar una lista \"Inscripción WordPress\""
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:108
+msgid "All data from the widget will be available in your list"
+msgstr "Todos los campos del widget estarán en la lista"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:109
+msgid "Any changes in the structure of the form will cause a refresh of the associated list in Sarbacane Desktop."
+msgstr "El cambio de la estructura del widget supondrá la reinicialización de la lista en Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:47
+msgid "Field"
+msgstr "Campo"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:10
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:104
+msgid "Information"
+msgstr "Informaciones"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:55
+msgid "Name"
+msgstr "Título"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:79
+msgid "Button name"
+msgstr "Botón de validación"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:59
+msgid "Required"
+msgstr "Obligatorio"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:84
+msgid "Successful form submission message"
+msgstr "Mensaje al registrarse"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:61
+msgid "no"
+msgstr "No"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:57
+msgid "placeholder"
+msgstr "Texto por defecto"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:97
+msgid "preview"
+msgstr "Vista Previa"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:9
+msgid "Text to display in the field"
+msgstr "Texto a mostrar en el campo"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:106
+msgid "This tool allows you to create a form widget that you can add to WordPress"
+msgstr "Esta herramienta te permite configurar un widget a añadir en tu página WordPress"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:107
+msgid "The widget will sync subscribers with your Sarbacane Desktop contact list"
+msgstr "Este widget añadirá direcciones en una lista de Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:18
+msgid "Widget settings"
+msgstr "Parámetros del widget"
+
+#. Text in echo
+#: sarbacanedesktop-widget-adminpanel.php:60
+msgid "yes"
+msgstr "Sí"
+
+#. Text in echo
+#: sarbacanedesktop-lists-sync.php:21
+msgid "Synchronize a ''WordPress Users'' list"
+msgstr "Sincronizar una lista \"usuarios de WordPress\""
+
+#. Text in echo
+#: sarbacanedesktop-lists-sync.php:30
+msgid "save"
+msgstr "Guardar"
+
+#. Text in echo
+#: sarbacanedesktop-lists-sync.php:18
+msgid "Lists synchronization in Sarbacane Desktop"
+msgstr "Sincronización de las listas en Sarbacane Desktop"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:24
+msgid "Connected"
+msgstr "Conectada"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:37
+msgid "Generate another key"
+msgstr "Generar una nueva clave"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:24
+msgid "Disconnected"
+msgstr "No conectado"
+
+#. Text in echo
+#: sarbacanedesktop-adminpanel.php:47
+msgid "Setup the widget"
+msgstr "Configurar el widget"
+
+#. Text in echo
+msgid "Lists sync."
+msgstr "Sincronización de las listas"
+
+#. Text in echo
+msgid "widget"
+msgstr "Widget"
+
+#. Text in echo
+msgid "about"
+msgstr "Acerca de"
+
+#. Text in echo
+msgid "a_new_key_has_been_generated"
+msgstr "Se ha generado una clave"
+
+#. Text in echo
+msgid "This plugin allows you to synchronize your WordPress data in Sarbacane Desktop"
+msgstr "Este plugin te permite sincronizar los datos de tu WordPress en Sarbacane Desktop"
+
+#. Text in echo
+msgid "caution_disabling_this_list_will_also_disable_the_widget_sarbacane_desktop_s_list_will_be_deleted_do_you_want_to_continue"
+msgstr "Cuidado, si desactiva esta lista, el widget 'Formulario de contacto' será desactivado también. La lista en Sarbacane Desktop será eliminada. ¿Desea continuar?"
+
+#. Text in echo
+msgid "newsletter"
+msgstr "Newsletter"
+
+#. Text in echo
+msgid "get_our_news_and_promotion_monthly"
+msgstr "Recibe nuestras noticias y promociones cada mes"
+
+#. Text in echo
+msgid "congrats_you_just_opt_in_our_newsletter"
+msgstr "¡Enhorabuena! Acabas de inscribirte a nuestra newsletter"
+
+#. Text in echo
+msgid "Lists synchronization"
+msgstr "Sincronización de las listas"
+
+#. Text in echo
+msgid "Advanced settings"
+msgstr "Parámetros avanzados"
+
+#. Text in echo
+msgid "Synchronize your WordPress theme"
+msgstr "Sincronizar el tema del blog"
+
+#. Text in echo
+msgid "Synchronize blog content"
+msgstr "Sincronizar los artículos del blog"
+
+#. Text in echo
+msgid "Synchronize media library"
+msgstr "Sincronizar la biblioteca de medios"
+
+#. Text in echo
+msgid "Synchronize RSS data"
+msgstr "Sincronizar las noticias RSS"
+
+#. Text in echo
+msgid "Sarbacane Desktop's plugin setup"
+msgstr "Configuración del modulo Sarbacane Desktop"
+
+#. Text in echo
+msgid "Connection"
+msgstr "Interconexión"
+
+#. Text in echo
+msgid "Creates a WordPress users list in Sarbacane Desktop with all users who have an account on your blog or website."
+msgstr "Creación de una lista 'Usuarios WordPress' en Sarbacane Desktop que contiene todos los usuarios que disponen de una cuenta en su blog o página web."
+
+#. Text in echo
+msgid "Enables the widget menu on the left menu. It allows you to create an opt-in form which adds subscribers to a list in Sarbacane Desktop. This contact list will only be accessible in Sarbacane Desktop"
+msgstr "Activa el menú 'Widget' en el menú lateral. Este permite crear un formulario opt-in para alimentar una lista de suscriptores en Sarbacane Desktop. Esta lista de contactos será accessible únicamente en Sarbacane Desktop."
+
+#. Text in echo
+msgid "Import the four main colors of your blog into a custom theme for the EmailBuilder"
+msgstr "Permite importar los cuatro colores principales de tu blog en un tema personalizado del EmailBuilder."
+
+#. Text in echo
+msgid "Import all your post content in the EmailBuilder's blocks"
+msgstr "Permite importar el contenido de tus artículos en los módulos del EmailBuilder."
+
+#. Text in echo
+msgid "Import elements from your WordPress media library into the EmailBuilder image blocks"
+msgstr "Permite importar elementos de tu biblioteca multimedia de WordPress en los módulos de imagen del EmailBuilder."
+
+#. Text in echo
+msgid "Add your blog as a source for the EmailBuilder's RSS module"
+msgstr "Añade tu blog como fuente en los módulos RSS del EmailBuilder."

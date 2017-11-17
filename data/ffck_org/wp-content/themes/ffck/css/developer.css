@@ -1,0 +1,60 @@
+.tv_image{ position:relative; }
+.tv_image iframe { position:absolute; left:0px; top:0px; width:100%; height:100%; }
+
+/*............Mega Menu Start............*/
+
+#megaMenu ul.megaMenu > li.menu-item.ss-nav-menu-mega > ul.sub-menu-1 {
+	background:#1e64af !important;
+	border-bottom:7px solid #549fd0 !important;
+	box-shadow:none !important;
+	margin-top:-15px;
+	z-index:99;
+	padding:40px 0px 80px 0px;
+}
+#megaMenu.megaMenu-nojs ul ul.sub-menu {
+	/*display:block !important;*/
+}
+#megaMenu ul li.menu-item.ss-nav-menu-mega ul ul.sub-menu li.menu-item {
+	line-height:24px;
+}
+#megaMenu ul li.menu-item.ss-nav-menu-mega ul ul.sub-menu.sub-menu-2 li.menu-item a {
+	font-family: 'sansationbold';
+	font-size:18px !important;
+	color:#FFF !important;
+	text-transform:uppercase;
+	opacity:1;
+	margin-bottom:15px;
+}
+#megaMenu ul li.menu-item.ss-nav-menu-mega ul ul.sub-menu.sub-menu-3 li.menu-item a, 
+#megaMenu ul li.menu-item.ss-nav-menu-mega ul ul.sub-menu.sub-menu-3 li.menu-item span.um-anchoremulator, 
+#megaMenu ul ul.sub-menu.sub-menu-3 li.menu-item a, 
+#megaMenu ul ul.sub-menu.sub-menu-3 li.menu-item span.um-anchoremulator {
+	font-family: 'calibribold';
+	font-size:16px !important;
+	color:#FFF !important;
+	text-transform:none;
+	opacity:0.70;
+	margin:0px;
+}
+#megaMenu ul li.menu-item.ss-nav-menu-mega ul ul.sub-menu.sub-menu-3 li.menu-item a:hover, 
+#megaMenu ul li.menu-item.ss-nav-menu-mega ul ul.sub-menu.sub-menu-3 li.menu-item span.um-anchoremulator:hover, 
+#megaMenu ul ul.sub-menu.sub-menu-3 li.menu-item a:hover, 
+#megaMenu ul ul.sub-menu.sub-menu-3 li.menu-item span.um-anchoremulator:hover {
+	color:#ce5e2d !important;
+	opacity:1;
+}
+#megaMenu .ss-nav-menu-with-img.ss-nav-menu-notext > a > img, 
+#megaMenu .ss-nav-menu-with-img.ss-nav-menu-notext > span.um-anchoremulator > img {
+	max-width:100%;
+	margin-bottom:0;
+}
+#megaMenu ul ul.sub-menu li.menu-item:last-child ul.sub-menu.sub-menu-2 li a {
+	/*background:url(../images/calendar-icon.png) left center no-repeat;
+	padding-left:50px;*/
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+/*............Mega Menu End............*/

@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: real-media-library\n"
+"POT-Creation-Date: 2015-12-25 23:56+0100\n"
+"PO-Revision-Date: 2015-12-25 23:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.6\n"
+
+msgid "In this folder are sub directories, please delete them first!"
+msgstr "Bitte löschen Sie zuerst die Unterverzeichnisse!"
+
+msgid "Do not delete root. :("
+msgstr "Bitte löschen Sie nicht das Stammverzeichnis. :("
+
+msgid ""
+"Would you like to delete this folder? Note: All files in this folder will be "
+"deleted."
+msgstr ""
+"Wollen Sie wirklich diesen Ordner mit allen beinhalteten Dateien löschen?"
+
+msgid "Do not rename root. :("
+msgstr "Bitte benenne das Stammverzeichnis nicht um. :("
+
+msgid "Folders"
+msgstr "Ordner"
+
+msgid "Files"
+msgstr "Dateien"
+
+msgid "All Files"
+msgstr "Alle Dateien"
+
+msgid "Folder"
+msgstr "Ordner"
+
+msgid "Folder gallery"
+msgstr "Ordnergalerie"
+
+msgid "Choose your folder"
+msgstr "Wählen Sie das Verzeichnis"
+
+msgid "Insert gallery"
+msgstr "Gallerie einfügen"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Root"
+msgstr "Stammverzeichnis"
+
+msgid "Hide this info"
+msgstr "Hilfe ausblenden"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "What a chaos in your media library?"
+msgstr "Was ist das denn für ein Chaos in Ihrer Medien-Bibliothek?"
+
+msgid "Click this to create <strong>a new folder</strong>"
+msgstr ""
+"Ein Klick auf diesen Button erstellt <strong>einen neuen Ordner</strong>"
+
+msgid ""
+"A folder can contain every type of file or a collection, but no gallery."
+msgstr ""
+"Ein Ordner kann alle Typen von Dateien enthalten oder eine Kollektion, aber "
+"keine Galerie."
+
+msgid "Click this to create <strong>a new collection</strong>"
+msgstr ""
+"Ein Klick auf diesen Button erstellt <strong>eine neue Kollektion</strong>"
+
+msgid ""
+"A collection can contain no files. But you can create there other "
+"collections and <strong>galleries</strong>."
+msgstr ""
+"Eine Kollektion kann keine Dateien enthalten. Dort können jedoch weitere "
+"Kollektionen und <strong>Galerien</strong> gesammelt werden."
+
+msgid "Click this to create <strong>a new gallery</strong>"
+msgstr ""
+"Ein Klick auf diesen Button erstellt <strong>eine neue Galerie</strong>"
+
+msgid ""
+"A gallery can contain only images. If you want to display a gallery go to a "
+"post and have a look at the visual editor buttons."
+msgstr ""
+"Eine Galerie kann nur Bilder enthalten. Um eine Galerie in einem Beitrag "
+"anzuzeigen, werfen Sie einen Blick auf den Visuellen Editor."
+
+msgid "Bye bye chaos!"
+msgstr "Tschüs, Chaos!"
+
+msgid "A collection can not contain files. Upload moved to root..."
+msgstr ""
+"Eine Kollektion kann keine Dateien beinhalten, Datei wird ins "
+"Stammverzeichnis verschoben..."
+
+msgid "A gallery can contain only images. Upload moved to root..."
+msgstr ""
+"Eine Galerie kann nur Bilder enhalten, Datei wird ins Stammverzeichnis "
+"verschoben..."
+
+msgid ""
+"Something went wrong. Please be sure folders can not be in collections and "
+"galleries, collections can only be in folders and other collections and "
+"galleries can only be in collections."
+msgstr ""
+"Etwas ist schiefgelaufen. Stellen Sie sicher, dass Ordner nicht in "
+"Kollektionen und Galerien sein können, Kollektionen dürfen nur in Ordnern "
+"und anderen Kollektionen sein. Galerien dürfen nur in Kollektionen sein. "
+"Prüfe auch, dass es keine Duplikate in Ordnern gibt."
+
+msgid ""
+"Please use a valid folder name and make sure, there is no duplicate folder "
+"name."
+msgstr ""
+"Bitte benutze einen gültigen Dateinamen und prüfe, dass dieser Ordnername "
+"nicht schon existiert."
+
+msgid ""
+"Note: You can only select galleries. Folders and collections are grayed."
+msgstr ""
+"Beachte: Sie können nur Galerien auswählen. Ordner und Kollektionen sind "
+"ausgegraut."
+
+msgid "Hide upload preview"
+msgstr "Upload Vorschau ausblenden"
+
+msgid "Allow all folders for folder gallery"
+msgstr "Erlaube alle Ordner für eine Ordnergalerie"
+
+msgid "Refresh the current view."
+msgstr "Aktualisiere die aktuelle Ansicht."
+
+msgid "Delete selected folder."
+msgstr "Ausgewählten Ordner löschen."
+
+msgid "Rename selected folder."
+msgstr "Ausgewählten Ordner umbenennen."
+
+msgid "Change the hierarchical order."
+msgstr "Ändern der Ordnerstruktur."
+
+#~ msgid ""
+#~ "A collection can contain no files. But you can create there other "
+#~ "collections and galleries."
+#~ msgstr ""
+#~ "Eine Kollektion kann keine Dateien enthalten, jedoch können dort weitere "
+#~ "Kollektionen und Galerien gesammelt werden."
+
+#~ msgid "A gallery can contain only images."
+#~ msgstr "Eine Galerie kann nur Bilder enthalten."

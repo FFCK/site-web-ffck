@@ -1,0 +1,3022 @@
+# Copyright (C) 2015 Astoundify
+# This file is distributed under the GNU General Public License.
+# Translators:
+# YIN CHEN <ycgkwyc@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: Listify\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-06-30 18:29:30+00:00\n"
+"PO-Revision-Date: 2015-08-19 00:02+0800\n"
+"Last-Translator: DesignLab Solutions <designlab9898@gmail.com>\n"
+"Language-Team: Chinese (http://www.transifex.com/projects/p/listify/language/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.8.4\n"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！该页面链接已丢失."
+
+#: archive.php:22
+msgid "Author: %s"
+msgstr "发布者: %s"
+
+#: archive.php:25
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: archive.php:28
+msgid "Month: %s"
+msgstr "月: %s"
+
+#: archive.php:31
+msgid "Year: %s"
+msgstr "年: %s"
+
+#: archive.php:34
+msgid "Asides"
+msgstr "旁白"
+
+#: archive.php:37
+msgid "Galleries"
+msgstr "画册"
+
+#: archive.php:40
+msgid "Images"
+msgstr "图片"
+
+#: archive.php:43
+msgid "Videos"
+msgstr "视频"
+
+#: archive.php:46
+msgid "Quotes"
+msgstr "引用"
+
+#: archive.php:49
+msgid "Links"
+msgstr "链接"
+
+#: archive.php:52
+msgid "Statuses"
+msgstr "状态"
+
+#: archive.php:55
+msgid "Audios"
+msgstr "音频"
+
+#: archive.php:58
+msgid "Chats"
+msgstr "聊天"
+
+#: archive.php:61 sidebar.php:16
+msgid "Archives"
+msgstr "档案"
+
+#: author.php:34
+msgid "%d Listed"
+msgstr "%d 目录"
+
+#: author.php:40 inc/integrations/wp-job-manager-bookmarks/class-wp-job-manager-bookmarks.php:43
+msgid "%d Favorite"
+msgid_plural "%d Favorites"
+msgstr[0] "%d 收藏"
+
+#: author.php:58
+msgid "About Me"
+msgstr "关于我"
+
+#: author.php:70
+msgid "%s's Listings (%d)"
+msgstr "%s 已发布 (%d)"
+
+#: author.php:115
+msgid ""
+"%s's\n"
+"\t\t\t\t\t\tFavorites (%d)"
+msgstr "%s 的收藏夹 (%d)"
+
+#: author.php:152
+msgid "Recent Blog Posts"
+msgstr "最新博客文章"
+
+#: author.php:171 inc/customizer/controls/class-controls-labels.php:30
+#: inc/integrations/woocommerce/class-woocommerce.php:128
+msgid "Social Profiles"
+msgstr "社交网络简介"
+
+#: comments.php:26
+msgid "Sort By"
+msgstr "排序方式"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr;较旧的评论"
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "新的评论 &rarr;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "此评论已关闭"
+
+#: comments.php:66
+msgid "Publish Review"
+msgstr "发表评论"
+
+#: comments.php:66 comments.php:71
+msgid "Publish Reply"
+msgstr "发表回复"
+
+#: comments.php:72 comments.php:76
+msgid "Leave a Reply"
+msgstr "回复"
+
+#: comments.php:76
+msgid "Leave a Review"
+msgstr "评论"
+
+#: content-badge-claimed.php:8 popup-content-verified-listing.php:1
+msgid "Verified Listing"
+msgstr "验证目录"
+
+#: content-job_listing-attachment.php:13
+msgid "View Image"
+msgstr "查看图片"
+
+#: content-job_listing-attachment.php:16 content.php:42
+msgid "0 Comments"
+msgstr "0 评论"
+
+#: content-job_listing-attachment.php:16 content.php:42
+msgid "1 Comment"
+msgstr "1 评论"
+
+#: content-job_listing-attachment.php:16 content.php:42
+msgid "% Comments"
+msgstr "% 评论"
+
+#: content-no-jobs-found.php:11
+msgid "Perhaps try revising your search or <a href=\"%s\">create a listing</a> instead!"
+msgstr "尝试修改你搜索的关键字或 <a href=\"%s\">发布新信息</a>"
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布你的第一篇文章? <a href=\"%1$s\">点击这里发布</a>."
+
+#: content-none.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "对不起，没有找到符合的搜索条件。请换其它关键词再试。"
+
+#: content-none.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "抱歉，我们未能找到你想要的东西，也许搜索会有所帮助。"
+
+#: content-single-job_listing-gallery-overview.php:30 single-job_listing-gallery.php:52
+msgid "No images found."
+msgstr "图片没有找到."
+
+#: content-single-job_listing-gallery-overview.php:33
+msgid "Why not add your own?"
+msgstr "为什么不发布属于你的信息？"
+
+#: content-single-job_listing.php:58
+msgid "Listing Location"
+msgstr "发布信息位置"
+
+#: content-single-job_listing.php:71 inc/class-page-settings.php:56 inc/class-strings.php:381
+msgid "Video"
+msgstr "视频"
+
+#: content-single-job_listing.php:81
+msgid "Listing Description"
+msgstr "信息说明"
+
+#: content.php:66
+msgid "Read More"
+msgstr "阅读更多"
+
+#: functions.php:55
+msgid "Primary Menu (header)"
+msgstr "主菜单(页头)"
+
+#: functions.php:56
+msgid "Secondary Menu"
+msgstr "二级菜单"
+
+#: functions.php:57
+msgid "Tertiary Menu"
+msgstr "三级菜单"
+
+#: functions.php:58
+msgid "Social Menu (footer)"
+msgstr "社交网络菜单(页脚)"
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr "侧边栏"
+
+#: functions.php:114
+msgid "Homepage"
+msgstr "首页"
+
+#: functions.php:115
+msgid "Widgets that appear on the \"Homepage\" Page Template"
+msgstr "页面模板部件出现在\"首页\""
+
+#: functions.php:125
+msgid "Footer Column 1 (wide)"
+msgstr "页脚列 1 (全宽)"
+
+#: functions.php:135
+msgid "Footer Column 2"
+msgstr "页脚列 2"
+
+#: functions.php:145
+msgid "Footer Column 3"
+msgstr "页脚列 3"
+
+#: functions.php:256 inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:103
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:104
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:98
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:99
+msgid "Closed"
+msgstr "关闭"
+
+#: image.php:29 single-job_listing-gallery.php:22
+msgid "Back to %s"
+msgstr "返回 %s"
+
+#: inc/class-navigation.php:47
+msgid "Guest"
+msgstr "游客"
+
+#: inc/class-page-settings.php:23
+msgid "Page Settings"
+msgstr "页面设置"
+
+#: inc/class-page-settings.php:37
+msgid "Show tertiary navigation bar"
+msgstr "显示三级导航栏"
+
+#: inc/class-page-settings.php:41
+msgid "Hero Style"
+msgstr "英雄风格"
+
+#: inc/class-page-settings.php:46 inc/class-widget.php:270 inc/customizer/controls/class-controls-labels.php:26
+#: inc/customizer/controls/class-controls-nav.php:29
+msgid "None"
+msgstr "无"
+
+#: inc/class-page-settings.php:51
+msgid "Featured Image"
+msgstr "特色图片"
+
+#: inc/class-page-settings.php:61 inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:304
+msgid "Map"
+msgstr "地图"
+
+#: inc/class-setup.php:17
+msgid "Install Required &amp; Recommended Plugins"
+msgstr "推荐安装必要的 &amp;插件"
+
+#: inc/class-setup.php:40 inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: inc/class-setup.php:49
+msgid "Import Demo Content"
+msgstr "导入演示数据"
+
+#: inc/class-setup.php:52
+msgid ""
+"Installing the demo content is not required to use this theme. It is simply meant to provide a way to get a feel for "
+"the theme without having to manually set up all of your own content. <strong>If you choose not to import the demo "
+"content you need to make sure you manually create all necessary page templates for your website.</strong>"
+msgstr ""
+"安装演示内容并不需要使用这个主题。很简单，就是为了提供一种方式来感受为主题，而无需手动设置所有自己的内容。<strong>如果"
+"您选择不导入，你需要确保你手动创建所有必要的页面模板为您的网站的演示内容。</strong>"
+
+#: inc/class-setup.php:53
+msgid ""
+"The Listify theme package includes multiple demo content .XML files. This is what you will\n"
+"\t\t\t\t\tupload to the WordPress importer. Depending on the plugins you have activated or the intended use of your\n"
+"\t\t\t\t\twebsite you may not need to upload all .XML files."
+msgstr ""
+"Listify 主题包包括多个演示内容。XML 文件。这是你将上载到 WordPress 进口商。根据插件您已激活或您的网站的用途您可能不需要"
+"上传所有。XML 文件。"
+
+#: inc/class-setup.php:59
+msgid "Begin Importing Content"
+msgstr "开始导入数据"
+
+#: inc/class-setup.php:68
+msgid "Import Widgets"
+msgstr "导入小工具"
+
+#: inc/class-setup.php:71
+msgid ""
+"Importing the demo widgets is not required to use this theme. It simply allows you to quickly match the same settings "
+"found on our theme demo. If you do not import the widgets you can manually manage your widgets just like a standard "
+"WordPress widget area."
+msgstr ""
+"导入演示部件不需要使用这个主题。它只是使您能够快速匹配我们的主题演示中使用相同的设置。如果不导入小部件，你可以手动管理"
+"你的部件就像一个标准的WordPress小工具区域。"
+
+#: inc/class-setup.php:74
+msgid "Begin Importing Widgets"
+msgstr "开始导入窗口小部件"
+
+#: inc/class-setup.php:81
+msgid "Setup Menus"
+msgstr "设置菜单"
+
+#: inc/class-setup.php:83
+msgid ""
+"Make sure you create and assign your menus to the menu locations found in the theme. This is required to use the "
+"custom mega menu dropdown, account item, and more."
+msgstr "请确保您创建并分配你的菜单在主题中的菜单位置。这是需要使用自定义菜单特大下拉，帐户项目等"
+
+#: inc/class-setup.php:85
+msgid "Manage Menus"
+msgstr "管理菜单"
+
+#: inc/class-setup.php:99
+msgid "Setup Static Homepage"
+msgstr "设置静态网页"
+
+#: inc/class-setup.php:101
+msgid ""
+"In order to display custom widgets on your homepage you must first assign your static\n"
+"\t\t\t\t\tpage in the WordPress settings. You can also set which page will display your blog posts. If you have\n"
+"\t\t\t\t\timported the theme demo content you&#39;ll want to set the page called \"Search Your City\" as your homepage."
+msgstr ""
+"为了在您的主页上显示自定义小部件你首先必须分配在 WordPress 设置静态页面。您还可以设置哪个页面会显示你的博客文章。如果您"
+"已经导入主题演示内容你 ' ll 要设置名为\"搜索你的城市\"作为您的主页的页面。"
+
+#: inc/class-setup.php:105
+msgid "Reading Settings"
+msgstr "阅读设置"
+
+#: inc/class-setup.php:113
+msgid "Setup Widgets"
+msgstr "安装小工具"
+
+#: inc/class-setup.php:116
+msgid "Manage your widgets to control what displays on your homepage, listing pages, standard pages, and more."
+msgstr "管理你的小工具来控制显示在您的主页，目录页面，标准页等."
+
+#: inc/class-setup.php:117
+msgid "Manage Widgets"
+msgstr "管理小工具"
+
+#: inc/class-setup.php:124 inc/class-setup.php:127
+msgid "Customize"
+msgstr "定制"
+
+#: inc/class-setup.php:126
+msgid "Manage the appearance and behavior of various theme components with the live customizer."
+msgstr "管理各种主题的组件与实时定制的外观和行为。"
+
+#: inc/class-setup.php:137
+msgid "Get Involved"
+msgstr "插入"
+
+#: inc/class-setup.php:138
+msgid "Help improve Listify by submitting a rating and helping to translate the theme to as many languages as possible!"
+msgstr "帮助改善Listify提交评级，并帮助翻译主题，尽可能多的语言越好！"
+
+#: inc/class-setup.php:153
+msgid "Listify Setup"
+msgstr "Listify 设置"
+
+#: inc/class-setup.php:153
+msgid "Setup Guide"
+msgstr "设置指南"
+
+#: inc/class-setup.php:272
+msgid "Completed!"
+msgstr "完成！"
+
+#: inc/class-setup.php:274
+msgid "Incomplete"
+msgstr "残缺"
+
+#: inc/class-setup.php:281
+msgid "You can read more and watch helpful video tutorials below:"
+msgstr "你可以阅读更多，看下面的视频教程获得帮助："
+
+#: inc/class-setup.php:307
+msgid "Welcome to Listify %s"
+msgstr "欢迎来到 Listify %s"
+
+#: inc/class-setup.php:308
+msgid ""
+"The last directory you will ever buy.\n"
+"\tUse the steps below to finish setting up your new website. If you have more questions\n"
+"\tplease <a href=\"%s\">review the documentation</a>."
+msgstr ""
+"你曾经买过的最后一个目录。\n"
+"\t使用下面的步骤来完成设置您的新网站。如果你有更多的问题请<a href=\"%s\">审查文件</a>。"
+
+#: inc/class-setup.php:319
+msgid "Documentation"
+msgstr "文件"
+
+#: inc/class-setup.php:320
+msgid "Submit a Support Ticket"
+msgstr "提交技术支持帮助"
+
+#: inc/class-strings.php:141
+msgid "%s Category"
+msgstr "%s 分类"
+
+#: inc/class-strings.php:145 inc/class-strings.php:149
+msgid "%s Categories"
+msgstr "%s 分类"
+
+#: inc/class-strings.php:153
+msgid "%s-category"
+msgstr "listing-category"
+
+#: inc/class-strings.php:158 inc/class-strings.php:568
+msgid "%s Type"
+msgstr "%s 类型"
+
+#: inc/class-strings.php:162 inc/class-strings.php:166
+msgid "%s Types"
+msgstr "%s 类型"
+
+#: inc/class-strings.php:170
+msgid "%s-type"
+msgstr "listing-type"
+
+#: inc/class-strings.php:175
+msgid "%s will be shown if within ANY selected category"
+msgstr "%s 所有选择的类别将会显示"
+
+#: inc/class-strings.php:179
+msgid "%s will be shown if within ALL selected categories"
+msgstr "%s 如果将所有选中的类别中显示出来"
+
+#: inc/class-strings.php:183
+msgid "Contact Email"
+msgstr "联系电子邮件"
+
+#: inc/class-strings.php:184
+msgid "Contact URL"
+msgstr "联系方式网址"
+
+#: inc/class-strings.php:185
+msgid "Contact email/URL"
+msgstr "联系 电子邮件/网址"
+
+#: inc/class-strings.php:186
+msgid "Listing filled?"
+msgstr "发布失败？"
+
+#: inc/class-strings.php:187
+msgid "A video about your listing"
+msgstr "发布一个视频"
+
+#: inc/class-strings.php:190
+msgid "%s Submission"
+msgstr "%s 提交"
+
+#: inc/class-strings.php:194
+msgid "Submit %s Form Page"
+msgstr "提交%s的页面"
+
+#: inc/class-strings.php:198
+msgid "%s Dashboard Page"
+msgstr "%s 管理页面"
+
+#: inc/class-strings.php:202
+msgid "%s Page"
+msgstr "%s 页面"
+
+#: inc/class-strings.php:207
+msgid "Add a %s via the back-end"
+msgstr "添加 %s到后台"
+
+#: inc/class-strings.php:211
+msgid "Add a %s via the front-end"
+msgstr "添加 %s到前台"
+
+#: inc/class-strings.php:215
+msgid "Find out more about the front-end %s submission form"
+msgstr "了解更多有关前端%s提交表单"
+
+#: inc/class-strings.php:219
+msgid "View submitted %s listings"
+msgstr "查看%s已发布信息"
+
+#: inc/class-strings.php:223
+msgid "Add the [jobs] shortcode to a page to list %s"
+msgstr "添加[jobs]代码到页面目录 %s"
+
+#: inc/class-strings.php:227
+msgid "View the %s dashboard"
+msgstr "查看 %s 仪表盘"
+
+#: inc/class-strings.php:231
+msgid "Find out more about the front-end %s dashboard"
+msgstr "了解更多有关前端%s的仪表板"
+
+#: inc/class-strings.php:235
+msgid "Company name"
+msgstr "公司名称"
+
+#: inc/class-strings.php:236
+msgid "Company website"
+msgstr "公司网址"
+
+#: inc/class-strings.php:237
+msgid "Company tagline"
+msgstr "公司宗旨"
+
+#: inc/class-strings.php:238
+msgid "Brief description about the company"
+msgstr "有关公司的简要说明"
+
+#: inc/class-strings.php:239
+msgid "Company Twitter"
+msgstr "公司推特账户"
+
+#: inc/class-strings.php:240
+msgid "Company logo"
+msgstr "公司标志"
+
+#: inc/class-strings.php:241
+msgid "URL to the company logo"
+msgstr "公司标志链接"
+
+#: inc/class-strings.php:242
+msgid "Company video"
+msgstr "公司视频"
+
+#: inc/class-strings.php:244
+msgid "WP Job Manager Add-ons"
+msgstr "WP Job Manager 附加组件"
+
+#: inc/class-strings.php:245
+msgid "Settings"
+msgstr "设置"
+
+#: inc/class-strings.php:246
+msgid "Add-ons"
+msgstr "附加组件"
+
+#: inc/class-strings.php:247
+msgid "Approve %s"
+msgstr "批准%s"
+
+#: inc/class-strings.php:248
+msgid "Expire %s"
+msgstr "到期%s"
+
+#: inc/class-strings.php:249
+msgid "%s approved"
+msgstr "%s 已批准"
+
+#: inc/class-strings.php:250
+msgid "%s expired"
+msgstr "%s 已到期"
+
+#: inc/class-strings.php:251
+msgid "Select category"
+msgstr "选择类别"
+
+#: inc/class-strings.php:252 inc/class-strings.php:358 inc/customizer/controls/class-controls-as-seen-on.php:17
+#: inc/customizer/controls/class-controls-call-to-action.php:21 inc/customizer/controls/class-controls-markers.php:14
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:40
+msgid "Title"
+msgstr "标题"
+
+#: inc/class-strings.php:253
+msgid "%s updated. View"
+msgstr "%s 已更新. 查看"
+
+#: inc/class-strings.php:254
+msgid "Custom field updated."
+msgstr "已更新自定义字段"
+
+#: inc/class-strings.php:255
+msgid "Custom field deleted."
+msgstr "已删除自定义字段"
+
+#: inc/class-strings.php:256
+msgid "%s updated."
+msgstr "%s 已更新."
+
+#: inc/class-strings.php:257
+msgid "%s restored to revision from %s"
+msgstr "从%s恢复到修改%s"
+
+#: inc/class-strings.php:258
+msgid "%s published. View"
+msgstr "%s 已发布. 查看"
+
+#: inc/class-strings.php:259
+msgid "%s saved."
+msgstr "%s 已保存."
+
+#: inc/class-strings.php:260
+msgid "%s submitted. Preview"
+msgstr "%s 已提交. 预览"
+
+#: inc/class-strings.php:261
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: inc/class-strings.php:262
+msgid "%s draft updated. Preview"
+msgstr "%s 草稿已更新. 预览"
+
+#: inc/class-strings.php:263 inc/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr "类别"
+
+#: inc/class-strings.php:264
+msgid "Posted"
+msgstr "已发表"
+
+#: inc/class-strings.php:265
+msgid "Expires"
+msgstr "到期"
+
+#: inc/class-strings.php:266
+msgid "Categories"
+msgstr "分类"
+
+#: inc/class-strings.php:267
+msgid "Featured?"
+msgstr "特色?"
+
+#: inc/class-strings.php:268
+msgid "Filled?"
+msgstr "失败?"
+
+#: inc/class-strings.php:269 inc/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr "状态"
+
+#: inc/class-strings.php:270
+msgid "Actions"
+msgstr "动作"
+
+#: inc/class-strings.php:271
+msgid "ID: %d"
+msgstr "ID: %d"
+
+#: inc/class-strings.php:272
+msgid "M j, Y"
+msgstr "Y-m-j"
+
+#: inc/class-strings.php:273
+msgid "by a guest"
+msgstr "由游客"
+
+#: inc/class-strings.php:274
+msgid "by %s"
+msgstr "由%s"
+
+#: inc/class-strings.php:275
+msgid "Approve"
+msgstr "批准"
+
+#: inc/class-strings.php:276
+msgid "View"
+msgstr "查看"
+
+#: inc/class-strings.php:277
+msgid "Edit"
+msgstr "编辑"
+
+#: inc/class-strings.php:278
+msgid "Delete"
+msgstr "删除"
+
+#: inc/class-strings.php:279
+msgid "Listings Per Page"
+msgstr "每页目录"
+
+#: inc/class-strings.php:280
+msgid "How many listings should be shown per page by default?"
+msgstr "默认设置多少条信息显示?"
+
+#: inc/class-strings.php:281
+msgid "Filled Positions"
+msgstr "失效位置"
+
+#: inc/class-strings.php:282
+msgid "Hide filled positions"
+msgstr "失效位置隐藏"
+
+#: inc/class-strings.php:283
+msgid "If enabled, filled positions will be hidden."
+msgstr "如果启用,失效位置将被隐藏."
+
+#: inc/class-strings.php:284
+msgid "Enable categories for listings"
+msgstr "启用分类到信息目录"
+
+#: inc/class-strings.php:285
+msgid "Multi-select Categories"
+msgstr "多项选择分类"
+
+#: inc/class-strings.php:286
+msgid "Enable category multiselect by default"
+msgstr "默认启用类别多选"
+
+#: inc/class-strings.php:287
+msgid "Category Filter Type"
+msgstr "分类过滤器类型"
+
+#: inc/class-strings.php:288
+msgid "Account Required"
+msgstr "所需账户"
+
+#: inc/class-strings.php:289
+msgid "Submitting listings requires an account"
+msgstr "提交信息必须注册账户"
+
+#: inc/class-strings.php:290
+msgid "Account Creation"
+msgstr "创建账户"
+
+#: inc/class-strings.php:291
+msgid "Allow account creation"
+msgstr "允许创建账户"
+
+#: inc/class-strings.php:292
+msgid "Account Role"
+msgstr "账户规则"
+
+#: inc/class-strings.php:293
+msgid "Approval Required"
+msgstr "需要批准"
+
+#: inc/class-strings.php:294
+msgid "New submissions require admin approval"
+msgstr "新提交信息需要管理员批准"
+
+#: inc/class-strings.php:295
+msgid "If enabled, new submissions will be inactive, pending admin approval."
+msgstr "如果启用，新的申请将处于审核状态，需要管理员批准。"
+
+#: inc/class-strings.php:296
+msgid "Allow Pending Edits"
+msgstr "批准挂起的信息"
+
+#: inc/class-strings.php:297
+msgid "Submissions awaiting approval can be edited"
+msgstr "提交等待批准后可以编辑"
+
+#: inc/class-strings.php:298
+msgid "Listing Duration"
+msgstr "信息发布时间"
+
+#: inc/class-strings.php:299
+msgid "Contact Method"
+msgstr "联系方式"
+
+#: inc/class-strings.php:300
+msgid "Choose the contact method for listings."
+msgstr "选择联系方式到发布信息"
+
+#: inc/class-strings.php:301
+msgid "Email address or website URL"
+msgstr "电子邮件地址或网站链接"
+
+#: inc/class-strings.php:302
+msgid "Email addresses only"
+msgstr "只有电子邮件"
+
+#: inc/class-strings.php:303
+msgid "Website URLs only"
+msgstr "只有网站链接"
+
+#: inc/class-strings.php:304
+msgid "Pages"
+msgstr "页面"
+
+#: inc/class-strings.php:305
+msgid "Settings successfully saved"
+msgstr "设置保存成功"
+
+#: inc/class-strings.php:306
+msgid "--no page--"
+msgstr "--没页面--"
+
+#: inc/class-strings.php:307
+msgid "Select a page…"
+msgstr "选择页面…"
+
+#: inc/class-strings.php:308
+msgid "Save Changes"
+msgstr "保存改变"
+
+#: inc/class-strings.php:309
+msgid "Setup"
+msgstr "设置"
+
+#: inc/class-strings.php:310
+msgid "Skip this step"
+msgstr "跳过设置"
+
+#: inc/class-strings.php:311
+msgid "All Done!"
+msgstr "完成所有!"
+
+#: inc/class-strings.php:312
+msgid "Location"
+msgstr "位置"
+
+#: inc/class-strings.php:313
+msgid "e.g. \"London\""
+msgstr "例如. \"纽约\""
+
+#: inc/class-strings.php:314
+msgid "Leave this blank if the location is not important"
+msgstr "留空，如果位置不需要显示"
+
+#: inc/class-strings.php:315
+msgid "URL or email which applicants use to apply"
+msgstr "申请需要填写网址或电子邮件"
+
+#: inc/class-strings.php:316
+msgid "URL to the company video"
+msgstr "链接到公司视频"
+
+#: inc/class-strings.php:317
+msgid "Position filled?"
+msgstr "位置失效?"
+
+#: inc/class-strings.php:318
+msgid "Feature this listing?"
+msgstr "推荐这个信息?"
+
+#: inc/class-strings.php:319
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+#: inc/class-strings.php:320
+msgid "Posted by"
+msgstr "发布者"
+
+#: inc/class-strings.php:321
+msgid "%s Data"
+msgstr "%s 数据"
+
+#: inc/class-strings.php:322
+msgid "Use file"
+msgstr "使用文件"
+
+#: inc/class-strings.php:323 inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:364
+msgid "Upload"
+msgstr "上传"
+
+#: inc/class-strings.php:324
+msgid "Add file"
+msgstr "添加文件"
+
+#: inc/class-strings.php:325
+msgid "Guest user"
+msgstr "游客账户"
+
+#: inc/class-strings.php:326
+msgid "Showing %s"
+msgstr "显示%s"
+
+#: inc/class-strings.php:327
+msgid "Showing all %s"
+msgstr "显示所有%s"
+
+#: inc/class-strings.php:328
+msgid "located in &ldquo;%s&rdquo;"
+msgstr "位于&ldquo;%s&rdquo;"
+
+#: inc/class-strings.php:329
+msgid "No results found"
+msgstr "没有找到结果"
+
+#: inc/class-strings.php:330
+msgid "Query limit reached"
+msgstr "查询限制完成"
+
+#: inc/class-strings.php:331
+msgid "Geocoding error"
+msgstr "地理编码错误"
+
+#: inc/class-strings.php:332
+msgid "Employer"
+msgstr "房主"
+
+#: inc/class-strings.php:333
+msgid "Search %s"
+msgstr "搜索%s"
+
+#: inc/class-strings.php:334
+msgid "All %s"
+msgstr "所有%s"
+
+#: inc/class-strings.php:335
+msgid "Parent %s"
+msgstr "Parent %s"
+
+#: inc/class-strings.php:336
+msgid "Parent %s:"
+msgstr "父 %s:"
+
+#: inc/class-strings.php:337
+msgid "Edit %s"
+msgstr "编辑%s"
+
+#: inc/class-strings.php:338
+msgid "Update %s"
+msgstr "更新 %s"
+
+#: inc/class-strings.php:339
+msgid "Add New %s"
+msgstr "新添加 %s"
+
+#: inc/class-strings.php:340
+msgid "New %s Name"
+msgstr "%s 新名称"
+
+#: inc/class-strings.php:341
+msgid "Add New"
+msgstr "新添加"
+
+#: inc/class-strings.php:342
+msgid "Add %s"
+msgstr "添加%s"
+
+#: inc/class-strings.php:343
+msgid "New %s"
+msgstr "新的%s"
+
+#: inc/class-strings.php:344
+msgid "View %s"
+msgstr "查看%s"
+
+#: inc/class-strings.php:345 inc/class-strings.php:560
+msgid "No %s found"
+msgstr "没有找到%s"
+
+#: inc/class-strings.php:346
+msgid "No %s found in trash"
+msgstr "%s垃圾桶里没有找到"
+
+#: inc/class-strings.php:347
+msgid "This is where you can create and manage %s."
+msgstr "在这里，您可以创建和管理%s."
+
+#: inc/class-strings.php:349
+msgid "Expired"
+msgstr "已过期"
+
+#: inc/class-strings.php:350
+msgid "Expired (%s)"
+msgstr "已过期(%s)"
+
+#: inc/class-strings.php:352
+msgid "Invalid ID"
+msgstr "无效的ID"
+
+#: inc/class-strings.php:353
+msgid "This position has already been filled"
+msgstr "这个职位申请已满"
+
+#: inc/class-strings.php:354
+msgid "%s has been filled"
+msgstr "%s 已招满"
+
+#: inc/class-strings.php:355
+msgid "This position is not filled"
+msgstr "这个职位没有招满"
+
+#: inc/class-strings.php:356
+msgid "%s has been marked as not filled"
+msgstr "%s 已经被标记为未招满"
+
+#: inc/class-strings.php:357
+msgid "%s has been deleted"
+msgstr "%s 已被删除"
+
+#: inc/class-strings.php:359
+msgid "Date Posted"
+msgstr "发布日期"
+
+#: inc/class-strings.php:360
+msgid "Date Expires"
+msgstr "截止日期"
+
+#: inc/class-strings.php:361
+msgid "Load More %s"
+msgstr "加载更多 <span>%s</span>"
+
+#: inc/class-strings.php:362
+msgid "Recent %s"
+msgstr "最新 %s"
+
+#: inc/class-strings.php:363
+msgid "Keyword"
+msgstr "關鍵字"
+
+#: inc/class-strings.php:364
+msgid "Number of listings to show"
+msgstr "需要显示的目录数"
+
+#: inc/class-strings.php:365
+msgid "Invalid listing"
+msgstr "过期职位目录"
+
+#: inc/class-strings.php:366
+msgid "Save changes"
+msgstr "保存更改"
+
+#: inc/class-strings.php:367
+msgid "Your changes have been saved."
+msgstr "設置更新成功."
+
+#: inc/class-strings.php:368
+msgid "View →"
+msgstr "查看→"
+
+#: inc/class-strings.php:369
+msgid "Submit Details"
+msgstr "提交详细信息"
+
+#: inc/class-strings.php:370 inc/class-strings.php:431
+msgid "Preview"
+msgstr "预览"
+
+#: inc/class-strings.php:371
+msgid "Done"
+msgstr "完成"
+
+#: inc/class-strings.php:372
+msgid "you@yourdomain.com"
+msgstr "you@yourdomain.com"
+
+#: inc/class-strings.php:373
+msgid "Application URL"
+msgstr "申请网址"
+
+#: inc/class-strings.php:374
+msgid "http://"
+msgstr "http://"
+
+#: inc/class-strings.php:375
+msgid "Enter an email address or website URL"
+msgstr "输入电子邮件地址或者网站地址"
+
+#: inc/class-strings.php:376 inc/customizer/controls/class-controls-call-to-action.php:24
+msgid "Description"
+msgstr "描述"
+
+#: inc/class-strings.php:377
+msgid "Enter the name of the company"
+msgstr "输入公司名称"
+
+#: inc/class-strings.php:378
+msgid "Website"
+msgstr "网站"
+
+#: inc/class-strings.php:379
+msgid "Tagline"
+msgstr "简介"
+
+#: inc/class-strings.php:380
+msgid "Briefly describe your company"
+msgstr "简要介绍企业"
+
+#: inc/class-strings.php:382
+msgid "A link to a video about your company"
+msgstr "企业视频链接地址"
+
+#: inc/class-strings.php:383
+msgid "Twitter username"
+msgstr "Twitter用户名"
+
+#: inc/class-strings.php:384
+msgid "@yourcompany"
+msgstr "@企业名称"
+
+#: inc/class-strings.php:385
+msgid "Logo"
+msgstr "標識"
+
+#: inc/class-strings.php:386
+msgid "%s is a required field"
+msgstr "%s 必填"
+
+#: inc/class-strings.php:387
+msgid "%s is invalid"
+msgstr "％s无效"
+
+#: inc/class-strings.php:388
+msgid "Please enter a valid contact email address"
+msgstr "请输入有效的电子邮件地址"
+
+#: inc/class-strings.php:389
+msgid "Please enter a valid application URL"
+msgstr "请输入有效的网址。"
+
+#: inc/class-strings.php:390
+msgid "Please enter a valid contact email address or URL"
+msgstr "请输入有效的电子邮件或网址"
+
+#: inc/class-strings.php:391
+msgid "You must be signed in to post a new listing."
+msgstr "您需要登录后才能发布职位。"
+
+#: inc/class-strings.php:392
+msgid "Submit Listing"
+msgstr "提交"
+
+#: inc/class-strings.php:393
+msgid "Edit listing"
+msgstr "编辑目录"
+
+#: inc/class-strings.php:394
+msgid "\\%s\\ (filetype %s) needs to be one of the following file types: %s"
+msgstr "\"%s\" (文件类型 %s) 需要以下一种类型的文件 %s"
+
+#: inc/class-strings.php:395
+msgid "Your account"
+msgstr "您的账户"
+
+#: inc/class-strings.php:396
+msgid "You are currently signed in as %s."
+msgstr "您当前登录的账户是 %s."
+
+#: inc/class-strings.php:397
+msgid "Sign out"
+msgstr "登出"
+
+#: inc/class-strings.php:398
+msgid "Have an account?"
+msgstr "已经有一个账号了？"
+
+#: inc/class-strings.php:399
+msgid "Sign in"
+msgstr "登入"
+
+#: inc/class-strings.php:400
+msgid "optionally"
+msgstr "可选的"
+
+#: inc/class-strings.php:401
+msgid "You must sign in to create a new listing."
+msgstr "您需要登录后才能创建一个新的职位。"
+
+#: inc/class-strings.php:402
+msgid "Your email"
+msgstr "您的电子邮箱"
+
+#: inc/class-strings.php:403
+msgid "(optional)"
+msgstr "（可选）"
+
+#: inc/class-strings.php:404 inc/template-tags.php:257
+msgid "%s ago"
+msgstr "%s 之前"
+
+#: inc/class-strings.php:405
+msgid "No more results found."
+msgstr "找不到结果。"
+
+#: inc/class-strings.php:406
+msgid "Posted %s ago"
+msgstr "%s之前 发布"
+
+#: inc/class-strings.php:407
+msgid "This position has been filled"
+msgstr "很抱歉，这位阿姨正在上户，请换一位吧！"
+
+#: inc/class-strings.php:408
+msgid "This listing has expired"
+msgstr "很抱歉，这条信息已经过期"
+
+#: inc/class-strings.php:409
+msgid "remove"
+msgstr "删除"
+
+#: inc/class-strings.php:410
+msgid "or"
+msgstr "或"
+
+#: inc/class-strings.php:411
+msgid "Maximum file size: %s."
+msgstr "最大上传文件大小： %s。"
+
+#: inc/class-strings.php:412
+msgid "Apply using webmail:"
+msgstr "用邮件申请："
+
+#: inc/class-strings.php:413
+msgid ""
+"To contact this listing owner please visit the following URL: <a href=\\\"%1$s\\\" target=\\\"_blank\\\">%1$s %rarr;</"
+"a>"
+msgstr "要联系名录雇主，请访问下面的网址： <a href=\\\\\"%1$s\\\\\" target=\\\\\"_blank\\\\\">%1$s %rarr;</a>"
+
+#: inc/class-strings.php:416
+msgid "Contact %s"
+msgstr "联系 %s"
+
+#: inc/class-strings.php:420
+msgid "You need to be signed in to manage your listings."
+msgstr "您需要登录才能管理目录信息。"
+
+#: inc/class-strings.php:421
+msgid "You do not have any active listings."
+msgstr "您没有职位审核通过。"
+
+#: inc/class-strings.php:422
+msgid "Mark not filled"
+msgstr "标记为[未招满]"
+
+#: inc/class-strings.php:423
+msgid "Mark filled"
+msgstr "标记为[招满]"
+
+#: inc/class-strings.php:424
+msgid "Relist"
+msgstr "刷新职位"
+
+#: inc/class-strings.php:425
+msgid "Keywords"
+msgstr "关键字"
+
+#: inc/class-strings.php:426
+msgid "Category"
+msgstr "分类"
+
+#: inc/class-strings.php:427
+msgid "Any category"
+msgstr "任何类别"
+
+#: inc/class-strings.php:428
+msgid "Company Details"
+msgstr "企业详情"
+
+#: inc/class-strings.php:429
+msgid "%s submitted successfully. Your listing will be visible once approved."
+msgstr "%s 已经成功提交。你的职位审核通过后才能显示。"
+
+#: inc/class-strings.php:430
+msgid "Draft"
+msgstr "草案"
+
+#: inc/class-strings.php:432
+msgid "Pending approval"
+msgstr "等待批准"
+
+#: inc/class-strings.php:433
+msgid "Pending payment"
+msgstr "待付款"
+
+#: inc/class-strings.php:434
+msgid "Active"
+msgstr "激活"
+
+#: inc/class-strings.php:435 inc/integrations/facetwp/includes/proximity.php:48
+msgid "Reset"
+msgstr "重置"
+
+#: inc/class-strings.php:436
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/class-strings.php:437
+msgid "Your email address isn’t correct."
+msgstr "您的电子邮件地址不正确。"
+
+#: inc/class-strings.php:438
+msgid "This email is already registered, please choose another one."
+msgstr "该邮箱已注册，请使用其他邮箱注册。"
+
+#: inc/class-strings.php:439
+msgid "Choose a category&hellip;"
+msgstr "选择一个分类&hellip;"
+
+#: inc/class-strings.php:440
+msgid "Inactive"
+msgstr "去激活"
+
+#: inc/class-strings.php:441
+msgid "Application via \\%s\\ listing on %s"
+msgstr "通过 \"%s\" 应用目录 %s"
+
+#: inc/class-strings.php:442
+msgid "Anywhere"
+msgstr "工作地点:临淄"
+
+#: inc/class-strings.php:443
+msgid "Are you sure you want to delete this listing?"
+msgstr "你确定要删除这个职位吗？"
+
+#: inc/class-strings.php:444
+msgid "Your listings are shown in the table below. Expired listings will be automatically removed after 30 days."
+msgstr "招聘岗位将显示在下面的表格中，过期的职位将在30天后自动删除"
+
+#: inc/class-strings.php:445
+msgid ""
+"If you don&rsquo;t have an account you can %screate one below by entering your email address. A password will be "
+"automatically emailed to you."
+msgstr ""
+"If you don&rsquo;t have an account you can %screate one below by entering your email address. A password will be "
+"automatically emailed to you."
+
+#: inc/class-strings.php:446
+msgid "To contact this listing owner please visit the following URL: <a href=\"%1$s\" target=\"_blank\">%1$s &rarr;</a>"
+msgstr "要联系信息拥有者，请访问下面的网址： <a href=\"%1$s\" target=\"_blank\">%1$s &rarr;</a>"
+
+#: inc/class-strings.php:447
+msgid ""
+"To contact this listing <strong>email your details to</strong> <a class=\"job_application_email\" href=\"mailto:%1$s"
+"%2$s\">%1$s</a>"
+msgstr ""
+"联系公司 <strong>请把你的信息发电子邮件到</strong> <a class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+
+#: inc/class-strings.php:451 inc/class-strings.php:455
+msgid "%s Tags"
+msgstr "%s 标签"
+
+#: inc/class-strings.php:459
+msgid "%s-tag"
+msgstr "%s-标签"
+
+#: inc/class-strings.php:463
+msgid "Choose some tags, such as required skills available features, for this listing."
+msgstr "选择一些标签，如所需技能的可用功能，对于此listing。"
+
+#: inc/class-strings.php:464
+msgid "Filter by tag:"
+msgstr "按标签过滤"
+
+#: inc/class-strings.php:465
+msgid "tagged"
+msgstr "已标记"
+
+#: inc/class-strings.php:466
+msgid "Listings will be shown if within ALL chosen tags"
+msgstr "目录将会显示是否内所有选择标签"
+
+#: inc/class-strings.php:467
+msgid "Listings will be shown if within ANY chosen tags"
+msgstr "目录将会显示是否内任何选择标签"
+
+#: inc/class-strings.php:470
+msgid "Maximum %s Tags"
+msgstr "最大 %s 的标签"
+
+#: inc/class-strings.php:476
+msgid "%s Regions"
+msgstr "%s 的地区"
+
+#: inc/class-strings.php:480 inc/class-strings.php:572
+msgid "%s Region"
+msgstr "%s 区域"
+
+#: inc/class-strings.php:484
+msgid "%s-region"
+msgstr "listing-region"
+
+#: inc/class-strings.php:488
+msgid "Display a list of %s regions."
+msgstr "显示 %s 的区域的目录。"
+
+#: inc/class-strings.php:493
+msgid "Choose a package before entering %s details"
+msgstr "输入%s 详细信息之前，选择一个包"
+
+#: inc/class-strings.php:494
+msgid "Choose a package after entering %s details"
+msgstr "输入 %s 细节后选择一个套餐"
+
+#: inc/class-strings.php:495
+msgid "Choose a package"
+msgstr "选择一个套餐"
+
+#: inc/class-strings.php:496
+msgid "Purchase Package:"
+msgstr "购买套餐"
+
+#: inc/class-strings.php:497
+msgid "Listing Details &rarr;"
+msgstr "清单详细信息 &rarr;"
+
+#: inc/class-strings.php:499
+msgid "%s listing posted out of %d"
+msgstr "%s 目录已发布之外 %d"
+
+#: inc/class-strings.php:500
+msgid "%s listings posted out of %d"
+msgstr "%s 目录已发布之外 %s"
+
+#: inc/class-strings.php:503
+msgid "%s listing posted"
+msgstr "%s 目录已发布"
+
+#: inc/class-strings.php:504
+msgid "%s listings posted"
+msgstr "%s 目录已发布"
+
+#: inc/class-strings.php:507
+msgid "%s for %s listing"
+msgstr "%s %s 上市"
+
+#: inc/class-strings.php:508
+msgid "%s for %s listings"
+msgstr "%s 为 %s 目录"
+
+#: inc/class-strings.php:511
+msgid "%s Package"
+msgstr "%s 计划"
+
+#: inc/class-strings.php:515
+msgid "%s Package Subscription"
+msgstr "%s 计划订阅"
+
+#: inc/class-strings.php:519
+msgid "%s Listing"
+msgstr "%s 目录"
+
+#: inc/class-strings.php:523
+msgid "%s limit"
+msgstr "%s 的极限"
+
+#: inc/class-strings.php:527
+msgid "%s duration"
+msgstr "%s 的持续时间"
+
+#: inc/class-strings.php:531
+msgid "The number of days that the %s will be active"
+msgstr "天数的 %s 将被激活"
+
+#: inc/class-strings.php:535
+msgid "Feature %s?"
+msgstr "产品特点 %s？"
+
+#: inc/class-strings.php:539
+msgid "Feature this %s -- it will be styled differently and sticky."
+msgstr "拥有此 %s  - 这将有不同的样式和粘性。"
+
+#: inc/class-strings.php:543
+msgid "My %s Packages"
+msgstr "我的 %s"
+
+#: inc/class-strings.php:547
+msgid "%s Remaining"
+msgstr "%s剩余"
+
+#: inc/class-strings.php:552
+msgid "#%d Payment Update"
+msgstr "#%d付款更新"
+
+#: inc/class-strings.php:555
+msgid "Results for your \"%s\" alert:"
+msgstr "\"%S\"警报的结果:"
+
+#: inc/class-strings.php:556
+msgid "Results Matching \"%s"
+msgstr "结果匹配\"%s"
+
+#: inc/class-strings.php:557
+msgid "No results were found matching your search. Login to your account to change your alert criteria"
+msgstr "未找到结果匹配您的搜索。登录到您的帐户，更改警报条件"
+
+#: inc/class-strings.php:558
+msgid "This alert will automatically stop sending after %s."
+msgstr "此警报将自动停止发送后 %s。"
+
+#: inc/class-strings.php:564
+msgid "Optionally add a keyword to match %s against"
+msgstr "Optionally add a keyword to match %s against"
+
+#: inc/class-strings.php:576
+msgid "Any %s type"
+msgstr "任何 %s 类型"
+
+#: inc/class-strings.php:580
+msgid "%s Type:"
+msgstr "%s 类型:"
+
+#: inc/class-strings.php:583
+msgid "Your alerts are shown in the table below. The alerts will be sent to %s."
+msgstr "下表中显示您的通知。警报将发送到 %s。"
+
+#: inc/class-strings.php:584
+msgid "Alert me of %s like this"
+msgstr "通知我像这样的 %s"
+
+#: inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "安装必要的插件"
+
+#: inc/class-tgm-plugin-activation.php:163
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "出现未知错误"
+
+#: inc/class-tgm-plugin-activation.php:165
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "主题需要以下插件：%1$s"
+
+#: inc/class-tgm-plugin-activation.php:166
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "主题建议以下插件：%1$s"
+
+#: inc/class-tgm-plugin-activation.php:167
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site "
+"for help on getting the plugin installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site "
+"for help on getting the plugins installed."
+msgstr[0] "您没有权限安装%s插件"
+
+#: inc/class-tgm-plugin-activation.php:168
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下所需插件目前未启用：%1$s"
+
+#: inc/class-tgm-plugin-activation.php:169
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下建议插件目前未启用：%1$s"
+
+#: inc/class-tgm-plugin-activation.php:170
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site "
+"for help on getting the plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site "
+"for help on getting the plugins activated."
+msgstr[0] "您没有权限启用%s插件"
+
+#: inc/class-tgm-plugin-activation.php:171
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "以下的插件需要更新到最新版本，以确保与这个主题最大的兼容性：%1$s"
+
+#: inc/class-tgm-plugin-activation.php:172
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for "
+"help on getting the plugin updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site "
+"for help on getting the plugins updated."
+msgstr[0] "您没有权限更新%s插件"
+
+#: inc/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: inc/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#: inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "返回插件安装界面"
+
+#: inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "返回到仪表盘"
+
+#: inc/class-tgm-plugin-activation.php:177 inc/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#: inc/class-tgm-plugin-activation.php:178 inc/class-tgm-plugin-activation.php:1644
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件激活成功："
+
+#: inc/class-tgm-plugin-activation.php:179
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已经安装并激活成功：%1$s"
+
+#: inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "忽略此提示"
+
+#: inc/class-tgm-plugin-activation.php:532 inc/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr "回到主面板"
+
+#: inc/class-tgm-plugin-activation.php:1167 inc/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr "私有资源库"
+
+#: inc/class-tgm-plugin-activation.php:1170 inc/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr "预装包"
+
+#: inc/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr "官方资源库"
+
+#: inc/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr "必填"
+
+#: inc/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr "建议"
+
+#: inc/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr "尚未安装的"
+
+#: inc/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr "已安裝但未啟用"
+
+#: inc/class-tgm-plugin-activation.php:1288 inc/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr "安装"
+
+#: inc/class-tgm-plugin-activation.php:1312 inc/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr "激活"
+
+#: inc/class-tgm-plugin-activation.php:1372
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "没有插件安装或激活，<a href=\"%1$s\" title=\"Return to the Dashboard\">返回仪表盘</a>"
+
+#: inc/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr "插件"
+
+#: inc/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr "来源"
+
+#: inc/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr "无效的安装包"
+
+#: inc/class-tgm-plugin-activation.php:1940
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "从 <span class=\"code\">%s</span> 下载安装包"
+
+#: inc/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr "正在解压缩"
+
+#: inc/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr "正在安裝插件 &#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr "插件安装失败。"
+
+#: inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr "插件安装成功。"
+
+#: inc/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr "插件启用失败。"
+
+#: inc/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安裝和啟用開始 過程需要時間 請耐心等待"
+
+#: inc/class-tgm-plugin-activation.php:2070
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s 已安裝並成功啟用。"
+
+#: inc/class-tgm-plugin-activation.php:2070 inc/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr "显示详细信息"
+
+#: inc/class-tgm-plugin-activation.php:2070 inc/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr "隐藏详细信息"
+
+#: inc/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr "所有安裝和啟用已經完成。"
+
+#: inc/class-tgm-plugin-activation.php:2072
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装和激活插件 %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:2076
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "安裝程序開始 過程需要時間 請耐心等待"
+
+#: inc/class-tgm-plugin-activation.php:2077
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "安装 %1$s 时出现错误：<strong>%2$s</strong>。"
+
+#: inc/class-tgm-plugin-activation.php:2078
+msgid "The installation of %1$s failed."
+msgstr "安装 %1$s 失败。"
+
+#: inc/class-tgm-plugin-activation.php:2079
+msgid "%1$s installed successfully."
+msgstr "%1$s 安装成功。"
+
+#: inc/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr "所有安装已经完成"
+
+#: inc/class-tgm-plugin-activation.php:2081
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件 %1$s (%2$d/%3$d)"
+
+#: inc/class-widget.php:242 inc/widgets/class-widget-home-features.php:64
+msgid "Choose Image"
+msgstr "选择图片"
+
+#: inc/class-widgetized-pages.php:23
+msgid "Page: %s"
+msgstr "页: <strong>%s</strong>"
+
+#: inc/class-widgetized-pages.php:24
+msgid "Widgets that appear on the \"%s\" page."
+msgstr "出现在\"%s\"页上的小部件。"
+
+#: inc/customizer/class-customizer-panels.php:16
+msgid "General"
+msgstr "总体"
+
+#: inc/customizer/class-customizer-panels.php:20
+msgid "Appearance"
+msgstr "外观配置"
+
+#: inc/customizer/class-customizer-panels.php:23
+msgid "Colors & Scheme"
+msgstr "颜色和计划"
+
+#: inc/customizer/class-customizer-panels.php:24
+msgid ""
+"Choose a color scheme and continue to\n"
+"\t\t\t\t\t\tcustomize based on your brand. Certain schemes use the\n"
+"\t\t\t\t\t\tcolors differently so be sure to experiment!"
+msgstr "选择一种配色方案，继续自定义基于您的品牌。某些计划使用不同的颜色所以一定要尝试!"
+
+#: inc/customizer/class-customizer-panels.php:29
+msgid "Menus & Navigation"
+msgstr "菜单和导航"
+
+#: inc/customizer/class-customizer-panels.php:32
+msgid "Header & Logo"
+msgstr "上傳徽标"
+
+#: inc/customizer/class-customizer-panels.php:37
+msgid "Footer Area"
+msgstr "頁尾區域"
+
+#: inc/customizer/class-customizer-panels.php:40
+msgid "Call to Action"
+msgstr "行動訴求按鈕"
+
+#: inc/customizer/class-customizer-panels.php:43
+msgid "As Seen On"
+msgstr "如被看见在"
+
+#: inc/customizer/class-customizer-panels.php:46
+msgid "Copyright"
+msgstr "版权"
+
+#: inc/customizer/class-customizer-panels.php:111
+msgid "Homepage Display"
+msgstr "首页显示"
+
+#: inc/customizer/controls/class-controls-as-seen-on.php:20
+msgid "Logos"
+msgstr "标识"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:17
+msgid "Display this section"
+msgstr "显示此节"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:28
+msgid "Button Label"
+msgstr "按钮标签"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:31
+msgid "Button Link"
+msgstr "按钮链接"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:34
+msgid "Button Subtext"
+msgstr "[按钮] 文字"
+
+#: inc/customizer/controls/class-controls-colors.php:23
+#: inc/integrations/wp-job-manager/map/customizer/class-customizer-controls-map-appearance.php:19
+msgid "Color Scheme"
+msgstr "色彩配置"
+
+#: inc/customizer/controls/class-controls-colors.php:29
+msgid "Header Background Color"
+msgstr "页首背景颜色"
+
+#: inc/customizer/controls/class-controls-colors.php:33
+msgid "Navigation Text Color"
+msgstr "导航颜色"
+
+#: inc/customizer/controls/class-controls-colors.php:37
+msgid "Link Text Color"
+msgstr "链接文本颜色"
+
+#: inc/customizer/controls/class-controls-colors.php:41
+msgid "Body Text Color"
+msgstr "正文颜色"
+
+#: inc/customizer/controls/class-controls-colors.php:45
+msgid "Primary Color"
+msgstr "主色调"
+
+#: inc/customizer/controls/class-controls-colors.php:49
+msgid "Accent Color"
+msgstr "色調"
+
+#: inc/customizer/controls/class-controls-colors.php:53
+msgid "\"As Seen On\" Background Color"
+msgstr "“如被看见在”背景颜色"
+
+#: inc/customizer/controls/class-controls-colors.php:57
+msgid "Footer Widgets Background Color"
+msgstr "页尾背景颜色"
+
+#: inc/customizer/controls/class-controls-colors.php:61
+msgid "Footer Background Color"
+msgstr "页尾背景颜色"
+
+#: inc/customizer/controls/class-controls-copyright.php:17 inc/customizer/controls/class-controls-listing-archive.php:33
+msgid "Display Style"
+msgstr "显示样式"
+
+#: inc/customizer/controls/class-controls-copyright.php:20
+msgid "Dark"
+msgstr "暗色"
+
+#: inc/customizer/controls/class-controls-copyright.php:21
+msgid "Transparent"
+msgstr "透明"
+
+#: inc/customizer/controls/class-controls-copyright.php:25
+msgid "Copyright Text"
+msgstr "版权说明"
+
+#: inc/customizer/controls/class-controls-header_image.php:17
+msgid "Fixed Header"
+msgstr "固定页头"
+
+#: inc/customizer/controls/class-controls-labels.php:17
+msgid "Singular Label"
+msgstr "单个标签"
+
+#: inc/customizer/controls/class-controls-labels.php:20
+msgid "Plural Label"
+msgstr "多个标签"
+
+#: inc/customizer/controls/class-controls-labels.php:23
+msgid "Base Country"
+msgstr "基地国家"
+
+#: inc/customizer/controls/class-controls-labels.php:25
+msgid "This controls autocomplete priority, distance units, and more."
+msgstr "此参数控制自动完成功能优先，距离单位，以及更多。"
+
+#: inc/customizer/controls/class-controls-labels.php:32
+msgid "If associated with a listing the fields will appear on the submission form"
+msgstr "如果与目录关联的字段将显示在提交表单"
+
+#: inc/customizer/controls/class-controls-labels.php:34
+msgid "Associate with listing"
+msgstr "与目录关联"
+
+#: inc/customizer/controls/class-controls-labels.php:35
+msgid "Associate with user"
+msgstr "与用户相关联"
+
+#: inc/customizer/controls/class-controls-labels.php:39
+msgid "Use \"directory\" submission fields"
+msgstr "使用\"directory\"提交领域"
+
+#: inc/customizer/controls/class-controls-labels.php:43
+msgid "Use categories only"
+msgstr "只有使用类别"
+
+#: inc/customizer/controls/class-controls-labels.php:45
+msgid ""
+"Categories will be used to create map markers, and types will\n"
+"\t\t\t\tbe hidden from all other areas. Categories must be enabled in Listings > Settings.\n"
+"\t\t\t\t<br /><br />Refresh this page in your browser after saving."
+msgstr ""
+"类别将用于创建地图标记和类型将隐藏从所有其他领域。必须在目录中启用类别 > 设置。<br><br>保存后刷新此页面在浏览器中。"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:17
+msgid "Display"
+msgstr "显示"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:20
+msgid "Results Only"
+msgstr "结果只有"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:21
+msgid "Map + Results"
+msgstr "地图 结果"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:25
+msgid "Map Position"
+msgstr "地图位置"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:28
+msgid "Side (fixed)"
+msgstr "侧（固定）"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:29 inc/integrations/facetwp/class-facetwp.php:109
+msgid "Top"
+msgstr "顶部"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:36
+msgid "Grid"
+msgstr "网格排列"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:37
+msgid "List"
+msgstr "目录排列"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:52
+#: inc/customizer/controls/class-controls-map-behavior.php:85
+#: inc/customizer/controls/class-controls-marker-appearance.php:49
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:17
+msgid "Google Maps API Key (optional)"
+msgstr "谷歌地图 API 密匙 (可选)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:20
+msgid "Info Bubble Trigger"
+msgstr "泡泡信息内容"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:23
+msgid "Hover"
+msgstr "悬停"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:24
+msgid "Click"
+msgstr "点击"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:28
+msgid "Use Clusters"
+msgstr "利用集群"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:32
+msgid "Cluster Grid Size (px)"
+msgstr "集群网格大小（像素）"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:35
+msgid "Autofit on load"
+msgstr "自动调整负载"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:39
+msgid "Default Center Coordinate"
+msgstr "默认中心坐标"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:42
+msgid "Default Zoom Level"
+msgstr "默认缩放级别"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:50
+msgid "Max Zoom Level"
+msgstr "最高电平"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:63
+msgid "Search Radius Min (%s)"
+msgstr "搜索半径 Min (%s)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:67
+msgid "Search Radius Max (%s)"
+msgstr "最大搜索半径 (%s)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:71
+msgid "Search Radius Default (%s)"
+msgstr "默认搜索半径 (%s)"
+
+#: inc/customizer/controls/class-controls-marker-appearance.php:28
+msgid "%s Icon Class"
+msgstr "%s类图标"
+
+#: inc/customizer/controls/class-controls-marker-appearance.php:33
+msgid "%s Marker Color"
+msgstr "%s标记颜色"
+
+#: inc/customizer/controls/class-controls-nav.php:19
+msgid "Display cart icon"
+msgstr "社会化选项设置"
+
+#: inc/customizer/controls/class-controls-nav.php:23
+msgid "Display search icon"
+msgstr "显示搜索框"
+
+#: inc/customizer/controls/class-controls-nav.php:27
+msgid "Secondary Mega Menu Taxonomy"
+msgstr "超级二级菜单"
+
+#: inc/customizer/helper-functions.php:33
+msgid "Listing"
+msgstr "Listing"
+
+#: inc/customizer/helper-functions.php:34
+msgid "Listings"
+msgstr "Listings"
+
+#: inc/customizer/helper-functions.php:64
+msgid "Copyright %s &copy; %s. All Rights Reserved"
+msgstr "版权所有%s©%s。版权所有"
+
+#: inc/extras.php:35
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: inc/integrations/facetwp/class-facetwp-proximity.php:55
+msgid "Distance"
+msgstr "間隔"
+
+#: inc/integrations/facetwp/class-facetwp-template.php:130
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:892 sidebar-shop-archive.php:23
+msgid "Toggle Filters"
+msgstr "切换过滤器"
+
+#: inc/integrations/facetwp/class-facetwp.php:105
+msgid "FacetWP Filter Position"
+msgstr "FacetWP过滤器的位置"
+
+#: inc/integrations/facetwp/class-facetwp.php:108
+msgid "Side"
+msgstr "邊欄"
+
+#: inc/integrations/facetwp/class-facetwp.php:114
+msgid "FacetWP Filters"
+msgstr "FacetWP过滤器"
+
+#: inc/integrations/facetwp/class-facetwp.php:115
+msgid ""
+"A comma (,) separated list of FacetWP facet slugs. The order they appear here will be the order they appear on your "
+"website."
+msgstr "逗号（，）分隔FacetWP方面蛞蝓目录。他们出现在这里的顺序将它们显示在您的网站的订单。"
+
+#: inc/integrations/facetwp/includes/proximity.php:10
+msgid "Proximity"
+msgstr "距离"
+
+#: inc/integrations/facetwp/includes/proximity.php:33
+msgid "Enter location"
+msgstr "輸入地址"
+
+#: inc/integrations/facetwp/includes/proximity.php:47
+msgid "Apply"
+msgstr "应用"
+
+#: inc/integrations/facetwp/includes/proximity.php:208
+msgid "Unit of measurement"
+msgstr "计价单位"
+
+#: inc/integrations/facetwp/includes/proximity.php:212
+msgid "Miles"
+msgstr "英里"
+
+#: inc/integrations/facetwp/includes/proximity.php:213
+msgid "Kilometers"
+msgstr "公里"
+
+#: inc/integrations/jetpack/class-jetpack-share.php:47
+msgid "Share"
+msgstr "分享"
+
+#: inc/integrations/ratings/class-comments.php:11
+msgid "Newest First"
+msgstr "最新的"
+
+#: inc/integrations/ratings/class-comments.php:12
+msgid "Oldest First"
+msgstr "姓氏"
+
+#: inc/integrations/ratings/class-comments.php:13
+msgid "Rating (High-Low)"
+msgstr "评级（从高到低）"
+
+#: inc/integrations/ratings/class-comments.php:14
+msgid "Rating (Low-High)"
+msgstr "评级（从低到高）"
+
+#: inc/integrations/ratings/class-rating-listing.php:12
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s的评论"
+
+#: inc/integrations/ratings/class-ratings.php:54
+msgid "Your Rating"
+msgstr "您的评级"
+
+#: inc/integrations/ratings/class-ratings.php:120
+msgid "<span itemprop=\"reviewCount\">%d</span> Review"
+msgid_plural "<span itemprop=\"reviewCount\">%d</span> Reviews"
+msgstr[0] "<span itemprop=\"reviewCount\">%d</span> 评论"
+
+#: inc/integrations/ratings/class-ratings.php:134
+#: inc/integrations/wp-job-manager-reviews/class-wp-job-manager-reviews.php:75
+msgid "%d Star"
+msgid_plural "%d Stars"
+msgstr[0] "%d 星"
+
+#: inc/integrations/woocommerce/class-woocommerce-template.php:93
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] "项目"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:53
+msgid "Product Sidebar"
+msgstr "产品侧边栏"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:62
+msgid "Shop Sidebar"
+msgstr "商店侧边栏"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:100
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:101
+msgid "Facebook URL"
+msgstr "Facebook的网址"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:102
+msgid "Google+ URL"
+msgstr "Google+ 的网址"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:103
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:104
+msgid "LinkedIn URL"
+msgstr "Linkedin 地址"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:105
+msgid "GitHub URL"
+msgstr "GitHub的网址"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:106
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:117 inc/integrations/woocommerce/class-woocommerce.php:120
+msgid "Biography"
+msgstr "简历"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:13
+msgid "Display the social profiles of the listing author"
+msgstr "显示作者的概况"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:15
+msgid "Listify - Listing: Social Profiles"
+msgstr "Listify  - 上市：社会概况"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:20
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:28
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:18
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:18
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-tags.php:24
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:20
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:20
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:20
+#: inc/widgets/class-widget-ad.php:20 inc/widgets/class-widget-home-feature-callout.php:79
+#: inc/widgets/class-widget-home-features.php:25 inc/widgets/class-widget-home-features.php:158
+msgid "Title:"
+msgstr "名称："
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:25
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-tags.php:29
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:25
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:25
+#: inc/widgets/class-widget-ad.php:25
+msgid "Icon:"
+msgstr "图标："
+
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:13
+msgid "Display the booking form for the linked bookable product."
+msgstr "显示该链接预订产品预订表格。"
+
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:15
+msgid "Listify - Listing: Bookings"
+msgstr "Listify  - 上市：预订"
+
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:46
+msgid "Book Now"
+msgstr "立即預訂"
+
+#: inc/integrations/wp-job-manager/class-walker-category.php:28
+msgid "View all listings filed under %s"
+msgstr "在查看%s的申请所有目录"
+
+#: inc/integrations/wp-job-manager/class-walker-category.php:57
+msgid "Feed for all posts filed under %s"
+msgstr "订阅 %s下的所有文章"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:45
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:117
+#: inc/integrations/wp-job-manager/class-wp-job-manager-writepanels.php:13 sidebar-single-job_listing.php:57
+msgid "Hours of Operation"
+msgstr "营业时间"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:53
+#: inc/integrations/wp-job-manager-claim-listing/class-wp-job-manager-claim-listing.php:44
+msgid "Claim Listing"
+msgstr "索赔清单"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:56
+msgid "Claim \"%s\""
+msgstr "声明 \"%s\""
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:71
+msgid "Claimed:"
+msgstr "声明："
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:73
+msgid "The owner has been verified"
+msgstr "认证商家"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:16
+msgid "Labels & Behavior"
+msgstr "标签和行为"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:19
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:304
+msgid "Results"
+msgstr "结果"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:22
+msgid "Marker Appearance"
+msgstr "标记外观"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:25
+msgid "Map Appearance"
+msgstr "地图的出现"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:28
+msgid "Map Settings"
+msgstr "Box Map 设置"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:70
+msgid "Add Photos"
+msgstr "新增照片"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:122
+msgid "No images selected."
+msgstr "没有选中任何图像"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:245
+msgid "%s Gallery"
+msgstr "%s图库"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:271
+msgid "Manage gallery images"
+msgstr "管理相册"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:272
+msgid "Clear gallery"
+msgstr "清空相册"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:361 popup-content-single-job_listing-add-photo.php:18
+msgid "Add Images to Gallery"
+msgstr "添加图片到相册"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:362
+msgid "Add to gallery"
+msgstr "添加到图集"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:363
+msgid "Delete image"
+msgstr "删除图像"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:365
+msgid "Select this"
+msgstr "选择"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:77
+msgid "Phone Number"
+msgstr "手机号码"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:90
+msgid "Company phone"
+msgstr "公司電話"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:101
+msgid "Cover Image"
+msgstr "封面图片"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:120
+msgid "Gallery Images"
+msgstr "相册图片"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:149
+msgid "Company %s"
+msgstr "公司 %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:302
+msgid "%s Archives - Sidebar"
+msgstr "%s档案 - 侧边栏"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:311
+msgid "Single %s - Main Content"
+msgstr "单%s  - 主要内容"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:320
+msgid "Single %s - Sidebar"
+msgstr "单%s  - 侧边栏"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:347
+msgid "Browse %s"
+msgstr "浏览 %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:364
+msgid "Select a %s"
+msgstr "选择 %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:382
+msgid "View All"
+msgstr "查看全部"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:726
+msgid "Submit a Review"
+msgstr "提交审查"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:787
+msgid "Filter by type:"
+msgstr "房间类型筛选："
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:809
+msgid "Loading..."
+msgstr "加载中..."
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:875
+msgid "<span class=\"results-found\">%s</span> Results Found"
+msgstr "<span class=\"results-found\">%s</span>找到结果。"
+
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:325
+msgid "Radius: <span class=\"radi\">%s</span> %s"
+msgstr "半径:<span class=\"radi\">%s</span> %s"
+
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:365
+msgid "within a %d %s radius"
+msgstr "%d %s 半径范围内"
+
+#: inc/integrations/wp-job-manager/map/customizer/class-customizer-controls-map-appearance.php:23
+msgid ""
+"Some color schemes may show/hide extra information. Please <a href=\"#\">read\n"
+"\t\t\t\tmore</a> about creating a custom scheme."
+msgstr "一些配色方案可能显示/隐藏额外的信息。请<a href=\"#\">阅读更多</a>有关创建自定义的方案。"
+
+#: inc/integrations/wp-job-manager/services/class-wp-job-manager-service-guestful.php:7
+msgid "Book with Guestful"
+msgstr "Book with Guestful"
+
+#: inc/integrations/wp-job-manager/services/class-wp-job-manager-service-opentable.php:7
+msgid "Book with OpenTable"
+msgstr "Book with OpenTable"
+
+#: inc/integrations/wp-job-manager/services/class-wp-job-manager-service-resurva.php:7
+msgid "Book with Resurva"
+msgstr "Book with Resurva"
+
+#: inc/integrations/wp-job-manager/templates/form-fields/business-hours-field.php:18
+msgid "Open"
+msgstr "展开"
+
+#: inc/integrations/wp-job-manager/templates/form-fields/business-hours-field.php:19
+msgid "Close"
+msgstr "关闭"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:13
+msgid "Display a map and results of listings"
+msgstr "显示地图和目录结果"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:15
+msgid "Listify - Page: Map"
+msgstr "Listify  - 页：地图"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:27
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:23
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:23
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:25
+#: inc/widgets/class-widget-home-features.php:30 inc/widgets/class-widget-home-features.php:168
+msgid "Description:"
+msgstr "描述："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:30
+msgid "Display results"
+msgstr "结果显示"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:38
+msgid "Number of listings per page:"
+msgstr "每頁目录數"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:13
+msgid "Display a grid of recent or featured listings"
+msgstr "显示近期或功能目录网格"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:15
+msgid "Listify - Page: Recent Listings"
+msgstr "页面 -  Listify：近期目录"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:30
+msgid "Show only featured listings"
+msgstr "只显示功能目录"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:38
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:31
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:31
+msgid "Number to show:"
+msgstr "显示条数："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:15
+msgid "Display a search form to search listings"
+msgstr "显示一个搜索表单搜索目录"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:17
+msgid "Listify - Page: Search Listings"
+msgstr "页面 -  Listify：搜索"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:35
+msgid "Facets:"
+msgstr "方面："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:100 searchform-header.php:13
+#: searchform.php:12
+msgid "Search"
+msgstr "搜尋"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:21
+msgid "Display a tabbed layout of listing types"
+msgstr "显示上市类型的标签布局"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:23
+msgid "Listify - Page: Tabbed Listings"
+msgstr "页面 -  Listify：标签"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:36
+msgid "Number per tab:"
+msgstr "每个标签的日志数:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:41
+msgid "Use Featured listings"
+msgstr "精選表單"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:44
+msgid "Types to Feature:"
+msgstr "类型特征："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:87
+msgid "See More"
+msgstr "查看更多"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:10
+msgid "Display a grid of images for a certain taxonomy"
+msgstr "显示图像的一格为某分类"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:12
+msgid "Listify - Page: Image Grid"
+msgstr "Listify  - 页：图像网格"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:26
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:45
+msgid "Taxonomy:"
+msgstr "分类："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:37
+msgid "Number of terms to show:"
+msgstr "项数显示："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:42
+msgid "Term IDs: (optional)"
+msgstr "长期的ID：（可选）"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:10
+msgid "Display lists of listings associated with terms of a given taxonomy."
+msgstr "与给定的项相关联的目录的显示目录。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:12
+msgid "Listify - Page: Term Lists"
+msgstr "Listify  - 页：术语目录"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:31
+msgid "Number per list"
+msgstr "每单数"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:34
+msgid "Order By:"
+msgstr "排序方式："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:38
+msgid "Date"
+msgstr "日期"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:39
+msgid "Featured"
+msgstr "精选"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:41
+msgid "ID"
+msgstr "ID"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:53
+msgid "Use only featured listings"
+msgstr "只使用功能目录"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:124
+msgid "More"
+msgstr "更多："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:13
+msgid "Display the listing's author"
+msgstr "显示房源的作者"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:15
+msgid "Listify - Listing: Author"
+msgstr "Listify  - 商店：作者"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:20
+msgid "Descriptor:"
+msgstr "描述："
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:25
+msgid "Show biography"
+msgstr "显示作者简介"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:13
+msgid "Display the business hours of the listing."
+msgstr "显示商店的营业时间。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:15
+msgid "Listify - Listing: Business Hours"
+msgstr "Listify  - 商店：营业时间"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:13
+msgid "Display the listing comments."
+msgstr "显示上市意见。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:15
+msgid "Listify - Listing: Reviews"
+msgstr "Listify  - 商店：评论"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:13
+msgid "Display the listing description."
+msgstr "显示上市说明。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:15
+msgid "Listify - Listing: Description"
+msgstr "Listify  - 商店：说明"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:13
+msgid "Display a gallery of images and thumbnails."
+msgstr "显示库的图像和缩略图。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:15
+msgid "Listify - Listing: Photo Gallery Slider"
+msgstr "Listify  - 商店：相册"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:13
+msgid "Display the listing photo gallery."
+msgstr "显示商家相册。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:15
+msgid "Listify - Listing: Photo Gallery"
+msgstr "Listify  - 商店：相册"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:13
+msgid "Display the listing location and contact details."
+msgstr "显示商店地点和联系方式。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:15
+msgid "Listify - Listing: Map & Contact Details"
+msgstr "Listify  - 商店：地图及联系方式"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:20
+msgid "Display map"
+msgstr "显示地图"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:25
+msgid "Display address"
+msgstr "显示地址"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:30
+msgid "Display phone number"
+msgstr "显示电话号码"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:35
+msgid "Display website"
+msgstr "显示网址"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-tags.php:17
+msgid "Display the listing tags."
+msgstr "显示商家标签。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-tags.php:19
+msgid "Listify - Listing: Tags"
+msgstr "Listify  - 上市：标签"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:13
+msgid "Display the listing video."
+msgstr "显示商家的视频。"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:15
+msgid "Listify - Listing: Video"
+msgstr "Listify  - 清单：视频"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products-main.php:13
+msgid "Display the listings products (main content)"
+msgstr "显示上架产品（主要内容）"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products-main.php:15
+msgid "Listify - Listing: Products (Content)"
+msgstr "Listify  - 上架：产品（内容）"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products-main.php:19
+msgid "This widget has no options"
+msgstr "该部件有没有选项"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:13
+msgid "Display the listings products (sidebar)"
+msgstr "显示上架产品（边栏）"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:15
+msgid "Listify - Listing: Products (Sidebar)"
+msgstr "Listify  - 上架：产品（边栏）"
+
+#: inc/integrations/wp-job-manager-reviews/class-wp-job-manager-reviews.php:64
+msgid "<span itemprop=\"reviewCount\">%1$d</span> Review"
+msgid_plural "<span itemprop=\"reviewCount\">%d</span> Reviews"
+msgstr[0] "<span itemprop=\"reviewCount\">%1$d 个</span>评论"
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:13
+msgid "Display the pricing packages available for listings"
+msgstr "显示可供上架商品的定价套餐"
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:15
+msgid "Listify - Page: Pricing Table"
+msgstr "Listify  - 页：价格表"
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:96
+msgid "Get Started Now"
+msgstr "现在就开始"
+
+#: inc/template-tags.php:236
+msgid "Listing Owner"
+msgstr "（帖子作者）"
+
+#: inc/template-tags.php:244
+msgid "<span class=\"ion-edit\"></span>"
+msgstr "<span class=\"ion-edit\"></span>"
+
+#: inc/template-tags.php:248
+msgid "Your comment is awaiting moderation."
+msgstr "您的留言正在等待審核。"
+
+#: inc/template-tags.php:290
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/widgets/class-widget-ad.php:13
+msgid "Display an advertisement"
+msgstr "显示广告"
+
+#: inc/widgets/class-widget-ad.php:15
+msgid "Listify - Standard: Advertisement"
+msgstr "Listify  - 标准：广告"
+
+#: inc/widgets/class-widget-ad.php:31
+msgid "Ad Code:"
+msgstr "广告代码："
+
+#: inc/widgets/class-widget-ad.php:36
+msgid "Remove box around widget"
+msgstr "周围的部件拆下盒"
+
+#: inc/widgets/class-widget-home-feature-callout.php:13
+msgid "Display a full-width \"feature\" callout"
+msgstr "显示全角“功能”标注"
+
+#: inc/widgets/class-widget-home-feature-callout.php:15
+msgid "Listify - Page: Feature Callout"
+msgstr "Listify  - 页：功能标注"
+
+#: inc/widgets/class-widget-home-feature-callout.php:23
+msgid "Text Align:"
+msgstr "文字对齐："
+
+#: inc/widgets/class-widget-home-feature-callout.php:25
+msgid "Left"
+msgstr "靠左"
+
+#: inc/widgets/class-widget-home-feature-callout.php:26
+msgid "Right"
+msgstr "右侧"
+
+#: inc/widgets/class-widget-home-feature-callout.php:27
+msgid "Center (cover only)"
+msgstr "中心（只​​包括）"
+
+#: inc/widgets/class-widget-home-feature-callout.php:33
+msgid "Image Style:"
+msgstr "图片风格："
+
+#: inc/widgets/class-widget-home-feature-callout.php:35
+msgid "Cover"
+msgstr "覆盖"
+
+#: inc/widgets/class-widget-home-feature-callout.php:36
+msgid "Pull Out"
+msgstr "拔出"
+
+#: inc/widgets/class-widget-home-feature-callout.php:42
+msgid "Image Position:"
+msgstr "图片位置："
+
+#: inc/widgets/class-widget-home-feature-callout.php:44
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/widgets/class-widget-home-feature-callout.php:45
+msgid "Left Center"
+msgstr "左中"
+
+#: inc/widgets/class-widget-home-feature-callout.php:46
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/widgets/class-widget-home-feature-callout.php:47
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/widgets/class-widget-home-feature-callout.php:48
+msgid "Right Center"
+msgstr "右中"
+
+#: inc/widgets/class-widget-home-feature-callout.php:49
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/widgets/class-widget-home-feature-callout.php:50 inc/widgets/class-widget-home-feature-callout.php:53
+msgid "Center Top"
+msgstr "上中"
+
+#: inc/widgets/class-widget-home-feature-callout.php:51
+msgid "Center Center"
+msgstr "中心"
+
+#: inc/widgets/class-widget-home-feature-callout.php:52
+msgid "Center Bottom"
+msgstr "底部居中"
+
+#: inc/widgets/class-widget-home-feature-callout.php:59
+msgid "Use transparent overlay"
+msgstr "使用透明覆盖"
+
+#: inc/widgets/class-widget-home-feature-callout.php:64
+msgid "Add standard spacing above/below widget"
+msgstr "加入高于/低于部件标准间距"
+
+#: inc/widgets/class-widget-home-feature-callout.php:69
+msgid "Text Color:"
+msgstr "文字颜色"
+
+#: inc/widgets/class-widget-home-feature-callout.php:74
+msgid "Background Color:"
+msgstr "背景颜色："
+
+#: inc/widgets/class-widget-home-feature-callout.php:84
+msgid "Content:"
+msgstr "内容："
+
+#: inc/widgets/class-widget-home-feature-callout.php:90
+msgid "Image:"
+msgstr "图片："
+
+#: inc/widgets/class-widget-home-features.php:15
+msgid "Display top features about your site"
+msgstr "显示你的网站顶部功能"
+
+#: inc/widgets/class-widget-home-features.php:17
+msgid "Listify - Page: Features"
+msgstr "Listify  - 页：功能"
+
+#: inc/widgets/class-widget-home-features.php:65
+msgid "Use Image"
+msgstr "使用图片"
+
+#: inc/widgets/class-widget-home-features.php:151
+msgid "Add Feature"
+msgstr "添加特色"
+
+#: inc/widgets/class-widget-home-features.php:163
+msgid "Media:"
+msgstr "媒体："
+
+#: page-templates/template-home.php:95
+msgid "Recent  Listings"
+msgstr "最近目录"
+
+#: page-templates/template-home.php:96
+msgid "Take a look at what's been recently added."
+msgstr "看看什么是刚加入。"
+
+#: popup-content-single-job_listing-add-photo.php:13
+msgid "Upload Images"
+msgstr "上传图片"
+
+#: popup-content-verified-listing.php:3
+msgid "This listing is being maintained by its rightful owner."
+msgstr "此信息是由其合法所有者维护。如果您认为这是不正确的，请联系%s"
+
+#: product-searchform.php:11 searchform-header.php:12 searchform-header.php:14 searchform.php:11 searchform.php:13
+msgid "Search for:"
+msgstr "搜索："
+
+#: sidebar-archive-job_listing.php:17
+msgid "Toggle Sidebar"
+msgstr "開啟功能面板"
+
+#: sidebar-single-job_listing.php:25
+msgid "%s Owner"
+msgstr "%s 所有者"
+
+#: sidebar-single-job_listing.php:34
+msgid "Photo Gallery"
+msgstr "相册"
+
+#: sidebar-single-job_listing.php:46
+msgid "Listing Information"
+msgstr "帖子消息"
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr "标签"
+
+#. Theme Name of the plugin/theme
+msgid "Listify"
+msgstr "Listify"
+
+#. Theme URI of the plugin/theme
+msgid "http://astoundify.com/themes/listify"
+msgstr "http://astoundify.com/themes/listify"
+
+#. Description of the plugin/theme
+msgid "The last directory theme you will ever buy."
+msgstr "The last directory theme you will ever buy."
+
+#. Author of the plugin/theme
+msgid "Astoundify"
+msgstr "Astoundify"
+
+#. Author URI of the plugin/theme
+msgid "http://astoundify.com"
+msgstr "http://astoundify.com"
+
+#. Template Name of the plugin/theme
+msgid "Page: Listings"
+msgstr "页面: 目录"
+
+#. Template Name of the plugin/theme
+msgid "Layout: Full Width (Boxless)"
+msgstr "布局: 全宽 (Boxless)"
+
+#. Template Name of the plugin/theme
+msgid "Layout: Full Width"
+msgstr "布局宽度"
+
+#. Template Name of the plugin/theme
+msgid "Page: Home (Slider)"
+msgstr "页: 首页 (滑块)"
+
+#. Template Name of the plugin/theme
+msgid "Page: Home (Visual Composer)"
+msgstr "页: 首页 (视觉作曲家)"
+
+#. Template Name of the plugin/theme
+msgid "Page: Home"
+msgstr "页: 首页"
+
+#. Template Name of the plugin/theme
+msgid "Page: Plans and Pricing"
+msgstr "方案和定价"
+
+#. Template Name of the plugin/theme
+msgid "Layout: Sidebar Left"
+msgstr "布局: 侧边栏左"
+
+#. Template Name of the plugin/theme
+msgid "Layout: Centered Single Column"
+msgstr "布局: 以为中心的单个列"
+
+#. Template Name of the plugin/theme
+msgid "Page: Widgetized"
+msgstr "页面: 瓷砖"
+
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "月度归档"
+
+#: archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate into
+#. your
+#. * own language.
+#: functions.php:172
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "开启"
+
+#: inc/class-strings.php:135
+msgctxt ""
+"the singular \"listing\" label used in permalinks\". only transalte this if you are using Polylang and need to force "
+"the slugs to remain in a single language."
+msgid "%s"
+msgstr "listing"
+
+#: inc/class-strings.php:136
+msgctxt ""
+"the plural \"listing\" label used in permalinks\". only transalte this if you are using Polylang and need to force the "
+"slugs to remain in a single language."
+msgid "%s"
+msgstr "listings"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:10
+msgctxt "gallery endpoint slug"
+msgid "gallery"
+msgstr "图片墙"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:803
+msgctxt "search filters submit"
+msgid "Update %s"
+msgstr "更新 %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:806
+msgctxt "search filters submit"
+msgid "Search %s"
+msgstr "搜索 %s"
+
+#: inc/template-tags.php:181
+msgctxt "noun"
+msgid "Menu"
+msgstr "菜单"
+
+#: index.php:19 single.php:12
+msgctxt "blog page title"
+msgid "Blog"
+msgstr "博客"

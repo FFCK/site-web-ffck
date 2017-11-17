@@ -1,0 +1,3261 @@
+# Copyright (C) 2015 Astoundify
+# This file is distributed under the GNU General Public License.
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Listify\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-11-27 18:26:18+00:00\n"
+"PO-Revision-Date: 2015-11-27 16:14+0000\n"
+"Last-Translator: Spencer Finnell <spencerfinnell@gmail.com>\n"
+"Language-Team: Afrikaans (http://www.transifex.com/astoundify/listify/language/af/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: af\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Daardie bladsy kan nie gevind word nie."
+
+#: archive.php:22
+msgid "Author: %s"
+msgstr "Outeur: %s"
+
+#: archive.php:25
+msgid "Day: %s"
+msgstr "Dag:%s"
+
+#: archive.php:28
+msgid "Month: %s"
+msgstr "Maand:%s"
+
+#: archive.php:31
+msgid "Year: %s"
+msgstr "Jaar:%s"
+
+#: archive.php:34
+msgid "Asides"
+msgstr "Opmerking (Terzijdes)"
+
+#: archive.php:37
+msgid "Galleries"
+msgstr "Galerye"
+
+#: archive.php:40
+msgid "Images"
+msgstr "Enkel beelde"
+
+#: archive.php:43
+msgid "Videos"
+msgstr "Video’s"
+
+#: archive.php:46
+msgid "Quotes"
+msgstr "Aanhalings"
+
+#: archive.php:49
+msgid "Links"
+msgstr "Skakels"
+
+#: archive.php:52
+msgid "Statuses"
+msgstr "Statusse"
+
+#: archive.php:55
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:58
+msgid "Chats"
+msgstr "Geselsies"
+
+#: archive.php:61 sidebar.php:16
+msgid "Archives"
+msgstr "Argriewe"
+
+#: author.php:34
+msgid "%d Listed"
+msgstr "% d gelyste"
+
+#: author.php:40
+#: inc/integrations/wp-job-manager-bookmarks/class-wp-job-manager-bookmarks.php:43
+msgid "%d Favorite"
+msgid_plural "%d Favorites"
+msgstr[0] "% d gunsteling"
+msgstr[1] "% d gunstelinge"
+
+#: author.php:58
+msgid "About Me"
+msgstr "Oor My"
+
+#: author.php:70
+msgid "%s's Listings (%d)"
+msgstr "%s se lyste (% d)"
+
+#: author.php:115
+msgid ""
+"%s's\n"
+"\t\t\t\t\t\tFavorites (%d)"
+msgstr "%s\n gunstelinge (% d)"
+
+#: author.php:152
+msgid "Recent Blog Posts"
+msgstr "Onlangse blog boodskappe"
+
+#: author.php:171 inc/customizer/controls/class-controls-labels.php:29
+#: inc/integrations/woocommerce/class-woocommerce.php:128
+msgid "Social Profiles"
+msgstr "Sosiale profiele"
+
+#: comments.php:26
+msgid "Sort By"
+msgstr "Sorteer"
+
+#: comments.php:48
+msgid "Comment navigation"
+msgstr "Kommentaar navigasie"
+
+#: comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Ouer Kommentaar"
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Nuwer Kommentaar &rarr;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "Kommentaar is gesluit."
+
+#: comments.php:66
+msgid "Publish Review"
+msgstr "Publiseer hersiening"
+
+#: comments.php:66 comments.php:71
+msgid "Publish Reply"
+msgstr "Publiseer Antwoord"
+
+#: comments.php:72 comments.php:76
+msgid "Leave a Reply"
+msgstr "Los ’n antwoord"
+
+#: comments.php:76
+msgid "Leave a Review"
+msgstr "Los Kommentaar"
+
+#: content-badge-claimed.php:8 popup-content-verified-listing.php:1
+msgid "Verified Listing"
+msgstr "geverifiëerde lys"
+
+#: content-job_listing-attachment.php:13
+msgid "View Image"
+msgstr "Sien beeld"
+
+#: content-job_listing-attachment.php:16 content.php:42
+msgid "0 Comments"
+msgstr "0 kommentaar"
+
+#: content-job_listing-attachment.php:16 content.php:42
+msgid "1 Comment"
+msgstr "1 kommentaar"
+
+#: content-job_listing-attachment.php:16 content.php:42
+msgid "% Comments"
+msgstr "% kommentaar"
+
+#: content-no-jobs-found.php:11
+msgid ""
+"Perhaps try revising your search or <a href=\"%s\">create a listing</a> "
+"instead!"
+msgstr "Probeer dalk jou soektog hersien of  <a href=“%s”>skep ’n lys</a> eerder!"
+
+#: content-none.php:15
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Gereed om jou eerste plasing te publiseer? <a href=“%1$s”>begin hier</a> ."
+
+#: content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Jammer, maar niks het ooreengestem met jou soekterme nie. Probeer asseblief weer met verskillende sleutelwoorde."
+
+#: content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Ons kan nie kry waarvoor jy soek nie. Probeer dalk weer soek."
+
+#: content-single-job_listing-gallery-overview.php:30
+#: single-job_listing-gallery.php:52
+msgid "No images found."
+msgstr "Geen beelde is gevind nie."
+
+#: content-single-job_listing-gallery-overview.php:33
+msgid "Why not add your own?"
+msgstr "Hoekom voeg jy nie jou eie by nie?"
+
+#: content-single-job_listing.php:38
+msgid "This listing is expired."
+msgstr ""
+
+#: content-single-job_listing.php:63
+msgid "Listing Location"
+msgstr "Lys ligging"
+
+#: content-single-job_listing.php:76 inc/class-strings.php:381
+msgid "Video"
+msgstr "Video"
+
+#: content-single-job_listing.php:86
+msgid "Listing Description"
+msgstr "Lys beskrywings"
+
+#: content.php:66
+msgid "Read More"
+msgstr "Lees meer"
+
+#: functions.php:55
+msgid "Primary Menu (header)"
+msgstr "Primêre Menu (header)"
+
+#: functions.php:56
+msgid "Secondary Menu"
+msgstr "Sekondêre Menu"
+
+#: functions.php:57
+msgid "Tertiary Menu"
+msgstr "Tersiêre Menu"
+
+#: functions.php:58
+msgid "Social Menu (footer)"
+msgstr "Sosiale Menu (footer)"
+
+#: functions.php:104
+msgid "Sidebar"
+msgstr "Sybalk"
+
+#: functions.php:114
+msgid "Homepage"
+msgstr "Tuisblad"
+
+#: functions.php:115
+msgid "Widgets that appear on the \"Homepage\" Page Template"
+msgstr "Widgets wat op die “Tuisblad” bladsy Sjabloon (template) verskyn."
+
+#: functions.php:125
+msgid "Footer Column 1 (wide)"
+msgstr "Footer Kolom 1 (wye)"
+
+#: functions.php:135
+msgid "Footer Column 2"
+msgstr "Footer Kolom 2"
+
+#: functions.php:145
+msgid "Footer Column 3"
+msgstr "Footer Kolom 3"
+
+#: functions.php:259
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:103
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:104
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:98
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:99
+msgid "Closed"
+msgstr "Gesluit"
+
+#: image.php:29 single-job_listing-gallery.php:22
+msgid "Back to %s"
+msgstr "Terug na %s"
+
+#: inc/class-navigation.php:55
+msgid "Guest"
+msgstr "Gaste"
+
+#: inc/class-navigation.php:204
+msgid "Browse %s"
+msgstr "Blaai %s"
+
+#: inc/class-navigation.php:222
+msgid "Select a %s"
+msgstr "Kies ’n %s"
+
+#: inc/class-navigation.php:241
+msgid "View All"
+msgstr "Beskou alles"
+
+#: inc/class-page-settings.php:23
+msgid "page settings"
+msgstr ""
+
+#: inc/class-page-settings.php:37
+msgid "show tertiary navigation bar"
+msgstr ""
+
+#: inc/class-page-settings.php:41
+msgid "hero style"
+msgstr ""
+
+#: inc/class-page-settings.php:46
+msgid "none"
+msgstr ""
+
+#: inc/class-page-settings.php:51
+msgid "featured image"
+msgstr ""
+
+#: inc/class-page-settings.php:56
+msgid "video"
+msgstr ""
+
+#: inc/class-page-settings.php:61
+msgid "map"
+msgstr ""
+
+#: inc/class-setup.php:17
+msgid "Install Required &amp; Recommended Plugins"
+msgstr "Installeer Vereiste &amp; Aanbevele Plugins"
+
+#: inc/class-setup.php:40 inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+#: inc/class-setup.php:49
+msgid "Import Demo Content"
+msgstr "Voer Demo inhoud in"
+
+#: inc/class-setup.php:52
+msgid ""
+"Installing the demo content is not required to use this theme. It is simply "
+"meant to provide a way to get a feel for the theme without having to "
+"manually set up all of your own content. <strong>If you choose not to import"
+" the demo content you need to make sure you manually create all necessary "
+"page templates for your website.</strong>"
+msgstr "Die demo inhoud installering is nie nodig om hierdie tema te gebruik nie. Dit is net bedoel om ’n gevoel vir die tema te kry sonder om van jou eie inhoud te voorsien. <strong>As jy kies om nie die demo inhoud wat jy nodig het om seker te maak dat al die nodige bladsy Sjabloon (templates) geskep is nie gaan jy dit self moet skep vir jou webwerf.</strong>"
+
+#: inc/class-setup.php:53
+msgid ""
+"The Listify theme package includes multiple demo content .XML files. This is what you will\n"
+"\t\t\t\t\tupload to the WordPress importer. Depending on the plugins you have activated or the intended use of your\n"
+"\t\t\t\t\twebsite you may not need to upload all .XML files."
+msgstr "Die Listify tema pakket sluit verskeie demo inhoud Xml lêers. Dit is wat jy sal oplaai na die WordPress invoerder. Afhangende van die plugins wat jy geaktiveer het of die gebruik van jou webwerf is dit nie nodig om al Xml lêers te laai nie."
+
+#: inc/class-setup.php:59
+msgid "Begin Importing Content"
+msgstr "Begin inhoud invoer"
+
+#: inc/class-setup.php:68
+msgid "Import Widgets"
+msgstr "Voer Widgets in"
+
+#: inc/class-setup.php:71
+msgid ""
+"Importing the demo widgets is not required to use this theme. It simply "
+"allows you to quickly match the same settings found on our theme demo. If "
+"you do not import the widgets you can manually manage your widgets just like"
+" a standard WordPress widget area."
+msgstr "Die demo inhoud installering is nie nodig om hierdie tema te gebruik nie. Dit is net bedoel om ’n gevoel vir die tema te kry sonder om van jou eie inhoud te voorsien. <strong>As jy kies om nie die demo inhoud wat jy nodig het om seker te maak dat al die nodige bladsy Sjabloon (templates) geskep is nie gaan jy dit self moet skep vir jou webwerf.</strong>"
+
+#: inc/class-setup.php:74
+msgid "Begin Importing Widgets"
+msgstr "Begin inhoud invoer"
+
+#: inc/class-setup.php:81
+msgid "Setup Menus"
+msgstr "Stel menu op"
+
+#: inc/class-setup.php:83
+msgid ""
+"Make sure you create and assign your menus to the menu locations found in "
+"the theme. This is required to use the custom mega menu dropdown, account "
+"item, and more."
+msgstr "Maak seker dat wanneer jy ’n menu skep en toewys dat jy dit so doen na plekke in die tema. Dit is versoek om ’n persoonlike mega menu keuselys, rekening item, en meer te gebruik."
+
+#: inc/class-setup.php:85
+msgid "Manage Menus"
+msgstr "Bestuur Menus"
+
+#: inc/class-setup.php:99
+msgid "Setup Static Homepage"
+msgstr "Stel statiese tuisblad op"
+
+#: inc/class-setup.php:101
+msgid ""
+"In order to display custom widgets on your homepage you must first assign your static\n"
+"\t\t\t\t\tpage in the WordPress settings. You can also set which page will display your blog posts. If you have\n"
+"\t\t\t\t\timported the theme demo content you&#39;ll want to set the page called \"Search Your City\" as your homepage."
+msgstr "Om persoonlike widgets op jou tuisblad te vertoon moet jy eers jou statiese bladsy toewys in die WordPress instellings. Jy kan ook aanwys watter bladsy jou blog boodskappe vertoon. As jy die tema demo inhoud ingevoer het wil jy die bladsy genaamd “Soek jou stad” as jou tuisblad te stel."
+
+#: inc/class-setup.php:105
+msgid "Reading Settings"
+msgstr "Lees Instellings"
+
+#: inc/class-setup.php:113
+msgid "Setup Widgets"
+msgstr "Stel widgets op"
+
+#: inc/class-setup.php:116
+msgid ""
+"Manage your widgets to control what displays on your homepage, listing "
+"pages, standard pages, and more."
+msgstr "Bestuur jou widgets om te beheer wat vertoon word op jou tuisblad, lys bladsye, standaard bladsye, en nog meer."
+
+#: inc/class-setup.php:117
+msgid "Manage Widgets"
+msgstr "Bestuur Widgets"
+
+#: inc/class-setup.php:124 inc/class-setup.php:127
+msgid "Customize"
+msgstr "Pas aan"
+
+#: inc/class-setup.php:126
+msgid ""
+"Manage the appearance and behavior of various theme components with the live"
+" customizer."
+msgstr "Die bestuur die voorkoms en gedrag van verskillende tema komponente met die beskikbare ‘Pas aan’ opsie."
+
+#: inc/class-setup.php:137
+msgid "Get Involved"
+msgstr "Raak betrokke"
+
+#: inc/class-setup.php:138
+msgid ""
+"Help improve Listify by submitting a rating and helping to translate the "
+"theme to as many languages as possible!"
+msgstr "Help om Listify te verbeter deur dit ’n gradering te gee en help om die tema in soveel tale as moontlik te vertaal!"
+
+#: inc/class-setup.php:153
+msgid "Listify Setup"
+msgstr "Stel Listify op"
+
+#: inc/class-setup.php:153
+msgid "Setup Guide"
+msgstr "Opstel leiding"
+
+#: inc/class-setup.php:272
+msgid "Completed!"
+msgstr "Voltooi!"
+
+#: inc/class-setup.php:274
+msgid "Incomplete"
+msgstr "Onvolledige"
+
+#: inc/class-setup.php:281
+msgid "You can read more and watch helpful video tutorials below:"
+msgstr "Jy kan meer lees en nuttig video tutoriale kyk hieronder:"
+
+#: inc/class-setup.php:307
+msgid "Welcome to Listify %s"
+msgstr "Welkom by%s Listify"
+
+#: inc/class-setup.php:308
+msgid ""
+"The last directory you will ever buy.\n"
+"\tUse the steps below to finish setting up your new website. If you have more questions\n"
+"\tplease <a href=\"%s\">review the documentation</a>."
+msgstr "Die laaste gids wat jy ooit sal koop. Gebruik die onderstaande stappe om die pstel van jou nuwe webwerf te voltooi. As jy nog vrae het kyk asseblief <a href=“%s”>weer na die dokumentasie.</a>"
+
+#: inc/class-setup.php:319
+msgid "Documentation"
+msgstr "Dokumentasie"
+
+#: inc/class-setup.php:320
+msgid "Submit a Support Ticket"
+msgstr "stuur ’n ondersteunings kaartjie"
+
+#: inc/class-strings.php:141
+msgid "%s Category"
+msgstr "%s Kategorie"
+
+#: inc/class-strings.php:145 inc/class-strings.php:149
+msgid "%s Categories"
+msgstr "%s Kategorieë"
+
+#: inc/class-strings.php:153
+msgid "%s-category"
+msgstr "%s-kategorie"
+
+#: inc/class-strings.php:158 inc/class-strings.php:568
+msgid "%s Type"
+msgstr "%s Tipe"
+
+#: inc/class-strings.php:162 inc/class-strings.php:166
+msgid "%s Types"
+msgstr "%s Tipes"
+
+#: inc/class-strings.php:170
+msgid "%s-type"
+msgstr "%s-tipe"
+
+#: inc/class-strings.php:175
+msgid "%s will be shown if within ANY selected category"
+msgstr "%s sal getoon word indien binne enige gekieste kategorie"
+
+#: inc/class-strings.php:179
+msgid "%s will be shown if within ALL selected categories"
+msgstr "%s sal getoon word indien dit binne in al die gekieste kategorieë is"
+
+#: inc/class-strings.php:183
+msgid "Contact Email"
+msgstr "Kontak e-pos"
+
+#: inc/class-strings.php:184
+msgid "Contact URL"
+msgstr "Kontak URL"
+
+#: inc/class-strings.php:185
+msgid "Contact email/URL"
+msgstr "Kontak e-pos / URL"
+
+#: inc/class-strings.php:186
+msgid "Listing filled?"
+msgstr "Lys gevul?"
+
+#: inc/class-strings.php:187
+msgid "A video about your listing"
+msgstr "’n Video oor jou aanbieding"
+
+#: inc/class-strings.php:190
+msgid "%s Submission"
+msgstr "%s Voorlegging"
+
+#: inc/class-strings.php:194
+msgid "Submit %s Form Page"
+msgstr "Dien in %s vorm bladsy"
+
+#: inc/class-strings.php:198
+msgid "%s Dashboard Page"
+msgstr "%s Beheerpaneel bladsy"
+
+#: inc/class-strings.php:202
+msgid "%s Page"
+msgstr "%s Bladsy"
+
+#: inc/class-strings.php:207
+msgid "Add a %s via the back-end"
+msgstr "Voeg ’n%s via die agterkant-bladsy"
+
+#: inc/class-strings.php:211
+msgid "Add a %s via the front-end"
+msgstr "Voeg ’n%s via die voorkant-bladsy"
+
+#: inc/class-strings.php:215
+msgid "Find out more about the front-end %s submission form"
+msgstr "Vind meer uit oor die vooraan%s voorlegging vorm"
+
+#: inc/class-strings.php:219
+msgid "View submitted %s listings"
+msgstr "Beskou in gediende %s lys"
+
+#: inc/class-strings.php:223
+msgid "Add the [jobs] shortcode to a page to list %s"
+msgstr "Voeg die [werk] kortkode na ’n bladsy om dit te lys %s"
+
+#: inc/class-strings.php:227
+msgid "View the %s dashboard"
+msgstr "Kyk na die%s beheerpaneelbord"
+
+#: inc/class-strings.php:231
+msgid "Find out more about the front-end %s dashboard"
+msgstr "Vind meer uit oor die voorkant %s beheerpaneelbord"
+
+#: inc/class-strings.php:235
+msgid "Company name"
+msgstr "Maatskappy se naam"
+
+#: inc/class-strings.php:236
+msgid "Company website"
+msgstr "Maatskappy se webwerf"
+
+#: inc/class-strings.php:237
+msgid "Company tagline"
+msgstr "Maatskappy slagspreuk"
+
+#: inc/class-strings.php:238
+msgid "Brief description about the company"
+msgstr "Kort beskrywing oor die maatskappy"
+
+#: inc/class-strings.php:239
+msgid "Company Twitter"
+msgstr "Maatskappy Twitter"
+
+#: inc/class-strings.php:240
+msgid "Company logo"
+msgstr "Maatskappy handelsmerk"
+
+#: inc/class-strings.php:241
+msgid "URL to the company logo"
+msgstr "URL na die maatskappy se handelsmerk"
+
+#: inc/class-strings.php:242
+msgid "Company video"
+msgstr "Maatskappy video"
+
+#: inc/class-strings.php:244
+msgid "WP Job Manager Add-ons"
+msgstr "WP werk bestuurder byvoegings"
+
+#: inc/class-strings.php:245 inc/customizer/class-customizer-panels.php:29
+msgid "Settings"
+msgstr "Instellings"
+
+#: inc/class-strings.php:246
+msgid "Add-ons"
+msgstr "Byvoegings"
+
+#: inc/class-strings.php:247
+msgid "Approve %s"
+msgstr "Goedkeur%s"
+
+#: inc/class-strings.php:248
+msgid "Expire %s"
+msgstr "Verval%s"
+
+#: inc/class-strings.php:249
+msgid "%s approved"
+msgstr "%s goedgekeur"
+
+#: inc/class-strings.php:250
+msgid "%s expired"
+msgstr "%s verstryk"
+
+#: inc/class-strings.php:251
+msgid "Select category"
+msgstr "Kies kategorie"
+
+#: inc/class-strings.php:252 inc/class-strings.php:358
+#: inc/customizer/controls/class-controls-as-seen-on.php:17
+#: inc/customizer/controls/class-controls-call-to-action.php:21
+#: inc/customizer/controls/class-controls-markers.php:14
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:40
+msgid "Title"
+msgstr "Titel"
+
+#: inc/class-strings.php:253
+msgid "%s updated. View"
+msgstr "%s opgedateer. Aanskou"
+
+#: inc/class-strings.php:254
+msgid "Custom field updated."
+msgstr "Persoonlike veld opgedateer."
+
+#: inc/class-strings.php:255
+msgid "Custom field deleted."
+msgstr "Persoonlike veld verwyder."
+
+#: inc/class-strings.php:256
+msgid "%s updated."
+msgstr "%s opgedateer."
+
+#: inc/class-strings.php:257
+msgid "%s restored to revision from %s"
+msgstr "%s herstel na hersienings vorm%s"
+
+#: inc/class-strings.php:258
+msgid "%s published. View"
+msgstr "%s gepubliseer. Aanksou"
+
+#: inc/class-strings.php:259
+msgid "%s saved."
+msgstr "%s gestoor"
+
+#: inc/class-strings.php:260
+msgid "%s submitted. Preview"
+msgstr "%s ingedien. Voorskou"
+
+#: inc/class-strings.php:261
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G: i"
+
+#: inc/class-strings.php:262
+msgid "%s draft updated. Preview"
+msgstr "%s konsep opgedateer. Voorskou"
+
+#: inc/class-strings.php:263 inc/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Tipe"
+
+#: inc/class-strings.php:264
+msgid "Posted"
+msgstr "Gepos"
+
+#: inc/class-strings.php:265
+msgid "Expires"
+msgstr "Verstryk"
+
+#: inc/class-strings.php:266
+msgid "Categories"
+msgstr "Kategorieë"
+
+#: inc/class-strings.php:267
+msgid "Featured?"
+msgstr "Vertoon?"
+
+#: inc/class-strings.php:268
+msgid "Filled?"
+msgstr "Gevul?"
+
+#: inc/class-strings.php:269 inc/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-strings.php:270
+msgid "Actions"
+msgstr "Aksies"
+
+#: inc/class-strings.php:271
+msgid "ID: %d"
+msgstr "ID:% d"
+
+#: inc/class-strings.php:272
+msgid "M j, Y"
+msgstr "M j, Y"
+
+#: inc/class-strings.php:273
+msgid "by a guest"
+msgstr "deur ’n gas"
+
+#: inc/class-strings.php:274
+msgid "by %s"
+msgstr "deur%s"
+
+#: inc/class-strings.php:275
+msgid "Approve"
+msgstr "Goedkeur"
+
+#: inc/class-strings.php:276
+msgid "View"
+msgstr "Aanskou"
+
+#: inc/class-strings.php:277
+msgid "Edit"
+msgstr "Wysig"
+
+#: inc/class-strings.php:278
+msgid "Delete"
+msgstr "Verwyder"
+
+#: inc/class-strings.php:279
+msgid "Listings Per Page"
+msgstr "Lys per bladsy"
+
+#: inc/class-strings.php:280
+msgid "How many listings should be shown per page by default?"
+msgstr "Hoeveel items moet per bladsy vertoon word by verstek?"
+
+#: inc/class-strings.php:281
+msgid "Filled Positions"
+msgstr "Gevulde posisies"
+
+#: inc/class-strings.php:282
+msgid "Hide filled positions"
+msgstr "Steek gevulde posisies weg"
+
+#: inc/class-strings.php:283
+msgid "If enabled, filled positions will be hidden."
+msgstr "Wanneer geaktiveer, sal gevulde posisies weggesteek word."
+
+#: inc/class-strings.php:284
+msgid "Enable categories for listings"
+msgstr "Aktiveer kategorieë vir volledige lys"
+
+#: inc/class-strings.php:285
+msgid "Multi-select Categories"
+msgstr "Veelvuldige seleksie Kategorieë"
+
+#: inc/class-strings.php:286
+msgid "Enable category multiselect by default"
+msgstr "Aktiveer kategorie veelvuldige seleksie by verstek"
+
+#: inc/class-strings.php:287
+msgid "Category Filter Type"
+msgstr "Kategorie Filter Tipe"
+
+#: inc/class-strings.php:288
+msgid "Account Required"
+msgstr "Rekening verpligtend"
+
+#: inc/class-strings.php:289
+msgid "Submitting listings requires an account"
+msgstr "Indiening van lys vereis ’n rekening"
+
+#: inc/class-strings.php:290
+msgid "Account Creation"
+msgstr "Skep rekening"
+
+#: inc/class-strings.php:291
+msgid "Allow account creation"
+msgstr "Aanvaar skep van Rekening"
+
+#: inc/class-strings.php:292
+msgid "Account Role"
+msgstr "Rekening Rol"
+
+#: inc/class-strings.php:293
+msgid "Approval Required"
+msgstr "Vereis Goedkeuring"
+
+#: inc/class-strings.php:294
+msgid "New submissions require admin approval"
+msgstr "Nuwe voorleggings benodig admin goedkeuring"
+
+#: inc/class-strings.php:295
+msgid "If enabled, new submissions will be inactive, pending admin approval."
+msgstr "Wanneer geaktiveer, sal nuwe voorleggings onaktief wees, afhangende van admin goedkeuring."
+
+#: inc/class-strings.php:296
+msgid "Allow Pending Edits"
+msgstr "Laat Hangende wysigings toe"
+
+#: inc/class-strings.php:297
+msgid "Submissions awaiting approval can be edited"
+msgstr "Voorleggings wat wag vir goedkeuring kan gewysig word"
+
+#: inc/class-strings.php:298
+msgid "Listing Duration"
+msgstr "Duur van aanbieding"
+
+#: inc/class-strings.php:299
+msgid "Contact Method"
+msgstr "Kontak Metode"
+
+#: inc/class-strings.php:300
+msgid "Choose the contact method for listings."
+msgstr "Kies die kontak metode vir aanbiedinge."
+
+#: inc/class-strings.php:301
+msgid "Email address or website URL"
+msgstr "E-pos adres of webwerf URL"
+
+#: inc/class-strings.php:302
+msgid "Email addresses only"
+msgstr "Net e-pos adresse"
+
+#: inc/class-strings.php:303
+msgid "Website URLs only"
+msgstr "Net webwerf URLs"
+
+#: inc/class-strings.php:304
+msgid "Pages"
+msgstr "Bladsye"
+
+#: inc/class-strings.php:305
+msgid "Settings successfully saved"
+msgstr "Instellings suksesvol gestoor"
+
+#: inc/class-strings.php:306
+msgid "--no page--"
+msgstr "—geen bladsy—"
+
+#: inc/class-strings.php:307
+msgid "Select a page…"
+msgstr "Kies ’n bladsy …"
+
+#: inc/class-strings.php:308
+msgid "Save Changes"
+msgstr "Stoor veranderinge"
+
+#: inc/class-strings.php:309
+msgid "Setup"
+msgstr "Opstelling"
+
+#: inc/class-strings.php:310
+msgid "Skip this step"
+msgstr "Slaan hierdie stap oor"
+
+#: inc/class-strings.php:311
+msgid "All Done!"
+msgstr "Als gedoen!"
+
+#: inc/class-strings.php:312 job-filters-flat.php:32 job-filters-flat.php:33
+msgid "Location"
+msgstr "Plek"
+
+#: inc/class-strings.php:313
+msgid "e.g. \"London\""
+msgstr "bv “London”"
+
+#: inc/class-strings.php:314
+msgid "Leave this blank if the location is not important"
+msgstr "Los hierdie oop indien die plek nie belangrik is nie"
+
+#: inc/class-strings.php:315
+msgid "URL or email which applicants use to apply"
+msgstr "URL of e-pos wat die aansoekers gebruik om aansoek te doen mee"
+
+#: inc/class-strings.php:316
+msgid "URL to the company video"
+msgstr "URL na die maatskappy se video"
+
+#: inc/class-strings.php:317
+msgid "Position filled?"
+msgstr "Posisie gevul?"
+
+#: inc/class-strings.php:318
+msgid "Feature this listing?"
+msgstr "Wys hierdie aanbieding"
+
+#: inc/class-strings.php:319
+msgid "yyyy-mm-dd"
+msgstr "yyyy-mm-dd"
+
+#: inc/class-strings.php:320
+msgid "Posted by"
+msgstr "Geplaas deur"
+
+#: inc/class-strings.php:321
+msgid "%s Data"
+msgstr "%s Data"
+
+#: inc/class-strings.php:322
+msgid "Use file"
+msgstr "Gebruik lêer"
+
+#: inc/class-strings.php:323
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:366
+msgid "Upload"
+msgstr "Oplaai"
+
+#: inc/class-strings.php:324
+msgid "Add file"
+msgstr "Voeg leêr by"
+
+#: inc/class-strings.php:325
+msgid "Guest user"
+msgstr "Gebruiker"
+
+#: inc/class-strings.php:326
+msgid "Showing %s"
+msgstr "Wys %s"
+
+#: inc/class-strings.php:327
+msgid "Showing all %s"
+msgstr "Wat als %s"
+
+#: inc/class-strings.php:328
+msgid "located in &ldquo;%s&rdquo;"
+msgstr "geleë in die “%s”"
+
+#: inc/class-strings.php:329
+msgid "No results found"
+msgstr "Geen resultate gevind"
+
+#: inc/class-strings.php:330
+msgid "Query limit reached"
+msgstr "Navraag limiet bereik"
+
+#: inc/class-strings.php:331
+msgid "Geocoding error"
+msgstr "Geocoding fout"
+
+#: inc/class-strings.php:332
+msgid "Employer"
+msgstr "Werkgewer"
+
+#: inc/class-strings.php:333
+msgid "Search %s"
+msgstr "Soek%s"
+
+#: inc/class-strings.php:334
+msgid "All %s"
+msgstr "Alle%s"
+
+#: inc/class-strings.php:335
+msgid "Parent %s"
+msgstr "Ouer%s"
+
+#: inc/class-strings.php:336
+msgid "Parent %s:"
+msgstr "Ouer%s:"
+
+#: inc/class-strings.php:337
+msgid "Edit %s"
+msgstr "Wysig%s"
+
+#: inc/class-strings.php:338
+msgid "Update %s"
+msgstr "Opdateer%s"
+
+#: inc/class-strings.php:339
+msgid "Add New %s"
+msgstr "Nuwe%s"
+
+#: inc/class-strings.php:340
+msgid "New %s Name"
+msgstr "Nuwe%s Naam"
+
+#: inc/class-strings.php:341
+msgid "Add New"
+msgstr "Nuwe"
+
+#: inc/class-strings.php:342
+msgid "Add %s"
+msgstr "Voeg by%s"
+
+#: inc/class-strings.php:343
+msgid "New %s"
+msgstr "Nuwe%s"
+
+#: inc/class-strings.php:344
+msgid "View %s"
+msgstr "Kyk%s"
+
+#: inc/class-strings.php:345 inc/class-strings.php:560
+msgid "No %s found"
+msgstr "Geen%s gevind"
+
+#: inc/class-strings.php:346
+msgid "No %s found in trash"
+msgstr "Geen%s gevind in die asblik"
+
+#: inc/class-strings.php:347
+msgid "This is where you can create and manage %s."
+msgstr "Dit is waar jy kan skep en bestuur%s."
+
+#: inc/class-strings.php:349
+msgid "Expired"
+msgstr "Verstryk"
+
+#: inc/class-strings.php:350
+msgid "Expired (%s)"
+msgstr "Verstryk (%s)"
+
+#: inc/class-strings.php:352
+msgid "Invalid ID"
+msgstr "Ongeldig ID"
+
+#: inc/class-strings.php:353
+msgid "This position has already been filled"
+msgstr "Hierdie posisie is reeds gevul"
+
+#: inc/class-strings.php:354
+msgid "%s has been filled"
+msgstr "%s is gevul"
+
+#: inc/class-strings.php:355
+msgid "This position is not filled"
+msgstr "Hierdie posisie is nie in gevul"
+
+#: inc/class-strings.php:356
+msgid "%s has been marked as not filled"
+msgstr "%s is gemerk as nie gevul nie"
+
+#: inc/class-strings.php:357
+msgid "%s has been deleted"
+msgstr "%s is verwyder"
+
+#: inc/class-strings.php:359
+msgid "Date Posted"
+msgstr "Datum geplaas"
+
+#: inc/class-strings.php:360
+msgid "Date Expires"
+msgstr "Verval Datum"
+
+#: inc/class-strings.php:361
+msgid "Load More %s"
+msgstr "Laai meer%s"
+
+#: inc/class-strings.php:362
+msgid "Recent %s"
+msgstr "Onlangse%s"
+
+#: inc/class-strings.php:363
+msgid "Keyword"
+msgstr "Sleutelwoord"
+
+#: inc/class-strings.php:364
+msgid "Number of listings to show"
+msgstr "Aantal aanbiedinge wat wys"
+
+#: inc/class-strings.php:365
+msgid "Invalid listing"
+msgstr "Ongeldig aanbieding"
+
+#: inc/class-strings.php:366
+msgid "Save changes"
+msgstr "Stoor veranderinge"
+
+#: inc/class-strings.php:367
+msgid "Your changes have been saved."
+msgstr "Jou veranderinge is gestoor"
+
+#: inc/class-strings.php:368
+msgid "View →"
+msgstr "Aanskou"
+
+#: inc/class-strings.php:369
+msgid "Submit Details"
+msgstr "Dien besonderhede in"
+
+#: inc/class-strings.php:370 inc/class-strings.php:431
+msgid "Preview"
+msgstr "Voorskou"
+
+#: inc/class-strings.php:371
+msgid "Done"
+msgstr "Klaar"
+
+#: inc/class-strings.php:372
+msgid "you@yourdomain.com"
+msgstr "jy@joudomain.com"
+
+#: inc/class-strings.php:373
+msgid "Application URL"
+msgstr "Toepasing URL"
+
+#: inc/class-strings.php:374
+msgid "http://"
+msgstr "http: //"
+
+#: inc/class-strings.php:375
+msgid "Enter an email address or website URL"
+msgstr "Sleutel ’n e-pos adres of webwerf URL in"
+
+#: inc/class-strings.php:376
+#: inc/customizer/controls/class-controls-call-to-action.php:24
+msgid "Description"
+msgstr "beskrywing"
+
+#: inc/class-strings.php:377
+msgid "Enter the name of the company"
+msgstr "Tik die naam van die maatskappy in"
+
+#: inc/class-strings.php:378
+msgid "Website"
+msgstr "Webwerf"
+
+#: inc/class-strings.php:379
+msgid "Tagline"
+msgstr "Slagspreuk"
+
+#: inc/class-strings.php:380
+msgid "Briefly describe your company"
+msgstr "Beskryf kortliks jou maatskappy"
+
+#: inc/class-strings.php:382
+msgid "A link to a video about your company"
+msgstr "’n Skakel na ’n video oor jou maatskappy"
+
+#: inc/class-strings.php:383
+msgid "Twitter username"
+msgstr "Twitter gebruikersnaam"
+
+#: inc/class-strings.php:384
+msgid "@yourcompany"
+msgstr "@joumaatskappy"
+
+#: inc/class-strings.php:385
+msgid "Logo"
+msgstr "Handelsmerk"
+
+#: inc/class-strings.php:386
+msgid "%s is a required field"
+msgstr "%s is ’n vereiste veld"
+
+#: inc/class-strings.php:387
+msgid "%s is invalid"
+msgstr "%s ongeldig"
+
+#: inc/class-strings.php:388
+msgid "Please enter a valid contact email address"
+msgstr "Tik asseblief ’n geldige e-pos adres in"
+
+#: inc/class-strings.php:389
+msgid "Please enter a valid application URL"
+msgstr "Tik asseblief ’n geldige URL in"
+
+#: inc/class-strings.php:390
+msgid "Please enter a valid contact email address or URL"
+msgstr "Tik asseblief ’n geldige e-pos adres of URL in"
+
+#: inc/class-strings.php:391
+msgid "You must be signed in to post a new listing."
+msgstr "Jy moet inteken om ’n nuwe aanbieding te plaas."
+
+#: inc/class-strings.php:392
+msgid "Submit Listing"
+msgstr "Dien aanbieding in"
+
+#: inc/class-strings.php:393
+msgid "Edit listing"
+msgstr "Wysig aanbieding"
+
+#: inc/class-strings.php:394
+msgid "\\%s\\ (filetype %s) needs to be one of the following file types: %s"
+msgstr "\\%s \\ (filetype%s) moet een van die volgende tipes lêers wees:%s"
+
+#: inc/class-strings.php:395
+msgid "Your account"
+msgstr "Jou rekening"
+
+#: inc/class-strings.php:396
+msgid "You are currently signed in as %s."
+msgstr "Jy is huidiglik ingeteken as %s."
+
+#: inc/class-strings.php:397
+msgid "Sign out"
+msgstr "Teken uit"
+
+#: inc/class-strings.php:398
+msgid "Have an account?"
+msgstr "Klaar ’n rekening?"
+
+#: inc/class-strings.php:399
+msgid "Sign in"
+msgstr "Teken in"
+
+#: inc/class-strings.php:400
+msgid "optionally"
+msgstr "opsioneel"
+
+#: inc/class-strings.php:401
+msgid "You must sign in to create a new listing."
+msgstr "Jy moet in teken om ’n nuwe aanbieding te skep."
+
+#: inc/class-strings.php:402
+msgid "Your email"
+msgstr "Jou e-pos"
+
+#: inc/class-strings.php:403
+msgid "(optional)"
+msgstr "(opsioneel)"
+
+#: inc/class-strings.php:404 inc/template-tags.php:224
+msgid "%s ago"
+msgstr "%s gelede"
+
+#: inc/class-strings.php:405
+msgid "No more results found."
+msgstr "Geen meer resultate gevind nie."
+
+#: inc/class-strings.php:406
+msgid "Posted %s ago"
+msgstr "Geplaas %s gelede"
+
+#: inc/class-strings.php:407
+msgid "This position has been filled"
+msgstr "Hierdie posisie is gevul"
+
+#: inc/class-strings.php:408
+msgid "This listing has expired"
+msgstr "Hierdie lys is verstryk"
+
+#: inc/class-strings.php:409
+msgid "remove"
+msgstr "verwyder"
+
+#: inc/class-strings.php:410
+msgid "or"
+msgstr "of"
+
+#: inc/class-strings.php:411
+msgid "Maximum file size: %s."
+msgstr "Maksimum lêer grootte:%s."
+
+#: inc/class-strings.php:412
+msgid "Apply using webmail:"
+msgstr "Pas toe deur webmail:"
+
+#: inc/class-strings.php:413
+msgid ""
+"To contact this listing owner please visit the following URL: <a "
+"href=\\\"%1$s\\\" target=\\\"_blank\\\">%1$s %rarr;</a>"
+msgstr "Om hierdie aanbieding se eienaar te kontak besoek die volgende URL: <a href=\\”%1$s\\” target=\\”_blank\\”>%1$s %rarr;</a>"
+
+#: inc/class-strings.php:416
+msgid "Contact %s"
+msgstr "Kontak%s"
+
+#: inc/class-strings.php:420
+msgid "You need to be signed in to manage your listings."
+msgstr "Jy moet in geteken om jou aanbiedinge te bestuur."
+
+#: inc/class-strings.php:421
+msgid "You do not have any active listings."
+msgstr "Jy het geen aktiewe aanbiedinge nie."
+
+#: inc/class-strings.php:422
+msgid "Mark not filled"
+msgstr "Mark nie gevul nie"
+
+#: inc/class-strings.php:423
+msgid "Mark filled"
+msgstr "Mark gevul"
+
+#: inc/class-strings.php:424
+msgid "Relist"
+msgstr "Denoteer"
+
+#: inc/class-strings.php:425 job-filters-flat.php:27 job-filters-flat.php:28
+msgid "Keywords"
+msgstr "sleutelwoorde"
+
+#: inc/class-strings.php:426 job-filters-flat.php:39
+msgid "Category"
+msgstr "Kategorie"
+
+#: inc/class-strings.php:427 job-filters-flat.php:40
+msgid "Any category"
+msgstr "Enige kategorie"
+
+#: inc/class-strings.php:428
+msgid "Company Details"
+msgstr "Maatskappy Besonderhede"
+
+#: inc/class-strings.php:429
+msgid "%s submitted successfully. Your listing will be visible once approved."
+msgstr "%s suksesvol ingedien. Jou aanbieding sal sigbaar wees sodra dit goedgekeur is."
+
+#: inc/class-strings.php:430
+msgid "Draft"
+msgstr "Konsep"
+
+#: inc/class-strings.php:432
+msgid "Pending approval"
+msgstr "Wag vir goedkeuring"
+
+#: inc/class-strings.php:433
+msgid "Pending payment"
+msgstr "Wag vir betaling"
+
+#: inc/class-strings.php:434 inc/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Aktiewe"
+
+#: inc/class-strings.php:435
+msgid "Reset"
+msgstr "Terugstel"
+
+#: inc/class-strings.php:436
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/class-strings.php:437
+msgid "Your email address isn’t correct."
+msgstr "Jou e-posadres is nie korrek nie."
+
+#: inc/class-strings.php:438
+msgid "This email is already registered, please choose another one."
+msgstr "Hierdie e-pos is reeds geregistreer, kies asseblief ’n ander een."
+
+#: inc/class-strings.php:439
+msgid "Choose a category&hellip;"
+msgstr "Kies ’n kategorie &hellip"
+
+#: inc/class-strings.php:440
+msgid "Inactive"
+msgstr "Onaktiewe"
+
+#: inc/class-strings.php:441
+msgid "Application via \\%s\\ listing on %s"
+msgstr "Aansoek via \\%s \\ aanbieding op%s"
+
+#: inc/class-strings.php:442
+msgid "Anywhere"
+msgstr "Oral"
+
+#: inc/class-strings.php:443
+msgid "Are you sure you want to delete this listing?"
+msgstr "Is jy seker jy wil hierdie aanbieding verwyder?"
+
+#: inc/class-strings.php:444
+msgid ""
+"Your listings are shown in the table below. Expired listings will be "
+"automatically removed after 30 days."
+msgstr "Jou aanbiedings verskyn in die tabel hieronder. Verstrykte aanbiedings sal outomaties verwyder word na 30 dae."
+
+#: inc/class-strings.php:445
+msgid ""
+"If you don&rsquo;t have an account you can %screate one below by entering "
+"your email address/username. Your account details will be confirmed via "
+"email."
+msgstr ""
+
+#: inc/class-strings.php:446
+msgid ""
+"To contact this listing owner please visit the following URL: <a "
+"href=\"%1$s\" target=\"_blank\">%1$s &rarr;</a>"
+msgstr "Om hierdie aanbieding se eienaar te kontak besoek die volgende URL: <a href=\"%1$s\" target=\"_blank\">%1$s &rarr;</a>"
+
+#: inc/class-strings.php:447
+msgid ""
+"To contact this listing <strong>email your details to</strong> <a "
+"class=\"job_application_email\" href=\"mailto:%1$s%2$s\">%1$s</a>"
+msgstr "Om hierdie aanbieding te kontak <strong>e-pos jou besonderhede</strong> <a class=“job_application_email” href=\"mailto:%1$s%2$s\">%1$s</a>"
+
+#: inc/class-strings.php:451 inc/class-strings.php:455
+msgid "%s Tags"
+msgstr "%s Etikette"
+
+#: inc/class-strings.php:459
+msgid "%s-tag"
+msgstr "%s-etiket"
+
+#: inc/class-strings.php:463
+msgid ""
+"Choose some tags, such as required skills available features, for this "
+"listing."
+msgstr "Kies ’n paar etikette, soos vereiste vaardighede wat beskikbaar is, vir hierdie aanbieding."
+
+#: inc/class-strings.php:464
+msgid "Filter by tag:"
+msgstr "Filter deur etikette:"
+
+#: inc/class-strings.php:465
+msgid "tagged"
+msgstr "Etiketteer"
+
+#: inc/class-strings.php:466
+msgid "Listings will be shown if within ALL chosen tags"
+msgstr "Aanbiedinge sal vertoon word indien dit binne in enige van die gekieste etikette is"
+
+#: inc/class-strings.php:467
+msgid "Listings will be shown if within ANY chosen tags"
+msgstr "Aanbiedinge sal vertoon word indien dit binne in al die gekieste kategorieë is"
+
+#: inc/class-strings.php:470
+msgid "Maximum %s Tags"
+msgstr "Maksimum%s Etikette"
+
+#: inc/class-strings.php:476
+msgid "%s Regions"
+msgstr "%s Streke"
+
+#: inc/class-strings.php:480 inc/class-strings.php:572
+msgid "%s Region"
+msgstr "%s streek"
+
+#: inc/class-strings.php:484
+msgid "%s-region"
+msgstr "%s-streek"
+
+#: inc/class-strings.php:488
+msgid "Display a list of %s regions."
+msgstr "Vertoon ’n lys van%s streke."
+
+#: inc/class-strings.php:493
+msgid "Choose a package before entering %s details"
+msgstr "Kies ’n pakket voor jy %s besonderhede invul"
+
+#: inc/class-strings.php:494
+msgid "Choose a package after entering %s details"
+msgstr "Kies ’n pakket na die %s besonderhede in gevul is."
+
+#: inc/class-strings.php:495
+msgid "Choose a package"
+msgstr "Kies ’n pakket"
+
+#: inc/class-strings.php:496
+msgid "Purchase Package:"
+msgstr "Koop Pakket:"
+
+#: inc/class-strings.php:497
+msgid "Listing Details &rarr;"
+msgstr "Aanbieding besonderhede &rarr;"
+
+#: inc/class-strings.php:499
+msgid "%s listing posted out of %d"
+msgstr "%s aanbieding geplaas uit% d"
+
+#: inc/class-strings.php:500
+msgid "%s listings posted out of %d"
+msgstr "%s aanbiedinge geplaas uit %d"
+
+#: inc/class-strings.php:503
+msgid "%s listing posted"
+msgstr "%s aanbieding geplaas"
+
+#: inc/class-strings.php:504
+msgid "%s listings posted"
+msgstr "%s aanbiedinge geplaas"
+
+#: inc/class-strings.php:507
+msgid "%s for %s listing"
+msgstr "%s vir %s aanbieding"
+
+#: inc/class-strings.php:508
+msgid "%s for %s listings"
+msgstr "%s vir %s aanbiedinge"
+
+#: inc/class-strings.php:511
+msgid "%s Package"
+msgstr "%s pakket"
+
+#: inc/class-strings.php:515
+msgid "%s Package Subscription"
+msgstr "%s pakket subskripsie"
+
+#: inc/class-strings.php:519
+msgid "%s"
+msgstr ""
+
+#: inc/class-strings.php:523
+msgid "%s limit"
+msgstr "%s limiet"
+
+#: inc/class-strings.php:527
+msgid "%s duration"
+msgstr "%s tydsduur"
+
+#: inc/class-strings.php:531
+msgid "The number of days that the %s will be active"
+msgstr "Aantal dae wat die %s aktief sal wees"
+
+#: inc/class-strings.php:535
+msgid "Feature %s?"
+msgstr "Vertoning %s?"
+
+#: inc/class-strings.php:539
+msgid "Feature this %s -- it will be styled differently and sticky."
+msgstr "Vertoning van hierdie %s - dit sal anders gestyl en taai word."
+
+#: inc/class-strings.php:543
+msgid "My %s Packages"
+msgstr "My %s pakkette"
+
+#: inc/class-strings.php:547
+msgid "%s Remaining"
+msgstr "%s Oorblywende"
+
+#: inc/class-strings.php:552
+msgid "#%d Payment Update"
+msgstr "#%d Opdatering van betaling"
+
+#: inc/class-strings.php:555
+msgid "Results for your \"%s\" alert:"
+msgstr "Waarskuwing: resultate vir jou “%s”:"
+
+#: inc/class-strings.php:556
+msgid "Results Matching \"%s"
+msgstr "Resultate gelyk aan \"%s"
+
+#: inc/class-strings.php:557
+msgid ""
+"No results were found matching your search. Login to your account to change "
+"your alert criteria"
+msgstr "Geen resultate is gevind wat ooreenstem met jou soektog nie. Teken in u rekening in en verander u waarskuwing kriteria."
+
+#: inc/class-strings.php:558
+msgid "This alert will automatically stop sending after %s."
+msgstr "Hierdie waarskuwing sal outomaties ophou na %s."
+
+#: inc/class-strings.php:564
+msgid "Optionally add a keyword to match %s against"
+msgstr "Jy kan opsioneel ’n sleutelwoord byvoeg om gelyk te wees teen %s"
+
+#: inc/class-strings.php:576
+msgid "Any %s type"
+msgstr "Enige tipe %s"
+
+#: inc/class-strings.php:580
+msgid "%s Type:"
+msgstr "%s Tipe:"
+
+#: inc/class-strings.php:583
+msgid ""
+"Your alerts are shown in the table below. The alerts will be sent to %s."
+msgstr "Jou waarskuwings verskyn in die tabel hieronder. Waarskuwings sal gestuur word na %s."
+
+#: inc/class-strings.php:584
+msgid "Alert me of %s like this"
+msgstr "Waarsku my van  %s soos dit"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Installeering vereis plugins"
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Installeer Plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Iets het fout gegaan met die plugin API."
+
+#: inc/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Hierdie tema vereis die volgende plugin: %1$s."
+msgstr[1] "Hierdie tema vereis die volgende plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Hierdie tema stel die volgende plugin voor: %1$s."
+msgstr[1] "Hierdie tema stel die volgende plugins voor: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:347
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] "Jammer, maar jy het nie die regte permissie om die %1$s plugin te installeer nie."
+msgstr[1] "Jammer, maar jy het nie die regte permissie om die %1$s plugins te installeer nie."
+
+#: inc/class-tgm-plugin-activation.php:352
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Die volgende plugin moet opgedateer word na sy nuutste weergawe om maksimum verenigbaarheid met hierdie tema te verseker:%1$s."
+msgstr[1] "Die volgende plugins moet opgedateer word na hul nuutste weergawe om maksimum verenigbaarheid met hierdie tema te verseker:%1$s."
+
+#: inc/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Daar is ’n opdatering beskikbaar vir : %1$s."
+msgstr[1] "Daar is opdaterings beskikbaar vir : %1$s."
+
+#: inc/class-tgm-plugin-activation.php:362
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] "Jammer, maar jy het nie die permissie om die %1$s plugin op te dateer nie."
+msgstr[1] "Jammer, maar jy het nie die permissies om die %1$s plugins op te dateer nie."
+
+#: inc/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Die volgende vereiste plugin is onaktief: %1$s."
+msgstr[1] "Die volgende vereiste plugins is onaktief: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Die volgende voorgestelde plugin is huidiglik onaktief: %1$s."
+msgstr[1] "Die volgende voorgestelde plugins is huidiglik onaktief: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:377
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] "Jammer, maar jy het nie die permissie om die %1$s plugin te aktiveer nie."
+msgstr[1] "Jammer, maar jy het nie die permissie om die %1$s plugins te aktiveer nie."
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin Plugin: %s te installeer"
+msgstr[1] "Begin Plugins: %s te installeer"
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin Plugin opdateer"
+msgstr[1] "Begin Plugins opdateer"
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Aktiveer plugin"
+msgstr[1] "Aktiveer plugins"
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Keer terug na vereiste plugins installeerder"
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Keer terug na beheerpaneelbord"
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin suksesvol geaktiveer."
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Geen aksie het plaasgevind nie. Plugin %1$s was reeds geaktiveer."
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "Plugin nie geaktiveer nie. ’n Nuwer weergawe van %s in benodig vir hierdie tema.  Dateer die plugin op asseblief."
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins is geïnstalleer en suksesvol geaktiveer. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Verstoot hierdie kennisgewing"
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontak asseblief die administrateur van hierdie webtuiste vir hulp."
+
+#: inc/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Hierdie Plugin moet opgedateer word om verenigbaar te wees met jou tema."
+
+#: inc/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Opdatering word vereis"
+
+#: inc/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Stel eerder die parent_slug veranderlike."
+
+#: inc/class-tgm-plugin-activation.php:828
+#: inc/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Keer terug na die beheerpaneelbord"
+
+#: inc/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "Die afgeleë plugin pakket bevat nie die leêr met die versoekte slug nie en herbenoeming het nie gewerk nie."
+
+#: inc/class-tgm-plugin-activation.php:935
+#: inc/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "Kontak asseblief die plugin se verskaffer en vra vir hul om hul plugin binne in die WordPress reëls saam te stel."
+
+#: inc/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "Die afgeleë plugin pakket bestaan uit meer as een leêr, maar dit is nie in ’n leêrgids geplaas nie."
+
+#: inc/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Vereiste"
+
+#: inc/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Voorgestelde"
+
+#: inc/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Eksterne Bron"
+
+#: inc/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Vooraf verpak"
+
+#: inc/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Nie geïnstalleer nie"
+
+#: inc/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleer Maar nie geaktiveer nie"
+
+#: inc/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Vereiste opdatering is nie beskikbaar nie."
+
+#: inc/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Vereis opdatering"
+
+#: inc/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Voorgetselde opdatering"
+
+#: inc/class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "In te stalleer <span class=\"count\">(%s)</span>"
+msgstr[1] "In te stalleer <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Opdateering beskikbaar %s"
+msgstr[1] "Opdateerings beskikbaar %s"
+
+#: inc/class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktiverings <span class=\"count\">(%s)</span>"
+msgstr[1] "Aktiverings <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Ingestalleerde weergawe"
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Minimum vereiste weergawe"
+
+#: inc/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Beskikbare weergawe"
+
+#: inc/class-tgm-plugin-activation.php:2422
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr "Geen plugins om te installeer nie, op te dateer of aktiveer nie. <a href=\"%1$s\">keer terug na die beheerpaneelbord</a>"
+
+#: inc/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Bron"
+
+#: inc/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Weergawe"
+
+#: inc/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Dateer die boodskap van die plugin outeur op."
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Installeer"
+
+#: inc/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Opdateer"
+
+#: inc/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Aktiveer"
+
+#: inc/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Geen plugins was geselekteer om geïnstalleer te word nie. Geen aksie het plaas gevind nie."
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Geen plugins was geselekteer om opgedateer te word nie. Geen aksie het plaas gevind nie."
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "Geen plugins is beskikbaar om huidiglik geïnstalleer te word nie."
+
+#: inc/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "Geen plugins is beskikbaar om huidiglik opgedateer te word nie."
+
+#: inc/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Geen plugins was geselekteer om geaktiveer te word nie. Geen aksie het plaas gevind nie."
+
+#: inc/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "Geen plugins is beskikbaar om huidiglik geaktiveer te word nie."
+
+#: inc/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Plugin aktivering was onsuksesvol."
+
+#: inc/class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Dateer Plugin op %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "’n Probleem het ontstaan tydens installering %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "Die installasie van %1$s was onsuksesvol"
+
+#: inc/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr "Die installering en aktivering proses begin. Hierdie proses kan ’n rukkie neem, wees asseblief geduldig."
+
+#: inc/class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s is suksesvol geïnstalleer en geaktiveer."
+
+#: inc/class-tgm-plugin-activation.php:3370
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Wys besonderhede"
+
+#: inc/class-tgm-plugin-activation.php:3370
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Verberg besonderhede "
+
+#: inc/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Alle installasies en aktiverings is afgehandel."
+
+#: inc/class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installering en aktivering plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "Die installering proses begin. Hierdie proses kan ’n rukkie neem, wees asseblief geduldig."
+
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "%1$s suksesvol geïnstalleer"
+
+#: inc/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Alle installasies is volledig."
+
+#: inc/class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Plugin installering %1$s (%2$d/%3$d)"
+
+#: inc/class-widget.php:242 inc/widgets/class-widget-home-features.php:65
+msgid "Choose Image"
+msgstr "Kies ’n beeld"
+
+#: inc/class-widget.php:270
+#: inc/customizer/controls/class-controls-labels.php:26
+#: inc/customizer/controls/class-controls-nav.php:29
+msgid "None"
+msgstr "Geen"
+
+#: inc/class-widgetized-pages.php:23
+msgid "Page: %s"
+msgstr "Bladsy: %s"
+
+#: inc/class-widgetized-pages.php:24
+msgid "Widgets that appear on the \"%s\" page."
+msgstr "Widgets wat verskyn op \"%s\" bladsye."
+
+#: inc/customizer/class-customizer-panels.php:16
+msgid "General"
+msgstr "Algemene"
+
+#: inc/customizer/class-customizer-panels.php:20
+msgid "Appearance"
+msgstr "Voorkoms"
+
+#: inc/customizer/class-customizer-panels.php:23
+msgid "Colors & Scheme"
+msgstr "Kleure en skema"
+
+#: inc/customizer/class-customizer-panels.php:24
+msgid ""
+"Choose a color scheme and continue to\n"
+"\t\t\t\t\t\tcustomize based on your brand. Certain schemes use the\n"
+"\t\t\t\t\t\tcolors differently so be sure to experiment!"
+msgstr "Kies ’n kleur skema en gaan voort na \n\t\t\t\t\t\tpersoonlike aanpasings gebaseer op jou handelsmerk. Party skemas gebruik\n\t\t\t\t\t\tkleure verskillend en moet jy experimenteer."
+
+#: inc/customizer/class-customizer-panels.php:32
+msgid "Header & Logo"
+msgstr "Header & Handelsmerk"
+
+#: inc/customizer/class-customizer-panels.php:37
+msgid "Footer Area"
+msgstr "Footer Area"
+
+#: inc/customizer/class-customizer-panels.php:40
+msgid "Call to Action"
+msgstr "Aksie op klik:"
+
+#: inc/customizer/class-customizer-panels.php:43
+msgid "As Seen On"
+msgstr "Soos gesien by"
+
+#: inc/customizer/class-customizer-panels.php:46
+msgid "Copyright"
+msgstr "Kopiereg"
+
+#: inc/customizer/class-customizer-panels.php:109
+msgid "Homepage Display"
+msgstr "Tuisblad vertoon"
+
+#: inc/customizer/controls/class-controls-as-seen-on.php:20
+msgid "Logos"
+msgstr "Handelsmerke"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:17
+msgid "Display this section"
+msgstr "Vertoon op hierdie gedeelte"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:28
+msgid "Button Label"
+msgstr "knoppie etiket"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:31
+msgid "Button Link"
+msgstr "Knoppie skakel"
+
+#: inc/customizer/controls/class-controls-call-to-action.php:34
+msgid "Button Subtext"
+msgstr "Knoppie subtext"
+
+#: inc/customizer/controls/class-controls-colors.php:23
+#: inc/integrations/wp-job-manager/map/customizer/class-customizer-controls-map-appearance.php:19
+msgid "Color Scheme"
+msgstr "kleurskema"
+
+#: inc/customizer/controls/class-controls-colors.php:29
+msgid "Header Background Color"
+msgstr "Agtergrond kleur:"
+
+#: inc/customizer/controls/class-controls-colors.php:33
+msgid "Navigation Text Color"
+msgstr "Navigasie teks kleur:"
+
+#: inc/customizer/controls/class-controls-colors.php:37
+msgid "Link Text Color"
+msgstr "Skakel Teks kleur:"
+
+#: inc/customizer/controls/class-controls-colors.php:41
+msgid "Body Text Color"
+msgstr "Lyf teks kleur"
+
+#: inc/customizer/controls/class-controls-colors.php:45
+msgid "Primary Color"
+msgstr "Primêre kleur"
+
+#: inc/customizer/controls/class-controls-colors.php:49
+msgid "Accent Color"
+msgstr "Aksent kleur"
+
+#: inc/customizer/controls/class-controls-colors.php:53
+msgid "\"As Seen On\" Background Color"
+msgstr "“Soos gesien by“ Agtergrond kleur"
+
+#: inc/customizer/controls/class-controls-colors.php:57
+msgid "Footer Widgets Background Color"
+msgstr "Footer Widgets agtergrond kleur"
+
+#: inc/customizer/controls/class-controls-colors.php:61
+msgid "Footer Background Color"
+msgstr "Footer agtergrond kleur"
+
+#: inc/customizer/controls/class-controls-copyright.php:17
+#: inc/customizer/controls/class-controls-listing-archive.php:33
+msgid "Display Style"
+msgstr "Vertonings styl"
+
+#: inc/customizer/controls/class-controls-copyright.php:20
+msgid "Dark"
+msgstr "Donker"
+
+#: inc/customizer/controls/class-controls-copyright.php:21
+msgid "Transparent"
+msgstr "Transparansie"
+
+#: inc/customizer/controls/class-controls-copyright.php:25
+msgid "Copyright Text"
+msgstr "Kopiereg teks"
+
+#: inc/customizer/controls/class-controls-header_image.php:17
+msgid "Fixed Header"
+msgstr "Reg gemaakte header"
+
+#: inc/customizer/controls/class-controls-labels.php:17
+msgid "Singular Label"
+msgstr "Enkel etiket"
+
+#: inc/customizer/controls/class-controls-labels.php:20
+msgid "Plural Label"
+msgstr "Meervoudige etiket"
+
+#: inc/customizer/controls/class-controls-labels.php:23
+msgid "Base Country"
+msgstr "Land"
+
+#: inc/customizer/controls/class-controls-labels.php:25
+msgid "This controls autocomplete priority, distance units, and more."
+msgstr "Hierdie beheer die outovoltooing prioriteit, afstand eenhede en meer."
+
+#: inc/customizer/controls/class-controls-labels.php:31
+msgid ""
+"If associated with a listing the fields will appear on the submission form"
+msgstr "As ’n aanbieding verband hou met van die velde sal dit verskyn op die inskrywingsvorm."
+
+#: inc/customizer/controls/class-controls-labels.php:33
+msgid "Associate with listing"
+msgstr "Assosieer met aanbieding"
+
+#: inc/customizer/controls/class-controls-labels.php:34
+msgid "Associate with user"
+msgstr "Assosieer met die gebruiker"
+
+#: inc/customizer/controls/class-controls-labels.php:38
+msgid "Use \"directory\" submission fields"
+msgstr "Gebruik “gids” voorlegging velde"
+
+#: inc/customizer/controls/class-controls-labels.php:42
+msgid "Allow comments on gallery images"
+msgstr ""
+
+#: inc/customizer/controls/class-controls-labels.php:46
+msgid "Use categories only"
+msgstr "Gebruik slegs kategorieë"
+
+#: inc/customizer/controls/class-controls-labels.php:48
+msgid ""
+"Categories will be used to create map markers, and types will\n"
+"                be hidden from all other areas. Categories must be enabled in Listings > Settings.\n"
+"                <br /><br />Refresh this page in your browser after saving."
+msgstr ""
+
+#: inc/customizer/controls/class-controls-listing-archive.php:17
+msgid "Display"
+msgstr "Vertoning"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:20
+msgid "Results Only"
+msgstr "Slegs resultate"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:21
+msgid "Map + Results"
+msgstr "Kaart + Resultate"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:25
+msgid "Map Position"
+msgstr "Kaart Posisie"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:28
+msgid "Side (fixed)"
+msgstr "Kant (vas)"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:29
+#: inc/integrations/facetwp/class-facetwp.php:123
+msgid "Top"
+msgstr "Bo"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:36
+msgid "Grid"
+msgstr "Ruit"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:37
+msgid "List"
+msgstr "Lys"
+
+#: inc/customizer/controls/class-controls-listing-archive.php:52
+#: inc/customizer/controls/class-controls-map-behavior.php:97
+#: inc/customizer/controls/class-controls-marker-appearance.php:49
+msgid "Default"
+msgstr "(standaard)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:17
+msgid "Google Maps API Key (optional)"
+msgstr "Google Maps API-sleutel (opsioneel)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:20
+msgid "Info Bubble Trigger"
+msgstr "Info borrel Sneller"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:23
+msgid "Hover"
+msgstr "Fladder:"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:24
+msgid "Click"
+msgstr "klik"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:28
+msgid "Use Clusters"
+msgstr "Gebruik Bondels"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:32
+msgid "Cluster Grid Size (px)"
+msgstr "Bondel Ruit Grote"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:35
+msgid "Autofit on load"
+msgstr "Outomaties pas met laai"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:39
+msgid "Default Center Coordinate"
+msgstr "Standaard Middel Koördinaat"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:42
+msgid "Default Zoom Level"
+msgstr "Standaard zoem vlak"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:50
+msgid "Max Zoom In Level"
+msgstr "Maksimun in zoem vlak"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:58
+msgid "Max Zoom Out Level"
+msgstr "Maksimum uit Zoem vlak"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:66
+msgid "Zoom with Scrollwheel"
+msgstr ""
+
+#: inc/customizer/controls/class-controls-map-behavior.php:75
+msgid "Search Radius Min (%s)"
+msgstr "Soek Radius Min (%s)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:79
+msgid "Search Radius Max (%s)"
+msgstr "Soek Radius Maksimum (%s)"
+
+#: inc/customizer/controls/class-controls-map-behavior.php:83
+msgid "Search Radius Default (%s)"
+msgstr "Soek Radius Standaard (%s)"
+
+#: inc/customizer/controls/class-controls-marker-appearance.php:28
+msgid "%s Icon Class"
+msgstr "%s Ikoon klas"
+
+#: inc/customizer/controls/class-controls-marker-appearance.php:33
+msgid "%s Marker Color"
+msgstr "%s Merker Kleur"
+
+#: inc/customizer/controls/class-controls-nav.php:19
+msgid "Display cart icon"
+msgstr "Vertoon cart ikoon"
+
+#: inc/customizer/controls/class-controls-nav.php:23
+msgid "Display search icon"
+msgstr "Vertoon soek ikoon"
+
+#: inc/customizer/controls/class-controls-nav.php:27
+msgid "Secondary Mega Menu Taxonomy"
+msgstr "Sekondêre Mega Menu Taksonomie"
+
+#: inc/customizer/helper-functions.php:33
+msgid "Listing"
+msgstr "Aanbieding"
+
+#: inc/customizer/helper-functions.php:34
+msgid "Listings"
+msgstr "Aanbiedings"
+
+#: inc/customizer/helper-functions.php:67
+msgid "Copyright %s &copy; %s. All Rights Reserved"
+msgstr "Kopiereg ©%s%s. Alle regte voorbehou"
+
+#: inc/extras.php:35
+msgid "Page %s"
+msgstr "Bladsy: %s"
+
+#: inc/integrations/facetwp/class-facetwp-template.php:133
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:833
+#: sidebar-shop-archive.php:23
+msgid "Toggle Filters"
+msgstr "Toggle Filters"
+
+#: inc/integrations/facetwp/class-facetwp.php:119
+msgid "FacetWP Filter Position"
+msgstr "FacetWP Filter Posisie"
+
+#: inc/integrations/facetwp/class-facetwp.php:122
+msgid "Side"
+msgstr "Kant"
+
+#: inc/integrations/facetwp/class-facetwp.php:128
+msgid "FacetWP Filters"
+msgstr "FacetWP Filters"
+
+#: inc/integrations/facetwp/class-facetwp.php:129
+msgid ""
+"A comma (,) separated list of FacetWP facet slugs. The order they appear "
+"here will be the order they appear on your website."
+msgstr "’n Komma (,) geskei die lys van FacetWP faset slugs. Die volgorde waarin hulle verskyn hier sal die volgorde wees waarin hulle sal verskyn op jou webwerf."
+
+#: inc/integrations/jetpack/class-jetpack-share.php:47
+msgid "Share"
+msgstr "Deel"
+
+#: inc/integrations/ratings/class-comments.php:11
+msgid "Newest First"
+msgstr "Nuutste eerste"
+
+#: inc/integrations/ratings/class-comments.php:12
+msgid "Oldest First"
+msgstr "Oudste eerste"
+
+#: inc/integrations/ratings/class-comments.php:13
+msgid "Rating (High-Low)"
+msgstr "Gradering (hoog-laag)"
+
+#: inc/integrations/ratings/class-comments.php:14
+msgid "Rating (Low-High)"
+msgstr "Gradering (Lae-High)"
+
+#: inc/integrations/ratings/class-rating-listing.php:12
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s Opinie"
+msgstr[1] "%s Opinies"
+
+#: inc/integrations/ratings/class-ratings.php:54
+msgid "Your Rating"
+msgstr "Jou gradering"
+
+#: inc/integrations/ratings/class-ratings.php:120
+msgid "<span itemprop=\"reviewCount\">%d</span> Review"
+msgid_plural "<span itemprop=\"reviewCount\">%d</span> Reviews"
+msgstr[0] "<span itemprop=“reviewCount”>% d</span> Opinie"
+msgstr[1] "<span itemprop=“reviewCount”>% d</span> Opinies"
+
+#: inc/integrations/ratings/class-ratings.php:134
+#: inc/integrations/wp-job-manager-reviews/class-wp-job-manager-reviews.php:75
+msgid "%d Star"
+msgid_plural "%d Stars"
+msgstr[0] "% d Stêr"
+msgstr[1] "% d Stêrre"
+
+#: inc/integrations/woocommerce/class-woocommerce-template.php:97
+msgid "Item"
+msgid_plural "Items"
+msgstr[0] "Item"
+msgstr[1] "Items"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:53
+msgid "Product Sidebar"
+msgstr "Produk sybalk"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:62
+msgid "Shop Sidebar"
+msgstr "Winkel sybalk"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:100
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:101
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:102
+msgid "Google+ URL"
+msgstr "Google+ URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:103
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:104
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:105
+msgid "GitHub URL"
+msgstr "GitHub URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:106
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/integrations/woocommerce/class-woocommerce.php:117
+#: inc/integrations/woocommerce/class-woocommerce.php:120
+msgid "Biography"
+msgstr "Biografie"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:13
+msgid "Display the social profiles of the listing author"
+msgstr "Vertoon die sosiale profiele van die aanbieding skrywer"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:15
+msgid "Listify - Listing: Social Profiles"
+msgstr "Listify - Aanbiedings: Sosiale Profiele"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:20
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:17
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:18
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:18
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:20
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:17
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:20
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:20
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job_listing-tags.php:24
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:20
+#: inc/widgets/class-widget-ad.php:20
+#: inc/widgets/class-widget-home-feature-callout.php:79
+#: inc/widgets/class-widget-home-features.php:25
+#: inc/widgets/class-widget-home-features.php:159
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/integrations/woocommerce/widgets/class-widget-job_listing-social-profiles.php:25
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:25
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:25
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job_listing-tags.php:29
+#: inc/widgets/class-widget-ad.php:25
+msgid "Icon:"
+msgstr "Ikoon:"
+
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:13
+msgid "Display the booking form for the linked bookable product."
+msgstr "Vertoon die besprekings vorm vir die gekoppelde bespreekbaar produk."
+
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:15
+msgid "Listify - Listing: Bookings"
+msgstr "Listify - Aanbiedinge: Bespreekings"
+
+#: inc/integrations/woocommerce-bookings/widgets/class-widget-job_listing-bookings.php:46
+msgid "Book Now"
+msgstr "Bespreek nou:"
+
+#: inc/integrations/wp-job-manager/class-walker-category.php:28
+msgid "View all listings filed under %s"
+msgstr "Sien alle inskrywings geliasseer hier onder%s"
+
+#: inc/integrations/wp-job-manager/class-walker-category.php:57
+msgid "Feed for all posts filed under %s"
+msgstr "Voer vir alle plasings geliasseer hier onder %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:45
+#: inc/integrations/wp-job-manager/class-wp-job-manager-business-hours.php:117
+#: inc/integrations/wp-job-manager/class-wp-job-manager-writepanels.php:13
+#: sidebar-single-job_listing.php:57
+msgid "Hours of Operation"
+msgstr "Werks Ure"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:53
+#: inc/integrations/wp-job-manager-claim-listing/class-wp-job-manager-claim-listing.php:54
+msgid "Claim Listing"
+msgstr "Eis Aanbieding"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:56
+msgid "Claim \"%s\""
+msgstr "Eis “%s”"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:71
+msgid "Claimed:"
+msgstr "Geëis"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-claim.php:73
+msgid "The owner has been verified"
+msgstr "Die eienaar is geverifieer"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:16
+msgid "Labels & Behavior"
+msgstr "Etikette & gedrag"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:19
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:313
+msgid "Results"
+msgstr "Resultate"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:22
+msgid "Marker Appearance"
+msgstr "Merker Voorkoms"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:25
+msgid "Map Appearance"
+msgstr "Kaart Voorkoms"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-customizer.php:28
+msgid "Map Settings"
+msgstr "Kaart Instellings"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:70
+msgid "Add Photos"
+msgstr "Voeg foto’s by"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:122
+msgid "No images selected."
+msgstr "Geen beeld geselekteer"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:247
+msgid "%s Gallery"
+msgstr "%s Galery"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:273
+msgid "Manage gallery images"
+msgstr "Bestuur galery foto’s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:274
+msgid "Clear gallery"
+msgstr "Vee galery skoon"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:363
+#: popup-content-single-job_listing-add-photo.php:18
+msgid "Add Images to Gallery"
+msgstr "Voeg beeld by Galery"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:364
+msgid "Add to gallery"
+msgstr "Voeg by galery"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:365
+msgid "Delete image"
+msgstr "Verwyder beeld"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:367
+msgid "Select this"
+msgstr "Kies hierdie"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:77
+msgid "Phone Number"
+msgstr "Telefoonnommer"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:90
+msgid "Company phone"
+msgstr "Maatskappy foon"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:101
+msgid "Cover Image"
+msgstr "Voor sig beeld"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:120
+msgid "Gallery Images"
+msgstr "Galery beelde"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-submission.php:149
+msgid "Company %s"
+msgstr "Maatskappy %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:306
+msgid "%s Archives - Sidebar"
+msgstr "%s Argiewe - Sybalk"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:315
+msgid "Single %s - Main Content"
+msgstr "Enkele %s - inhoud"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:324
+msgid "Single %s - Sidebar"
+msgstr "Enkele %s - Sybalk"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:667
+msgid "Submit a Review"
+msgstr "Stuur ’n Oorsig"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:728
+msgid "Filter by type:"
+msgstr "Filtreer in soorte"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:750
+msgid "Loading..."
+msgstr "Laai …"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:816
+msgid "<span class=\"results-found\">%s</span> Results Found"
+msgstr "<span class=“results-found”>%s</span> Resultate gevind"
+
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:313
+msgid "Map"
+msgstr "Kaart"
+
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:334
+msgid "Radius: <span class=\"radi\">%s</span> %s"
+msgstr "Radius: <span class=\"radi\">%s</span> %s"
+
+#: inc/integrations/wp-job-manager/map/class-wp-job-manager-map-template.php:374
+msgid "within a %d %s radius"
+msgstr "binne ’n % d%s radius"
+
+#: inc/integrations/wp-job-manager/map/customizer/class-customizer-controls-map-appearance.php:23
+msgid ""
+"Some color schemes may show/hide extra information. Please <a href=\"#\">read\n"
+"\t\t\t\tmore</a> about creating a custom scheme."
+msgstr "Sommige kleur skemas kan ekstra inligting wys / verberg. Lees asseblief <a href=“#”>meer</a> oor die skep van ’n persoonlike skema."
+
+#: inc/integrations/wp-job-manager/services/class-wp-job-manager-service-guestful.php:7
+msgid "Book with Guestful"
+msgstr "Bespreek met Guestful"
+
+#: inc/integrations/wp-job-manager/services/class-wp-job-manager-service-opentable.php:7
+msgid "Book with OpenTable"
+msgstr "Bespreek met OpenTable"
+
+#: inc/integrations/wp-job-manager/services/class-wp-job-manager-service-resurva.php:7
+msgid "Book with Resurva"
+msgstr "Bespreek met Resurva"
+
+#: inc/integrations/wp-job-manager/templates/form-fields/business-hours-field.php:18
+msgid "Open"
+msgstr "Oop"
+
+#: inc/integrations/wp-job-manager/templates/form-fields/business-hours-field.php:19
+msgid "Close"
+msgstr "Toe"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:13
+msgid "Display a map and results of listings"
+msgstr "Vertoon ’n kaart en resultate van aanbieding lys"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:15
+msgid "Listify - Page: Map"
+msgstr "Listify - Bladsy: Kaart"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:25
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:22
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:27
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:23
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:23
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:25
+#: inc/widgets/class-widget-home-features.php:30
+#: inc/widgets/class-widget-home-features.php:169
+msgid "Description:"
+msgstr "Beskrywing:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:30
+msgid "Display results"
+msgstr "Vertoon Resultate"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-map-listings.php:38
+msgid "Number of listings per page:"
+msgstr "Aantal inskrywings per bladsy:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:10
+msgid "Display a grid of recent or featured listings"
+msgstr "Vertoon ’n rooster van onlangse of vertoonbare aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:12
+msgid "Listify - Page: Recent Listings"
+msgstr "Listify - Bladsy: Onlangse lyste"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:27
+msgid "Show only featured listings"
+msgstr "Wys slegs vertoonbare aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-recent-listings.php:35
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:31
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:28
+msgid "Number to show:"
+msgstr "Aantal om te wys"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:15
+msgid "Display a search form to search listings"
+msgstr "Vertoon ’n soektog vorm na soektog aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:17
+msgid "Listify - Page: Search Listings"
+msgstr "Listify - Bladsy: Soek aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:35
+msgid "Facets:"
+msgstr "Fasette:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-search-listings.php:100
+#: searchform-header.php:12 searchform.php:12
+msgid "Search"
+msgstr "Soek"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:18
+msgid "Display a tabbed layout of listing types"
+msgstr "Vertoon ’n blad uitleg van die lys van tipes"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:20
+msgid "Listify - Page: Tabbed Listings"
+msgstr "Listify - Bladsy: Duimgids aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:33
+msgid "Number per tab:"
+msgstr "Getal per blad:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:38
+msgid "Use Featured listings"
+msgstr "Gebruik vertoonde aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:41
+msgid "Types to Feature:"
+msgstr "Tipe funksie:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-tabbed-listings.php:75
+msgid "See More"
+msgstr "Sien Meer"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:10
+msgid "Display a grid of images for a certain taxonomy"
+msgstr "Vertoon ’n rooster van beelde vir ’n sekere taksonomie"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:12
+msgid "Listify - Page: Image Grid"
+msgstr "Listify - Bladsy: Lys beeld"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:26
+msgid "Style:"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:30
+msgid "Tiled"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:31
+msgid "Square"
+msgstr ""
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:35
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:45
+msgid "Taxonomy:"
+msgstr "Taksonomie:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:46
+msgid "Number of terms to show:"
+msgstr "Aantal terme wat moet wys:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-taxonomy-image-grid.php:51
+msgid "Term IDs: (optional)"
+msgstr "Termyn ID: (opsioneel)"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:10
+msgid "Display lists of listings associated with terms of a given taxonomy."
+msgstr "Vertoon lyste van aanbiedings wat verband hou met die bepalings van ’n gegewe taksonomie."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:12
+msgid "Listify - Page: Term Lists"
+msgstr "Listify - Bladsy: termlyste"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:31
+msgid "Number per list"
+msgstr "Getal per lys"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:34
+msgid "Order By:"
+msgstr "Bestel by:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:38
+msgid "Date"
+msgstr "Datum"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:39
+msgid "Featured"
+msgstr "Vertoon"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:41
+msgid "ID"
+msgstr "ID"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:53
+msgid "Use only featured listings"
+msgstr "Gebruik slegs vertoonde aanbiedinge"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-home-term-lists.php:124
+msgid "More"
+msgstr "Meer"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:10
+msgid "Display the listing's author"
+msgstr "Vertoon die aanbieding se skrywer"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:12
+msgid "Listify - Listing: Author"
+msgstr "Listify - Aanbieding: Outeur "
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:17
+msgid "Descriptor:"
+msgstr "Beskrywer:"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-author.php:22
+msgid "Show biography"
+msgstr "Wys biografie"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:13
+msgid "Display the business hours of the listing."
+msgstr "Vertoon die besigheids-ure van die aanbieding."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-business-hours.php:15
+msgid "Listify - Listing: Business Hours"
+msgstr "Listify - Aanbieding: Besigheids ure"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:13
+msgid "Display the listing comments."
+msgstr "Vertoon die aanbieding se kommentaar."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-comments.php:15
+msgid "Listify - Listing: Reviews"
+msgstr "Listify - Aanbieding: Opinies"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:13
+msgid "Display the listing description."
+msgstr "Vertoon die aanbieding beskrywing."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-content.php:15
+msgid "Listify - Listing: Description"
+msgstr "Listify - Aanbieding: Beskrywing"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:13
+msgid "Display a gallery of images and thumbnails."
+msgstr "Vertoon ’n galery van beelde en duimnaels."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery-slider.php:15
+msgid "Listify - Listing: Photo Gallery Slider"
+msgstr "Listify - Aanbieding: Galery foto glyer"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:10
+msgid "Display the listing photo gallery."
+msgstr "Vertoon die aanbieding foto galery."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-gallery.php:12
+msgid "Listify - Listing: Photo Gallery"
+msgstr "Listify - Aanbieding: Produkt (Sybalk)"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:13
+msgid "Display the listing location and contact details."
+msgstr "Vertoon die aanbieding se ligging en kontakbesonderhede."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:15
+msgid "Listify - Listing: Map & Contact Details"
+msgstr "Listify - Aanbieding: Kaart & Kontakbesonderhede"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:20
+msgid "Display map"
+msgstr "Vertoon kaart"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:25
+msgid "Display address"
+msgstr "Vertoon adres"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:30
+msgid "Display phone number"
+msgstr "Vertoon telefoonnommer"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-map.php:35
+msgid "Display website"
+msgstr "Vertoon webwerf"
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:13
+msgid "Display the listing video."
+msgstr "Vertoon die aanbieding video."
+
+#: inc/integrations/wp-job-manager/widgets/class-widget-job_listing-video.php:15
+msgid "Listify - Listing: Video"
+msgstr "Listify - Aanbieding: Video"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products-main.php:13
+msgid "Display the listings products (main content)"
+msgstr "Vertoon die volledige lys produkte (inhoud)"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products-main.php:15
+msgid "Listify - Listing: Products (Content)"
+msgstr "Listify - Aanbieding: Produkte (inhoud)"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products-main.php:19
+msgid "This widget has no options"
+msgstr "Hierdie widget het geen opsies"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:13
+msgid "Display the listings products (sidebar)"
+msgstr "Vertoon die volledige lys produkte (sybalk)"
+
+#: inc/integrations/wp-job-manager-products/widgets/class-widget-job_listing-products.php:15
+msgid "Listify - Listing: Products (Sidebar)"
+msgstr "Listify - Aanbieding: Products (Sybalk)"
+
+#: inc/integrations/wp-job-manager-reviews/class-wp-job-manager-reviews.php:64
+msgid "<span itemprop=\"reviewCount\">%1$d</span> Review"
+msgid_plural "<span itemprop=\"reviewCount\">%d</span> Reviews"
+msgstr[0] "<span itemprop=“reviewCount”>%1$d</span> Opinie"
+msgstr[1] "<span itemprop=\"reviewCount\">%d</span> Opinies"
+
+#: inc/integrations/wp-job-manager-tags/class-wp-job-manager-tags.php:36
+msgid "%s listing"
+msgid_plural "%s listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job_listing-tags.php:17
+msgid "Display the listing tags."
+msgstr "Vertoon die aanbieding etikette."
+
+#: inc/integrations/wp-job-manager-tags/widgets/class-widget-job_listing-tags.php:19
+msgid "Listify - Listing: Tags"
+msgstr "Listify - aanbieding: etiket"
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:13
+msgid "Display the pricing packages available for listings"
+msgstr "Vertoon die prys pakkette beskikbaar vir aanbiedinge"
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:15
+msgid "Listify - Page: Pricing Table"
+msgstr "Listify - Bladsy: pryse tabel"
+
+#: inc/integrations/wp-job-manager-wc-paid-listings/widgets/class-widget-pricing-table.php:96
+msgid "Get Started Now"
+msgstr "Begin nou"
+
+#: inc/template-tags.php:203
+msgid "Listing Owner"
+msgstr "Aanbieding Eienaar"
+
+#: inc/template-tags.php:211
+msgid "<span class=\"ion-edit\"></span>"
+msgstr "<span class=“ion-edit”></span>"
+
+#: inc/template-tags.php:215
+msgid "Your comment is awaiting moderation."
+msgstr "Jou kommentaar wag vir moderering."
+
+#: inc/template-tags.php:257
+msgid "Post navigation"
+msgstr "Plaas navigasie"
+
+#: inc/widgets/class-widget-ad.php:13
+msgid "Display an advertisement"
+msgstr "Vertoon ’n advertensie"
+
+#: inc/widgets/class-widget-ad.php:15
+msgid "Listify - Standard: Advertisement"
+msgstr "Listify - Standaard: Advertensie"
+
+#: inc/widgets/class-widget-ad.php:31
+msgid "Ad Code:"
+msgstr "Sit ’n kode by:"
+
+#: inc/widgets/class-widget-ad.php:36
+msgid "Remove box around widget"
+msgstr "Verwyder raam rondom widget"
+
+#: inc/widgets/class-widget-home-feature-callout.php:13
+msgid "Display a full-width \"feature\" callout"
+msgstr "Vertoon ’n vol-wydte “funksie” uitroep"
+
+#: inc/widgets/class-widget-home-feature-callout.php:15
+msgid "Listify - Page: Feature Callout"
+msgstr "Listify - Bladsy: Funksie uitroep"
+
+#: inc/widgets/class-widget-home-feature-callout.php:23
+msgid "Text Align:"
+msgstr "Stel teks in lyn"
+
+#: inc/widgets/class-widget-home-feature-callout.php:25
+msgid "Left"
+msgstr "Links"
+
+#: inc/widgets/class-widget-home-feature-callout.php:26
+msgid "Right"
+msgstr "Regs"
+
+#: inc/widgets/class-widget-home-feature-callout.php:27
+msgid "Center (cover only)"
+msgstr "Middel (slegs voorkant)"
+
+#: inc/widgets/class-widget-home-feature-callout.php:33
+msgid "Image Style:"
+msgstr "Beeld styl:"
+
+#: inc/widgets/class-widget-home-feature-callout.php:35
+msgid "Cover"
+msgstr "Voorkant"
+
+#: inc/widgets/class-widget-home-feature-callout.php:36
+msgid "Pull Out"
+msgstr "Trek uit"
+
+#: inc/widgets/class-widget-home-feature-callout.php:42
+msgid "Image Position:"
+msgstr "Beeld posisie"
+
+#: inc/widgets/class-widget-home-feature-callout.php:44
+msgid "Left Top"
+msgstr "Links Bo"
+
+#: inc/widgets/class-widget-home-feature-callout.php:45
+msgid "Left Center"
+msgstr "Links middel"
+
+#: inc/widgets/class-widget-home-feature-callout.php:46
+msgid "Left Bottom"
+msgstr "Links onder"
+
+#: inc/widgets/class-widget-home-feature-callout.php:47
+msgid "Right Top"
+msgstr "Regs bo"
+
+#: inc/widgets/class-widget-home-feature-callout.php:48
+msgid "Right Center"
+msgstr "Regs middel"
+
+#: inc/widgets/class-widget-home-feature-callout.php:49
+msgid "Right Bottom"
+msgstr "Regs onder"
+
+#: inc/widgets/class-widget-home-feature-callout.php:50
+#: inc/widgets/class-widget-home-feature-callout.php:53
+msgid "Center Top"
+msgstr "Middel bo"
+
+#: inc/widgets/class-widget-home-feature-callout.php:51
+msgid "Center Center"
+msgstr "Middel middel"
+
+#: inc/widgets/class-widget-home-feature-callout.php:52
+msgid "Center Bottom"
+msgstr "Middel onder"
+
+#: inc/widgets/class-widget-home-feature-callout.php:59
+msgid "Use transparent overlay"
+msgstr "Gebruik deursigtige oorleg"
+
+#: inc/widgets/class-widget-home-feature-callout.php:64
+msgid "Add standard spacing above/below widget"
+msgstr "Voeg standaard spasiëring bo / onder widget"
+
+#: inc/widgets/class-widget-home-feature-callout.php:69
+msgid "Text Color:"
+msgstr "Teks kleur:"
+
+#: inc/widgets/class-widget-home-feature-callout.php:74
+msgid "Background Color:"
+msgstr "Agtergrond kleur:"
+
+#: inc/widgets/class-widget-home-feature-callout.php:84
+msgid "Content:"
+msgstr "Inhoud"
+
+#: inc/widgets/class-widget-home-feature-callout.php:90
+msgid "Image:"
+msgstr "Beeld:"
+
+#: inc/widgets/class-widget-home-features.php:15
+msgid "Display top features about your site"
+msgstr "Vertoon top funksies oor jou webwerf"
+
+#: inc/widgets/class-widget-home-features.php:17
+msgid "Listify - Page: Features"
+msgstr "Listify - Bladsy: Funksies"
+
+#: inc/widgets/class-widget-home-features.php:66
+msgid "Use Image"
+msgstr "Gebruik Beeld"
+
+#: inc/widgets/class-widget-home-features.php:152
+msgid "Add Feature"
+msgstr "Voeg Funksie by"
+
+#: inc/widgets/class-widget-home-features.php:164
+msgid "Media:"
+msgstr "Media:"
+
+#: job-filters-flat.php:53
+msgid ""
+"Your browser does not support JavaScript, or it is disabled. JavaScript must"
+" be enabled in order to view listings."
+msgstr "Jou blaaier ondersteun nie JavaScript nie, of dit is afgeskakel. Javascript moet geaktiveer word om aanbiedinge te sien."
+
+#: page-templates/template-home.php:95
+msgid "Recent  Listings"
+msgstr "Onlangse aanbiedinge"
+
+#: page-templates/template-home.php:96
+msgid "Take a look at what's been recently added."
+msgstr "Kyk na wat onlangs by gevoeg is."
+
+#: popup-content-single-job_listing-add-photo.php:13
+msgid "Upload Images"
+msgstr "Laai beelde op"
+
+#: popup-content-verified-listing.php:3
+msgid "This listing is being maintained by its rightful owner."
+msgstr "Hierdie aanbieding word onderhou deur sy regmatige eienaar."
+
+#: product-searchform.php:11 searchform-header.php:11 searchform-header.php:12
+#: searchform.php:11 searchform.php:13
+msgid "Search for:"
+msgstr "Soek vir:"
+
+#: sidebar-archive-job_listing.php:17
+msgid "Toggle Sidebar"
+msgstr "Toggle Sybalk"
+
+#: sidebar-single-job_listing.php:25
+msgid "%s Owner"
+msgstr "%s Eienaar"
+
+#: sidebar-single-job_listing.php:34
+msgid "Photo Gallery"
+msgstr "Foto galery"
+
+#: sidebar-single-job_listing.php:46
+msgid "Listing Information"
+msgstr "Aanbiedings informasie"
+
+#: sidebar.php:23
+msgid "Meta"
+msgstr "Meta"
+
+#. Theme Name of the plugin/theme
+msgid "Listify"
+msgstr "Listify"
+
+#. Theme URI of the plugin/theme
+msgid "http://astoundify.com/themes/listify"
+msgstr "http://astoundify.com/themes/listify"
+
+#. Description of the plugin/theme
+msgid "The last directory theme you will ever buy."
+msgstr "Die laaste gids tema wat jy ooit sal koop."
+
+#. Author of the plugin/theme
+msgid "Astoundify"
+msgstr "Astoundify"
+
+#. Author URI of the plugin/theme
+msgid "http://astoundify.com"
+msgstr "http://astoundify.com"
+
+#. Template Name of the plugin/theme
+msgid "Page: Listings"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Full Width (Boxless)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Home (Slider)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Home (Visual Composer)"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Home"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Plans and Pricing"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Sidebar Left"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Layout: Centered Single Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page: Widgetized"
+msgstr ""
+
+#: archive.php:28
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "FY"
+
+#: archive.php:31
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Montserrat, translate this to 'off'. Do not translate into
+#. your
+#. * own language.
+#: functions.php:172
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "Aan"
+
+#: inc/class-strings.php:135
+msgctxt ""
+"the singular \"listing\" label used in permalinks\". only transalte this if "
+"you are using Polylang and need to force the slugs to remain in a single "
+"language."
+msgid "%s"
+msgstr "%s"
+
+#: inc/class-strings.php:136
+msgctxt ""
+"the plural \"listing\" label used in permalinks\". only transalte this if "
+"you are using Polylang and need to force the slugs to remain in a single "
+"language."
+msgid "%s"
+msgstr "%s"
+
+#: inc/class-tgm-plugin-activation.php:1116
+#: inc/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "En"
+
+#: inc/class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Alles <span class=\"count\">(%s)</span>"
+msgstr[1] "Alles <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "Onbekend"
+
+#: inc/class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installeer %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Opdateer %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktiveer %2$s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-gallery.php:10
+msgctxt "gallery endpoint slug"
+msgid "gallery"
+msgstr "Galery"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:744
+msgctxt "search filters submit"
+msgid "Update %s"
+msgstr "Opdateer %s"
+
+#: inc/integrations/wp-job-manager/class-wp-job-manager-template.php:747
+msgctxt "search filters submit"
+msgid "Search %s"
+msgstr "Soek %s"
+
+#: inc/template-tags.php:148
+msgctxt "noun"
+msgid "Menu"
+msgstr "Kieslys:"
+
+#: index.php:19 single.php:12
+msgctxt "blog page title"
+msgid "Blog"
+msgstr "Blog"

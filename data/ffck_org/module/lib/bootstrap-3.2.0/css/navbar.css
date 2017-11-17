@@ -1,0 +1,594 @@
+.container {
+	padding: 10px;
+}
+
+.home {
+	float:left;
+	padding: 7.5px 16px 7.5px 16px;
+	background-color: #5e6278;
+}
+
+.form-control:focus {
+	border: 1px solid #c00;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(204, 0, 0, 0.6);
+  	box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(204, 0, 0, 0.6);
+  	-webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+  	transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+
+.resultats {
+	background-color: #c00;
+}
+
+.navbar-header .glyphicon {
+	color: #fff;
+}
+
+.navbar-brand {
+	margin-top: 7px;
+	width: 115px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+.navbar-brand img {
+	margin-top: -10px;
+}
+
+a {
+	color: #c00;
+}
+
+table a {
+	color:#555;
+	font-size: 9pt;
+}
+
+.table thead > tr > th, .table tbody > tr > th, .table tfoot > tr > th, .table thead > tr > td, .table tbody > tr > td, .table tfoot > tr > td {
+	line-height: 1;
+}
+
+table a:hover {
+	color:#888;
+}
+
+
+footer {
+	background-color: #5D6377;
+	color: #ccc;
+	padding: 20px;
+	text-align: center;
+}
+
+footer p {
+	margin:0;
+	font-size: 11pt;
+}
+
+footer a {
+	font-weight: bold;
+	color:#fff;
+}
+
+footer a:hover {
+	color: #ccc;
+}
+
+footer .footer-small {
+	font-size: 9pt;
+}
+
+.logo-clubesf {
+	display: none;
+}
+
+/* -------- Mobile -------- */
+
+@media (max-width: 767px) {
+
+	nav {
+		padding: 10px;
+	}
+
+	.navbar-collapse.collapse {
+	    height: auto;
+	}
+	
+	.navbar-nav.navbar-collapse {
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+	.navbar-default .navbar-collapse,
+	.navbar-default .navbar-form {
+		margin-top: 10px;
+  		margin-bottom: 10px;
+  	}
+
+  	.navbar ul {
+  		background-color: #eee;
+  		border-radius: 5px;
+  	}
+
+  	.logo-esf {
+  		display: none;
+  	}
+
+  	.stagescompres {
+  		display: none;
+  	}
+
+}
+
+/* -------- Tablette  -------- */
+
+@media (min-width: 768px) and (max-width: 1110px) {
+
+	body {
+		background: #dbdbdb; /* Old browsers */
+		background: -moz-linear-gradient(top,  #dbdbdb 1%, #eaeaea 12%, #fefefe 29%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#dbdbdb), color-stop(12%,#eaeaea), color-stop(29%,#fefefe)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* IE10+ */
+		background: linear-gradient(to bottom,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbdbdb', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+	}
+
+	.container {
+		margin: auto;
+		padding-top: 0px;
+	}
+
+
+	.navbar {
+		border: none;
+	}
+
+	.nav > li {
+	  display: inline-block;
+	}
+
+	.navbar-brand {
+		display: none;
+	}
+
+	.navbar {
+		color: #fff;
+		text-align: center;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.navbar-default .navbar-collapse {
+		border-radius: 0;
+	}
+
+	/*.navbar-default .navbar-collapse,
+	.navbar-default .navbar-form {
+		margin-top: 0;
+		margin-bottom: 0;
+	}*/
+
+	.navbar-nav {
+		font-family: 'arial black', arial;
+	}
+
+	.navbar-nav li {
+		border: none;
+	}
+
+	.navbar-default .navbar-nav > li > a {
+		color: #fff;
+	}
+
+	.navbar-default .navbar-nav > .dropdown > a .caret {
+		border-top-color: #fff;
+		border-bottom-color: #fff;
+		margin-left: 5px;
+	}
+
+	.navbar-default .navbar-nav > li:hover, .navbar-default .navbar-nav > li:focus {
+		color: #555555;
+		background-color: #e7e7e7;
+	}
+
+	.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+		color: #555;
+	}
+
+	.navbar-default .navbar-nav > .dropdown > a:hover .caret, .navbar-default .navbar-nav > .dropdown > a:focus .caret {
+	}
+
+	.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+		color: #555555;
+		background-color: #e7e7e7;
+	}
+
+	.navbar-nav > li > .dropdown-menu {
+		background-color: #e7e7e7;
+		text-align: left;
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.dropdown-menu > li > a {
+		color: #555;
+		font-family: Helvetica, Arial, sans-serif;
+	}
+
+	.navbar-nav .open .dropdown-menu > li > a:hover,
+  	.navbar-nav .open .dropdown-menu > li > a:focus {
+  		background-color: #c00;
+  		color: #fff;
+  	}
+
+  	.dropdown-menu .divider {
+  		background-color: #777;
+  	}
+
+  	h3, h4, h5 {
+		font-family: arial, Helvetica, sans-serif;
+  	}
+
+  	h3 {
+  		margin-top: 30px;
+  	}
+
+  	h4 {
+  		margin-bottom: 20px;
+  	}
+
+  	.navbar-left {
+  		width: 100%;
+  		background-color: #5D6377;
+  		margin-top: 0px;
+  		font-size: 10pt;
+		height: 100px;
+		text-align: right;
+		padding-right: 0px;
+  	}
+
+  	nav > ul {
+  		height: 100px!important;
+  	}
+
+  	.navbar-default .navbar-left li {
+  		height: 80px;
+  		width: 122px;
+  	}
+
+  	.navbar-default .navbar-left > li > a {
+  		color:#D4D6E4;
+  		padding-top: 30px;
+  		padding-left: 0;
+  		padding-right: 0;
+  		margin: auto;
+  		text-align: center;
+  	}
+
+  	.navbar-default .navbar-left > li > a:hover, .navbar-default .navbar-left > li > a:focus {
+  		color: #FFF;
+  	}
+
+  	.navbar-default .navbar-left > li:hover, .navbar-default .navbar-left > li:focus {
+  		background: transparent url('../../img/background_header_main_menu_link.png') 50% 0 no-repeat;
+  	}
+
+  	.navbar-default .navbar-left > .active > a {
+  		background: transparent url('../../img/background_header_main_menu_link.png') 50% 0 no-repeat;
+  		color: #fff;
+  	}
+
+  	.navbar-right {
+		width: 100%;
+		background-color: transparent;
+		float: none;
+		font-size: 9pt;
+		margin-top: 137px;
+		z-index: 77777777;
+	}
+
+	.navbar-right ul {
+		margin-top: 149px;
+		padding-left: 18px;
+	}
+
+	.navbar-right .navbar-nav > li > a {
+		padding-top: 16px;
+		padding-bottom: 15px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.logo-clubesf {
+		height: 100px;
+		margin: 10px;
+		display: inherit;
+		position: absolute;
+		top:20px;
+		left: 5px;
+		z-index: 99999999;
+	}
+
+	.logo-esf {
+		height: 75px;
+		margin: 10px;
+		display: inherit;
+		position: absolute;
+		top: 72px;
+		right: 10px;
+		z-index: 99999999;
+	}
+
+	.stagescompres {
+		height: 35px;
+		width: 100%;
+		background-color: #c00;
+		position: absolute;
+		top: 100px;
+		box-shadow: 0px 4px 4px #888888;
+		text-align: left;
+		padding-left: 250px;
+		padding-top: 5px;
+		font-family: 'Warnock Pro','Goudy Old Style',Palatino,'Book Antiqua',Georgia,serif;
+		font-style: italic;
+		font-size: 14pt;
+		font-weight: bold;
+		z-index: 88888888;
+		padding-bottom: 5px;
+	}
+
+	.header-img {
+		display: inherit;
+		z-index: 66666666;
+		background-image: url('../../img/background_results.png');
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 100%;
+		height: 225px;
+		margin-top: 0;
+		margin-left: auto;
+		margin-right: auto; 
+	}
+
+}
+
+
+/* -------- Desktop  -------- */
+
+@media (min-width: 1111px) {
+
+	body {
+		background: #dbdbdb; /* Old browsers */
+		background: -moz-linear-gradient(top,  #dbdbdb 1%, #eaeaea 12%, #fefefe 29%); /* FF3.6+ */
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#dbdbdb), color-stop(12%,#eaeaea), color-stop(29%,#fefefe)); /* Chrome,Safari4+ */
+		background: -webkit-linear-gradient(top,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* Chrome10+,Safari5.1+ */
+		background: -o-linear-gradient(top,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* Opera 11.10+ */
+		background: -ms-linear-gradient(top,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* IE10+ */
+		background: linear-gradient(to bottom,  #dbdbdb 1%,#eaeaea 12%,#fefefe 29%); /* W3C */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbdbdb', endColorstr='#fefefe',GradientType=0 ); /* IE6-9 */
+	}
+
+	.container {
+		margin: auto;
+		padding-top: 0px;
+	}
+
+
+	.navbar {
+		border: none;
+	}
+
+	nav > ul {
+  		height: 100px!important;
+  	}
+
+	.nav > li {
+	  display: inline-block;
+	}
+
+	.navbar-brand {
+		display: none;
+	}
+
+	.navbar {
+		color: #fff;
+		text-align: center;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.navbar-default .navbar-collapse {
+		border-radius: 0;
+	}
+
+	/*.navbar-default .navbar-collapse,
+	.navbar-default .navbar-form {
+		margin-top: 0;
+		margin-bottom: 0;
+	}*/
+
+	.navbar-nav {
+		font-family: 'arial black', arial;
+	}
+
+	.navbar-nav li {
+		border: none;
+	}
+
+	.navbar-default .navbar-nav > li > a {
+		color: #fff;
+	}
+
+	.navbar-default .navbar-nav > .dropdown > a .caret {
+		border-top-color: #fff;
+		border-bottom-color: #fff;
+		margin-left: 5px;
+	}
+
+	.navbar-default .navbar-nav > li:hover, .navbar-default .navbar-nav > li:focus {
+		color: #555555;
+		background-color: #e7e7e7;
+	}
+
+	.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+		color: #555;
+	}
+
+	.navbar-default .navbar-nav > .dropdown > a:hover .caret, .navbar-default .navbar-nav > .dropdown > a:focus .caret {
+	}
+
+	.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+		color: #555555;
+		background-color: #e7e7e7;
+	}
+
+	.navbar-nav > li > .dropdown-menu {
+		background-color: #e7e7e7;
+		text-align: left;
+		padding-left: 8px;
+		padding-right: 8px;
+	}
+
+	.dropdown-menu > li > a {
+		color: #555;
+		font-family: Helvetica, Arial, sans-serif;
+	}
+
+	.navbar-nav .open .dropdown-menu > li > a:hover,
+  	.navbar-nav .open .dropdown-menu > li > a:focus {
+  		background-color: #c00;
+  		color: #fff;
+  	}
+
+  	.dropdown-menu .divider {
+  		background-color: #777;
+  	}
+
+  	h3, h4, h5 {
+		font-family: arial, Helvetica, sans-serif;
+  	}
+
+  	h3 {
+  		margin-top: 30px;
+  	}
+
+  	h4 {
+  		margin-bottom: 20px;
+  	}
+
+  	.navbar-left {
+  		width: 100%;
+  		background-color: #5D6377;
+  		margin-top: 0px;
+  		font-size: 10pt;
+		height: 100px;
+		text-align: right;
+		padding-right: 170px; 
+  	}
+
+  	.navbar-default .navbar-left li {
+  		height: 80px;
+  		width: 122px;
+  	}
+
+  	.navbar-default .navbar-left > li > a {
+  		color:#D4D6E4;
+  		padding-top: 30px;
+  		padding-left: 0;
+  		padding-right: 0;
+  		margin: auto;
+  		text-align: center;
+  	}
+
+  	.navbar-default .navbar-left > li > a:hover, .navbar-default .navbar-left > li > a:focus {
+  		color: #FFF;
+  	}
+
+  	.navbar-default .navbar-left > li:hover, .navbar-default .navbar-left > li:focus {
+  		background: transparent url('../../img/background_header_main_menu_link.png') 50% 0 no-repeat;
+  	}
+
+  	.navbar-default .navbar-left > .active > a {
+  		background: transparent url('../../img/background_header_main_menu_link.png') 50% 0 no-repeat;
+  		color: #fff;
+  	}
+
+  	.navbar-right {
+		width: 100%;
+		background-color: transparent;
+		float: none;
+		font-size: 9pt;
+		margin-top: 137px;
+		z-index: 77777777;
+	}
+
+	.navbar-right ul {
+		margin-top: 149px;
+		padding-left: 18px;
+	}
+
+	.navbar-right .navbar-nav > li > a {
+		padding-top: 16px;
+		padding-bottom: 15px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.logo-clubesf {
+		height: 100px;
+		margin: 10px;
+		display: inherit;
+		position: absolute;
+		top:20px;
+		left: 170px;
+		z-index: 99999999;
+	}
+
+	.logo-esf {
+		height: 75px;
+		margin: 10px;
+		display: inherit;
+		position: absolute;
+		top: 72px;
+		right: 170px;
+		z-index: 99999999;
+	}
+
+	.stagescompres {
+		height: 35px;
+		width: 100%;
+		background-color: #c00;
+		position: absolute;
+		top: 100px;
+		box-shadow: 0px 4px 4px #888888;
+		text-align: left;
+		padding-left: 450px;
+		padding-top: 5px;
+		font-family: 'Warnock Pro','Goudy Old Style',Palatino,'Book Antiqua',Georgia,serif;
+		font-style: italic;
+		font-size: 14pt;
+		font-weight: bold;
+		z-index: 88888888;
+		padding-bottom: 5px;
+	}
+
+	.header-img {
+		display: inherit;
+		z-index: 66666666;
+		background-image: url('../../img/background_results.png');
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 100%;
+		height: 225px;
+		margin-top: 0;
+		margin-left: auto;
+		margin-right: auto; 
+	}
+
+}

@@ -1,0 +1,31 @@
+#sarbacane_desktop_content {
+	width: 100%; height: 100%; color: #4C5261; font-size: 1em;
+}
+/* HEADER */
+.sarbacane_desktop_logo {
+	width: 318px; height: 45px; background-image: url('../images/sd.png'); background-position: -150px -99px; background-repeat: no-repeat;
+}
+
+.sarbacane_desktop_div_splitter {
+	width: 100%; height: 6px; border-top: solid 1px #D1D1D3; margin-top: 20px; margin-bottom: 20px; clear: both;
+}
+
+.mailify_logo {
+	width: 195px; height: 60px; background-image: url('../images/sd.png'); background-position: -470px -95px; background-repeat: no-repeat;
+}
+
+.sarbacane_desktop_configuration_button {
+	background-color: #808080; border: medium none; color: white; cursor: pointer; padding: 10px 20px; font-size: 14px; display: inline-block;
+}
+
+.sarbacane_desktop_configuration_button_green {
+	background-color: #78A13A;
+}
+
+.sarbacane_desktop_configuration_button_container {
+	text-align: right;
+}
+
+#sarbacane_desktop_configuration_footer {
+	background-color: #363636; height: 60px; color: white; padding: 10px;
+}
